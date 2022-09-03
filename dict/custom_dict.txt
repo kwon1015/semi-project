@@ -1,0 +1,14843 @@
+(-;	NNP
+(;_;)	NNP
+(^^)	NNP
+(^-^)	NNP
+(^^*	NNP
+(^_^)	NNP
+(^_^;	NNP
+(^o^)	NNP
+(-_-)	NNP
+(T_T)	NNP
+(ㅡㅡ)	NNP
+)-:	NNP
+*^^*	NNP
+/^o^\	NNP
+:(	NNP
+:'-(	NNP
+:-(	NNP
+:)	NNP
+:-)	NNP
+:/	NNP
+:|	NNP
+:D	NNP
+:-D	NNP
+:p	NNP
+:-P	NNP
+;	NNP
+;)	NNP
+;-)	NNP
+;ㅅ;	NNP
+^///^	NNP
+^^	NNP
+^^//	NNP
+^-^;	NNP
+^-^;;	NNP
+^-^;;;;;	NNP
+-_-^	NNP
+<3	NNP
+=)	NNP
+8-)	NNP
+B-)	NNP
+XD	NNP
+ㄱㅅ	NNP
+ㄱㅇㄷ	NNP
+가격이 싸다	NNP
+가까스로	NNP
+가까이 사귀어	NNP
+가까이하다	NNP
+가꾸러뜨리다	NNP
+가꾸러트리다	NNP
+가난	NNP
+가난뱅이	NNP
+가난살이	NNP
+가난살이하다	NNP
+가난설음	NNP
+가난에	NNP
+가난에 쪼들려서	NNP
+가난하게	NNP
+가난하고	NNP
+가난하고 어렵다	NNP
+가난하고 천한	NNP
+가난하다	NNP
+가난하여	NNP
+가난한	NNP
+가난한 데다가	NNP
+가난한 사람을	NNP
+가난히	NNP
+가년스럽다	NNP
+가념하다	NNP
+가녕스럽다	NNP
+가누기 어려워하다	NNP
+가누지 못하고	NNP
+가누지 못하다	NNP
+가누지 못할	NNP
+가누지 못할 정도로	NNP
+가누지 못함	NNP
+가눌 수 없게	NNP
+가눌 수 없을	NNP
+가눌 수 없이	NNP
+가능성이 늘어나다	NNP
+가능성이 있다고	NNP
+가능하다	NNP
+가닐가닐하다	NNP
+가다듬어	NNP
+가다듬어 수습하는	NNP
+가다듬어 수습하다	NNP
+가다듬어 정하다	NNP
+가당찮다	NNP
+가당찮이	NNP
+가당히	NNP
+가두거나	NNP
+가두거나 해치거나	NNP
+가드올려	NNP
+가뜬하게	NNP
+가라앉다	NNP
+가라앉지 않은	NNP
+가라앉혀 바로잡다	NNP
+가래	NNP
+가래 따위가	NNP
+가래가	NNP
+가래가 섞인	NNP
+가량맞고	NNP
+가량맞고 야살스러운	NNP
+가량맞고 야살스러움	NNP
+가려서 좋아하다	NNP
+가려운	NNP
+가려운 느낌이	NNP
+가려운 증상을	NNP
+가련하게	NNP
+가련하게 여기다	NNP
+가련하게 여김	NNP
+가련한	NNP
+가련한 듯하다	NNP
+가렵고	NNP
+가로막아서	NNP
+가로채서	NNP
+가로채어	NNP
+가르치며	NNP
+가르침	NNP
+가르침을 받아	NNP
+가리지 못하다	NNP
+가리지 않고	NNP
+가마득하다	NNP
+가만있지 못하고	NNP
+가망 없는	NNP
+가망이 없게	NNP
+가벼운 마음으로	NNP
+가벼운 말이나	NNP
+가벼운 상처	NNP
+가벼운 슬픔	NNP
+가벼운 행동으로	NNP
+가볍게	NNP
+가볍게 까부는	NNP
+가볍게 까불다	NNP
+가볍게 쑤시듯	NNP
+가볍게 웃다	NNP
+가볍게 채신없이	NNP
+가볍게 행동하거나	NNP
+가볍게 행동하는	NNP
+가볍게 행동하다	NNP
+가볍고	NNP
+가볍고 보드랍게	NNP
+가볍고 상쾌하다	NNP
+가볍고 상쾌한	NNP
+가볍고 시원하게	NNP
+가볍고 편안하게	NNP
+가볍고 환하게	NNP
+가분가분	NNP
+가분히	NNP
+가뿐가뿐	NNP
+가뿐가뿐하다	NNP
+가뿐가뿐히	NNP
+가뿐하게	NNP
+가뿐하다	NNP
+가뿐한	NNP
+가뿐한 느낌	NNP
+가뿐한 느낌이	NNP
+가뿐히	NNP
+가쁘게	NNP
+가쁘게 쉬다	NNP
+가쁘고	NNP
+가쁘고 거칠게	NNP
+가쁘고 급하게	NNP
+가쁜	NNP
+가쁜 증상	NNP
+가살스럽다	NNP
+가소롭게	NNP
+가소롭다	NNP
+가스 중독이나	NNP
+가슴 아파하다	NNP
+가슴 아파함	NNP
+가슴 아프게	NNP
+가슴 아프고	NNP
+가슴 아프다	NNP
+가슴속에 근심이나	NNP
+가슴앓이	NNP
+가슴앓이하다	NNP
+가슴이 갑갑할	NNP
+가슴이 괴롭거나	NNP
+가슴이 그득한	NNP
+가슴이 답답하고	NNP
+가슴이 답답하다	NNP
+가슴이 답답하며	NNP
+가슴이 답답하여	NNP
+가슴이 답답한	NNP
+가슴이 답답해진다	NNP
+가슴이 아프다	NNP
+가슴이 아픈	NNP
+가슴이 울렁거리는	NNP
+가슴이 울렁거리다	NNP
+가슴이 찢어질	NNP
+가습이 답답하고	NNP
+가엽다	NNP
+가엾게	NNP
+가엾게 여겨	NNP
+가엾게 여기다	NNP
+가엾고	NNP
+가엾고 불쌍하다	NNP
+가엾고 불쌍하여	NNP
+가엾고 불쌍한	NNP
+가엾고 불쌍함	NNP
+가엾고 애처롭다	NNP
+가엾다	NNP
+가운데에서 뛰어남	NNP
+가위눌리다	NNP
+가음 아프고	NNP
+가장 거룩한	NNP
+가장 뛰어나	NNP
+가장 뛰어난	NNP
+가장 올바르게	NNP
+가장 좋은	NNP
+가장 중요한	NNP
+가증맞다	NNP
+가증스럽다	NNP
+가지런하게 하는	NNP
+가지런하게 하다	NNP
+가지런하다	NNP
+가지런하지 아니하다	NNP
+가지런하지 아니한	NNP
+가짜	NNP
+가책이 되어	NNP
+가치	NNP
+가치 없는	NNP
+가치 있는	NNP
+가치 있다	NNP
+가치가	NNP
+가치가 없다	NNP
+가치가 없을	NNP
+가치가 없이	NNP
+가치가 있다	NNP
+가치를 믿다	NNP
+가치를 인정하다	NNP
+가치보다 비싼	NNP
+가치없는	NNP
+가치있는	NNP
+가치작거리는	NNP
+가치작거리는 모양	NNP
+가치작거리는 소리	NNP
+가탈스럽다	NNP
+가혹하게	NNP
+가혹하게 착취하여	NNP
+각근하지 못하여	NNP
+각별나다	NNP
+각별하다	NNP
+간 장애	NNP
+간 질환의	NNP
+간드러진	NNP
+간드러진 느낌이	NNP
+간사스럽게	NNP
+간사스럽게 행동하는	NNP
+간사스럽게 행동하다	NNP
+간사하고	NNP
+간사하다	NNP
+간사한	NNP
+간사한 사람이나	NNP
+간사한 짓을	NNP
+간섭받고	NNP
+간섭하거나	NNP
+간섭하거나 방해하여	NNP
+간섭하고	NNP
+간섭하다	NNP
+간섭하여	NNP
+간신히 짜내는	NNP
+간절하다	NNP
+간지러워서	NNP
+간지럽게	NNP
+간지럽고	NNP
+간지럽고 자릿한	NNP
+간직하다	NNP
+간직하지 아니하고	NNP
+간질	NNP
+간질간질하다	NNP
+간질간질한	NNP
+간질간질한 느낌	NNP
+간편하거나	NNP
+간편하다	NNP
+갈강병균이	NNP
+갈라서다	NNP
+갈라지는 피부병	NNP
+갈색굳음병	NNP
+갈증이 나고	NNP
+갈증이 심하게	NNP
+갈팡질팡	NNP
+갈팡질팡하다	NNP
+갈팡질팡하며	NNP
+갈피를 잡을 수 없다	NNP
+갈피를 잡지 못하고	NNP
+갈피를 잡지 못하고 이리저리 헤매는 모양	NNP
+갈피를 잡지 못하는	NNP
+갈피를 잡지 못하다	NNP
+감각이 둔하고	NNP
+감각이 마비되고	NNP
+감각적이다	NNP
+감감히	NNP
+감개무량하다	NNP
+감격	NNP
+감격성	NNP
+감격스럽다	NNP
+감격스레	NNP
+감격이	NNP
+감격적	NNP
+감격하다	NNP
+감격하여	NNP
+감금하여	NNP
+감기	NNP
+감기가	NNP
+감기가 들어	NNP
+감기나	NNP
+감기나 천식	NNP
+감기로	NNP
+감기로 인하여	NNP
+감당하다	NNP
+감동	NNP
+감동시킬	NNP
+감동시킬 만한	NNP
+감동을 받아	NNP
+감동을 일으킬	NNP
+감동을 주거나	NNP
+감동이	NNP
+감동이 되는	NNP
+감동이나	NNP
+감동이나 고마움을	NNP
+감동하는	NNP
+감동하다	NNP
+감동하여	NNP
+감동함	NNP
+감명되다	NNP
+감명적	NNP
+감명하다	NNP
+감모	NNP
+감미롭다	NNP
+감병	NNP
+감복하다	NNP
+감복하여	NNP
+감사	NNP
+감사를 표하다	NNP
+감사하는	NNP
+감사하는 마음으로	NNP
+감사하다	NNP
+감싸고	NNP
+감싸고 달래다	NNP
+감옥	NNP
+감옥에	NNP
+감정 사납게	NNP
+감정을 건드려	NNP
+감정의 불화	NNP
+감정이 거칠어져	NNP
+감정이 북받쳐	NNP
+감칠맛이 있을	NNP
+감탄	NNP
+감탄스러울	NNP
+감탄스러울 때	NNP
+감탄스럽다	NNP
+감탄적으로	NNP
+감탄하다	NNP
+감탄할	NNP
+감탄할 때	NNP
+감회가 새롭거나	NNP
+감회에 젖음	NNP
+갑갑궁금하다	NNP
+갑갑하고 궁금하다	NNP
+갑갑하다	NNP
+갑갑한	NNP
+갑갑한 증상	NNP
+갑갑할	NNP
+갑갑할 정도로	NNP
+갑분띠	NNP
+갑분싸	NNP
+갑자기 게우는	NNP
+갑자기 놀라거나	NNP
+갑자기 놀라서	NNP
+갑자기 무섭거나	NNP
+갑자기 분별없이	NNP
+갑자기 서늘한	NNP
+갑자기 서늘한서늘한 느낌이	NNP
+갑자기 성을	NNP
+갑자기 소란스럽게	NNP
+갑자기 소름이	NNP
+갑자기 어지러워	NNP
+갑작스러워 두렵거나	NNP
+갑작스럽게 화를	NNP
+값을 매길 수 없을 만큼	NNP
+값진	NNP
+강간죄	NNP
+강개무량	NNP
+강개무량하다	NNP
+강구하다	NNP
+강도가	NNP
+강등하여	NNP
+강렬하게	NNP
+강박	NNP
+강박하여	NNP
+강세	NNP
+강인하다	NNP
+강인한	NNP
+강제로	NNP
+강제로 누르는	NNP
+강제로 누르다	NNP
+강제로 누름	NNP
+강제로 빼앗는	NNP
+강제로 빼앗다	NNP
+강제로 빼앗아	NNP
+강제로 빼앗음	NNP
+강제로 요구하다	NNP
+강제적으로	NNP
+강추	NNP
+강탈	NNP
+강탈하다	NNP
+강퇴	NNP
+강하게	NNP
+강하게 만들다	NNP
+강하게 하다	NNP
+강하고	NNP
+강하고 야무지게	NNP
+강하고 야무지다	NNP
+강하고 튼튼하게	NNP
+강하다	NNP
+강한 비판이나	NNP
+강한 충격을	NNP
+강화하다	NNP
+갖지 아니하게	NNP
+갖추다	NNP
+갖추지 못한	NNP
+같잖다	NNP
+같잖아서	NNP
+같잖아서 우스운	NNP
+같잖은	NNP
+같잖은 꼴로	NNP
+갚지 않다	NNP
+개가 무섭거나	NNP
+개가 아프거나	NNP
+개선	NNP
+개선 방도를	NNP
+개선하고	NNP
+개선하다	NNP
+개선함	NNP
+개성	NNP
+개성있는	NNP
+개성있다	NNP
+개운치 않거나	NNP
+개운하게	NNP
+개운하고	NNP
+개운하고 시원한	NNP
+개운하고 홀가분해지다	NNP
+개운하다	NNP
+개운하지 않고	NNP
+개으름을	NNP
+개이득	NNP
+개짓하다	NNP
+개회하다	NNP
+갠소	NNP
+갸륵한	NNP
+갸륵한 데가	NNP
+갸름하다	NNP
+거꾸러뜨리다	NNP
+거꾸로 넘어지거나	NNP
+거두지 못한	NNP
+거드럭거드럭	NNP
+거드럭거리다	NNP
+거들먹거들먹	NNP
+거들먹거들먹하다	NNP
+거들먹거리다	NNP
+거들먹대다	NNP
+거들먹이다	NNP
+거듭 따뜻이	NNP
+거듭 죄를	NNP
+거뜬하다	NNP
+거래가 금지된	NNP
+거룩한	NNP
+거룩한 모습	NNP
+거룩한 사람	NNP
+거리끼어	NNP
+거리낌 없이	NNP
+거만스럽게	NNP
+거만을	NNP
+거만을 떠는	NNP
+거만을 떨다	NNP
+거만하게	NNP
+거만하게 행동하는	NNP
+거만하게 행동하다	NNP
+거만하고	NNP
+거만하다	NNP
+거만한	NNP
+거만한 태도로	NNP
+거무스름한 피고름이	NNP
+거볍게 까부는	NNP
+거볍게 성을	NNP
+거볍게 채신없이	NNP
+거볍게 행동하거나	NNP
+거볍게 행동하는	NNP
+거볍게 행동하다	NNP
+거볍고 온화하게	NNP
+거부감	NNP
+거부감 없이	NNP
+거부하거나	NNP
+거부하다	NNP
+거북스럽게	NNP
+거북스럽게 저는	NNP
+거북스럽게 절다	NNP
+거북하거나	NNP
+거북하거나 괴로움	NNP
+거북하거나 괴롭다	NNP
+거북하거나 더럽고	NNP
+거북하게	NNP
+거북하고	NNP
+거북하고 불편한	NNP
+거북하고 주체스럽게	NNP
+거북하다	NNP
+거북한	NNP
+거북한 모양	NNP
+거북한 상태로	NNP
+거북한 소리가	NNP
+거북할	NNP
+거북할 만큼	NNP
+거세고	NNP
+거세고 급하다	NNP
+거슬려	NNP
+거슬려 불쾌하다	NNP
+거슬리거나	NNP
+거슬리거나 마음이	NNP
+거슬리게	NNP
+거슬리게 싫다	NNP
+거슬리는	NNP
+거슬리는 느낌이	NNP
+거슬리다	NNP
+거슬림이 없이	NNP
+거역하다	NNP
+거역함	NNP
+거의 없다	NNP
+거절하거나	NNP
+거절하거나 싫다는	NNP
+거절하다	NNP
+거짓	NNP
+거짓 없다	NNP
+거짓말	NNP
+거짓말을	NNP
+거짓없다	NNP
+거짓으로	NNP
+거짓으로 감정이나	NNP
+거짓으로 꾸며서	NNP
+거짓으로 꾸미는	NNP
+거짓으로 꾸미다	NNP
+거짓으로 꾸민	NNP
+거짓으로 속이다	NNP
+거짓으로 속임	NNP
+거짓을 버리고	NNP
+거짓이 없고	NNP
+거짓이 없다	NNP
+거짓이 없이	NNP
+거짓이나	NNP
+거추장스러워서	NNP
+거추장스러워서 거슬리거나	NNP
+거추장스럽거나	NNP
+거추장스럽거나 성가시어	NNP
+거추장스럽게	NNP
+거추장스럽게 걸리거나	NNP
+거추장스럽다	NNP
+거추장스레	NNP
+거치적거리는	NNP
+거치적거리는 소리	NNP
+거치적거치적	NNP
+거치적거치적하다	NNP
+거친	NNP
+거친 데가	NNP
+거친 말로	NNP
+거친 모양	NNP
+거친 목소리로	NNP
+거친 성질이나	NNP
+거친 소리가	NNP
+거칠거나 사납게	NNP
+거칠게	NNP
+거칠게 나는	NNP
+거칠게 된	NNP
+거칠게 말다툼하다	NNP
+거칠게 말함	NNP
+거칠게 몰아쉬는	NNP
+거칠게 몰아쉬다	NNP
+거칠게 소리가	NNP
+거칠게 쉬는	NNP
+거칠게 울려	NNP
+거칠게 일다	NNP
+거칠게 잇따라	NNP
+거칠게 행동하는	NNP
+거칠게 행동하다	NNP
+거칠고	NNP
+거칠고 가쁘게	NNP
+거칠고 격한	NNP
+거칠고 깔끄럽게	NNP
+거칠고 껄끄럽게	NNP
+거칠고 나쁘다	NNP
+거칠고 무뚝뚝하다	NNP
+거칠고 사나우며	NNP
+거칠고 세차다	NNP
+거칠고 심하다	NNP
+거칠고 험하게	NNP
+거칠고 험한	NNP
+거칠다	NNP
+거칠면서	NNP
+거칠면서 가쁘고	NNP
+거칠어져	NNP
+거침새가 없고	NNP
+거침없이	NNP
+거침이 없는	NNP
+걱정	NNP
+걱정 같은	NNP
+걱정 따위로	NNP
+걱정 없이	NNP
+걱정거리	NNP
+걱정과	NNP
+걱정과 근심	NNP
+걱정되거나	NNP
+걱정스러워서	NNP
+걱정스럽거나	NNP
+걱정스럽거나 조바심이	NNP
+걱정스럽다	NNP
+걱정으로	NNP
+걱정을	NNP
+걱정이	NNP
+걱정이 되거나	NNP
+걱정이 되는	NNP
+걱정이 되어	NNP
+걱정이 없고	NNP
+걱정이 없는	NNP
+걱정이나	NNP
+걱정이나 근심	NNP
+걱정이나 근심에	NNP
+걱정이나 언짢은	NNP
+걱정인 해를	NNP
+걱정하기는	NNP
+걱정하기는 하나	NNP
+걱정하는	NNP
+걱정하는 게	NNP
+걱정하다	NNP
+건강에 긍정적인	NNP
+건강에 좋은	NNP
+건강에 해로운	NNP
+건강하고	NNP
+건강하고 온전하다	NNP
+건강하고 온전한	NNP
+건강하다	NNP
+건강하여	NNP
+건강하여 아름다운	NNP
+건강하지 못하다	NNP
+건강한	NNP
+건달처럼	NNP
+건둥건둥	NNP
+건둥건둥하다	NNP
+건둥반둥하다	NNP
+건드려 귀찮게	NNP
+건들거리고	NNP
+건들거리고 벙글거리며	NNP
+건들건들	NNP
+건들건들 지내다	NNP
+건들대다	NNP
+건망증이	NNP
+건망증이 심하며	NNP
+건방져	NNP
+건방지게	NNP
+건방지게 행동하다	NNP
+건방지네	NNP
+건방지다	NNP
+건방지며	NNP
+건방진	NNP
+건방짐	NNP
+건성 기침	NNP
+건성으로	NNP
+건성으로 묻다	NNP
+건장하다	NNP
+건장한	NNP
+건장한 모양	NNP
+건전하고	NNP
+건전하고 착실한	NNP
+건전하지 못하고	NNP
+건전하지 못한	NNP
+건전하지 아니하게	NNP
+건전한	NNP
+건전함	NNP
+건정히	NNP
+걷지 못하고	NNP
+걷지 못하는	NNP
+걸리거나	NNP
+걸리거나 막히는	NNP
+걸리다	NNP
+걸리적대다	NNP
+걸핏하면	NNP
+검사에 불합격한	NNP
+검소하다	NNP
+검소한	NNP
+검은 티끌이라는	NNP
+검질기게 구는	NNP
+검질기게 굴다	NNP
+겁	NNP
+겁나게	NNP
+겁나게 하기	NNP
+겁나다	NNP
+겁내다	NNP
+겁에	NNP
+겁에 지리다	NNP
+겁에 질려	NNP
+겁에 질려서	NNP
+겁에 질리거나	NNP
+겁을	NNP
+겁을 내거나	NNP
+겁을 내다	NNP
+겁을 먹거나	NNP
+겁을 먹어	NNP
+겁을 주며	NNP
+겁이 나거나	NNP
+겁이 나서	NNP
+겁이 많고	NNP
+겁이 많다	NNP
+겁이 많아	NNP
+겁이 많은	NNP
+겁이 많음	NNP
+겁자기 부서지거나	NNP
+겁쟁이	NNP
+것같이 아프다	NNP
+것보다 낫다	NNP
+것을 샘하여	NNP
+것을 짓밟다	NNP
+것이 거북하거나	NNP
+것이 깨끗하고	NNP
+것이 해결되어	NNP
+겉만 그럴듯한	NNP
+겉면이 매끄럽고	NNP
+겉모양의 아름다움과	NNP
+겉치레	NNP
+게걸스럽게	NNP
+게걸스럽게 돌아다니는	NNP
+게걸스럽게 돌아다니다	NNP
+게우는	NNP
+게우는 소리	NNP
+게우는 소리가	NNP
+게울	NNP
+게울 듯이	NNP
+게워	NNP
+게워 내는	NNP
+게워 내다	NNP
+게으르거나	NNP
+게으르게	NNP
+게으르게 놀며	NNP
+게으르게 행동하는	NNP
+게으르게 행동하다	NNP
+게으르고	NNP
+게으르다	NNP
+게으름	NNP
+게으름을	NNP
+게으름을 피우며	NNP
+게으름이	NNP
+게으름이 나는	NNP
+게으름이나	NNP
+게으름이나 싫증	NNP
+게을러빠지다	NNP
+게을러터지다	NNP
+게을리하지 않고	NNP
+겐트위한	NNP
+겨를이 없음	NNP
+겨우 빠듯하게	NNP
+겨우겨우	NNP
+겨우겨우 살기를	NNP
+겨운	NNP
+겨운 일에	NNP
+격노	NNP
+격노하다	NNP
+격동시키다	NNP
+격려되다	NNP
+격려하다	NNP
+격분	NNP
+격분하다	NNP
+격식에 맞아	NNP
+격식을 갖추지 않고	NNP
+격에 어울리지	NNP
+격하게	NNP
+격하게 되다	NNP
+격하다	NNP
+격하시키다	NNP
+격한	NNP
+격한 감정이	NNP
+격한 기운이	NNP
+격한 느낌이	NNP
+겪거나 불쌍한	NNP
+견고하다	NNP
+견디기 어렵게	NNP
+견디기가 어려울	NNP
+견디어 내다	NNP
+견딜 수 없는	NNP
+견줄 수 없을 정도로	NNP
+결기가	NNP
+결기가 나다	NNP
+결단성 없다	NNP
+결단성 없이	NNP
+결단성이 없고	NNP
+결단성이 없다	NNP
+결단을 못 내리는	NNP
+결딴날	NNP
+결딴날 듯이	NNP
+결막염	NNP
+결석	NNP
+결석하다	NNP
+결심 없이	NNP
+결점	NNP
+결점이 없도록	NNP
+결정을 못하고	NNP
+결정하지 못하고	NNP
+결정하지 못하는	NNP
+결정하지 못하다	NNP
+결정하지 못함	NNP
+결핍	NNP
+결핍증	NNP
+결함	NNP
+결함을	NNP
+결함을 드러내어	NNP
+결함을 들추어	NNP
+결함을 풍자하였다	NNP
+결함이 없이	NNP
+결함이 있다	NNP
+결함이나	NNP
+결함이나 잘못	NNP
+결함이나 잘못에	NNP
+결핵	NNP
+겸손하게	NNP
+겸손하게 이르는	NNP
+겸손하고	NNP
+겸손하고 예의	NNP
+겸손하고 예의 바른	NNP
+겸손하다	NNP
+겸손한	NNP
+겸연쩍고	NNP
+겸연쩍다	NNP
+겹거나	NNP
+겹게	NNP
+겹게 여기다	NNP
+경건하다	NNP
+경건한	NNP
+경련	NNP
+경련을 일으키다	NNP
+경련이	NNP
+경련이 일어나	NNP
+경망스러우며	NNP
+경망스러우며 추잡하다	NNP
+경망스러운	NNP
+경망스러운 여자를	NNP
+경망스럽게	NNP
+경망스럽게 까부는	NNP
+경망스럽게 내어	NNP
+경망스럽게 내흔들거나	NNP
+경망스럽게 놀려	NNP
+경망스럽게 덤비며	NNP
+경망스럽게 떠벌리는	NNP
+경망스럽게 이리저리	NNP
+경망스럽게 추켰다	NNP
+경망스럽게 행동하는	NNP
+경망스럽게 행동하다	NNP
+경망스럽고	NNP
+경망스럽고 가볍게	NNP
+경망스럽고 방정맞은	NNP
+경망스럽다	NNP
+경망하게	NNP
+경망하게 행동하는	NNP
+경망하게 행동하다	NNP
+경망한	NNP
+경망한 짓	NNP
+경멸	NNP
+경멸하다	NNP
+경멸히	NNP
+경멸히 여겨	NNP
+경박스럽게	NNP
+경박스럽게 함부로	NNP
+경박하게	NNP
+경박하다	NNP
+경박한	NNP
+경박한 행동을	NNP
+경사스러운	NNP
+경사스러운 일을	NNP
+경상	NNP
+경솔하게	NNP
+경솔하게 까부는	NNP
+경솔하게 말하며	NNP
+경솔하게 행동하는	NNP
+경솔하게 행동하다	NNP
+경솔하게 행동하여	NNP
+경솔하고	NNP
+경솔하고 방정맞게	NNP
+경솔하다	NNP
+경솔한	NNP
+경솔한 모양	NNP
+경이로운	NNP
+경이롭다	NNP
+경치 좋은	NNP
+경치가 뛰어나거나	NNP
+경치가 맑고	NNP
+경치가 아름다움을	NNP
+경치가 아름답다	NNP
+경치가 좋거나	NNP
+경치도 좋음	NNP
+경치를 즐기는	NNP
+경쾌하다	NNP
+경험이 많고	NNP
+경험이 적거나	NNP
+경황이 없어	NNP
+계급을 올림	NNP
+계급이 오름	NNP
+계속 게워	NNP
+계속 공허하다	NNP
+계속 공허한	NNP
+계속 까부는	NNP
+계속 까불다	NNP
+계속 놀리다	NNP
+계속 다투다	NNP
+계속 떠들어	NNP
+계속 밉살스럽게	NNP
+계속 부정하다	NNP
+계속 불평을	NNP
+계속 서운하다	NNP
+계속 서운한	NNP
+계속 성을	NNP
+계속 아첨하는	NNP
+계속 어지럽고	NNP
+계속 쩔쩔매거나	NNP
+계속 토할	NNP
+계속 헤프게	NNP
+계속 흥겹게	NNP
+고결 함	NNP
+고결한 풍채를	NNP
+고귀한	NNP
+고귀한 사람	NNP
+고급	NNP
+고급스럽다	NNP
+고급지다	NNP
+고까워하는	NNP
+고까워하는 데가	NNP
+고까워하는 태도가	NNP
+고까워하는 태도를	NNP
+고난	NNP
+고단하다	NNP
+고단하여	NNP
+고달프다	NNP
+고도화	NNP
+고도화되다	NNP
+고되다	NNP
+고르고	NNP
+고르고 반듯하게	NNP
+고르고 야무지다	NNP
+고르다	NNP
+고르지 못하거나	NNP
+고르지 못한	NNP
+고르지 아니하게	NNP
+고르지 아니하고	NNP
+고르지 않고	NNP
+고름	NNP
+고름이 나오는	NNP
+고름이 생기는	NNP
+고름이 생기다	NNP
+고름집	NNP
+고리게	NNP
+고마운	NNP
+고마운 마음	NNP
+고마운 마음이	NNP
+고마움	NNP
+고마움을	NNP
+고마움을 깊이	NNP
+고마움을 나타내거나	NNP
+고마움을 나타내는	NNP
+고마워하다	NNP
+고맙게	NNP
+고맙게 베풀어	NNP
+고맙게 여기는	NNP
+고맙게 여기다	NNP
+고맙게 여김	NNP
+고맙다	NNP
+고백	NNP
+고부라지거나	NNP
+고부라지거나 비틀어지며	NNP
+고분고분하게	NNP
+고분고분하고	NNP
+고분고분하고 온순하게	NNP
+고분고분하고 온순하다	NNP
+고분고분하다	NNP
+고분고분하지 못하고	NNP
+고비를	NNP
+고상하고	NNP
+고상하다	NNP
+고상한	NNP
+고상한 기질과	NNP
+고상한 남자	NNP
+고상한 이야기	NNP
+고상한 인품을	NNP
+고상한 풍채	NNP
+고생스러운	NNP
+고생을	NNP
+고생을 격다	NNP
+고생을 하다	NNP
+고생이나	NNP
+고생하거나	NNP
+고생하거나 두려워하여	NNP
+고생하다	NNP
+고성능	NNP
+고소 공포증	NNP
+고약하게	NNP
+고약하다	NNP
+고약함	NNP
+고약해서	NNP
+고열	NNP
+고열 따위로	NNP
+고요하게	NNP
+고요하게 함	NNP
+고요하고	NNP
+고요하고 아름다운	NNP
+고요함	NNP
+고요해짐	NNP
+고운	NNP
+고운 빛깔	NNP
+고움	NNP
+고자질함	NNP
+고작	NNP
+고장나다	NNP
+고지혈증	NNP
+고질병	NNP
+고집	NNP
+고집스레	NNP
+고집스레 싫다고	NNP
+고집을	NNP
+고집을 부리거나	NNP
+고집을 부리는	NNP
+고집을 부림	NNP
+고집이	NNP
+고집이 세어	NNP
+고집이 센	NNP
+고집이 있는	NNP
+고쳐	NNP
+고쳐 세우다	NNP
+고쳐 지음	NNP
+고쳐 짓다	NNP
+고충	NNP
+고치기 어려운	NNP
+고치긱 어려운	NNP
+고치다	NNP
+고치어 바로잡다	NNP
+고타분히	NNP
+고통	NNP
+고통스러운	NNP
+고통스러운 상태	NNP
+고통스러운 일이나	NNP
+고통스럽거나	NNP
+고통스럽게	NNP
+고통스럽게 일함	NNP
+고통스럽다	NNP
+고통을	NNP
+고통을 당하여	NNP
+고통을 이른다	NNP
+고통을 주다	NNP
+고통을 주며	NNP
+고통이	NNP
+고통이 지속되는	NNP
+고통이나	NNP
+고통이나 곤란에	NNP
+고통이나 시달림으로	NNP
+고통이나 어려운	NNP
+고통이라는	NNP
+고통이라는 뜻으로	NNP
+고품질	NNP
+고한	NNP
+고함	NNP
+고함을 지르면서	NNP
+고혈압	NNP
+곤궁하고	NNP
+곤궁하다	NNP
+곤궁하여	NNP
+곤궁함	NNP
+곤란에	NNP
+곤란에 대하여	NNP
+곤란이나	NNP
+곤란이나 시련이	NNP
+곤란하게	NNP
+곤란하게 되다	NNP
+곤란하다	NNP
+곤란하여 지는	NNP
+곤란한	NNP
+곤란한 병	NNP
+곤란한 사정을	NNP
+곤란한 상태를	NNP
+곤장으로 치던	NNP
+곤혹스러운	NNP
+곤혹스럽다	NNP
+곧게	NNP
+곧게 되다	NNP
+곧고	NNP
+곧고 올바름	NNP
+곧다	NNP
+곧바르지 아니하고	NNP
+곧잘 흥분하는	NNP
+곧장 나아가다	NNP
+곧지 못하고	NNP
+골골 앓아서	NNP
+골나다	NNP
+골똘하게	NNP
+골리는	NNP
+골리는 짓	NNP
+골이 나게	NNP
+곪느라고	NNP
+곪느라고 쑤시다	NNP
+곯려 주다	NNP
+곯리거나	NNP
+곯아서	NNP
+곯아서 물크러질	NNP
+곯은	NNP
+곯은 듯하다	NNP
+곰살갑지 못하며	NNP
+곰살궂지 못하고	NNP
+곰팡내	NNP
+곰팡이	NNP
+곱거나	NNP
+곱게	NNP
+곱게 꾸며	NNP
+곱게 피어나는	NNP
+곱게 피어나다	NNP
+곱고	NNP
+곱고 바르며	NNP
+곱고 보드라운	NNP
+곱고 보드랍다	NNP
+곱고 아름답다	NNP
+곱다	NNP
+곱살스러우면서도	NNP
+곱살스러우면서도 트인	NNP
+곱살스럽게	NNP
+곱살스레	NNP
+곱실대다	NNP
+곱절 용감하다	NNP
+곱지 아니하다	NNP
+곱지 않고	NNP
+곳에서 평안히	NNP
+공갈	NNP
+공개적으로 비난하다	NNP
+공격받다	NNP
+공격하다	NNP
+공경의	NNP
+공경의 예를	NNP
+공경하는	NNP
+공경하는 마음으로	NNP
+공경하다	NNP
+공경하며	NNP
+공경하여	NNP
+공경하여 모시다	NNP
+공경할	NNP
+공경할 만하다	NNP
+공공연히 불법적으로	NNP
+공교롭고	NNP
+공교롭고 이상하다	NNP
+공기가 상쾌하다	NNP
+공덕으로	NNP
+공덕을	NNP
+공덕을 칭송하는	NNP
+공덕의 힘	NNP
+공덕이 있는	NNP
+공로에	NNP
+공로와	NNP
+공로와 업적	NNP
+공범자에	NNP
+공손하게	NNP
+공손하다	NNP
+공손하지 아니하고	NNP
+공손함을	NNP
+공손함을 더하여	NNP
+공손히	NNP
+공손히 진찰하다	NNP
+공연한	NNP
+공연한 짓을	NNP
+공연히	NNP
+공연히 놀며	NNP
+공연히 미워하고	NNP
+공익을	NNP
+공익을 목적으로	NNP
+공적의	NNP
+공적이 많은	NNP
+공정하다	NNP
+공정하여	NNP
+공정한	NNP
+공정함	NNP
+공평하다	NNP
+공평하여	NNP
+공평하여 어느	NNP
+공평함	NNP
+공포	NNP
+공포나	NNP
+공포나 긴장으로	NNP
+공포증	NNP
+공허하다	NNP
+공허한	NNP
+공허한 느낌	NNP
+공허한 느낌이	NNP
+공황상태	NNP
+공황장애	NNP
+과거에 급제하여	NNP
+과격하다	NNP
+과격한	NNP
+과금	NNP
+과대망상에	NNP
+과대망상에 빠진	NNP
+과도하게	NNP
+과로	NNP
+과로 따위가	NNP
+과로 따위로	NNP
+과로로	NNP
+과식을	NNP
+과식을 하거나	NNP
+과음	NNP
+과음하거나	NNP
+과장되다	NNP
+과장되어	NNP
+과장된	NNP
+과체중	NNP
+과하다	NNP
+관계가 끊어지거나	NNP
+관계가 끊어지는	NNP
+관계가 끊어지다	NNP
+관계가 맺어지다	NNP
+관계를 끊다	NNP
+관계를 맺다	NNP
+관계없는	NNP
+관계없는 행동을	NNP
+관광할 만한	NNP
+관능적이다	NNP
+관람객이 줄어들다	NNP
+관심병	NNP
+관심을 가지지 아니하고	NNP
+관심을 가짐	NNP
+관심을 기울이다	NNP
+관심이 있다	NNP
+관심이나	NNP
+관심이나 좋아하는	NNP
+관심이나 흥미	NNP
+관절염	NNP
+관절이 저리고	NNP
+관철하려고 다투는	NNP
+괄시	NNP
+괄시하다	NNP
+광견병을	NNP
+광명이	NNP
+광탈	NNP
+괘씸하고	NNP
+괘씸하고 얄미운	NNP
+괘씸하고 얄밉다	NNP
+괘씸한	NNP
+괘씸한 데가	NNP
+괜찮거나	NNP
+괜찮고	NNP
+괜찮다	NNP
+괜한 트집을	NNP
+괜히 트집을	NNP
+괴로운	NNP
+괴로운 느낌	NNP
+괴로운 느낌을	NNP
+괴로운 모양	NNP
+괴로운 상태가	NNP
+괴로운 상태로	NNP
+괴로운 상태에	NNP
+괴로울	NNP
+괴로울 때에	NNP
+괴로움	NNP
+괴로움과	NNP
+괴로움과 아픔	NNP
+괴로움을	NNP
+괴로움을 가져오며	NNP
+괴로움을 느끼다	NNP
+괴로움을 없애	NNP
+괴로움이나	NNP
+괴로워	NNP
+괴로워하는	NNP
+괴로워하는 모양이나	NNP
+괴로워하다	NNP
+괴로워하며	NNP
+괴롭거나	NNP
+괴롭거나 성가시다	NNP
+괴롭게	NNP
+괴롭게 내는	NNP
+괴롭게 되다	NNP
+괴롭게 소리를	NNP
+괴롭게 여기다	NNP
+괴롭고	NNP
+괴롭고 귀찮게	NNP
+괴롭고 귀찮다	NNP
+괴롭고 아픈	NNP
+괴롭다	NNP
+괴롭지 아니하여	NNP
+괴롭히거나	NNP
+괴롭히거나 못살게	NNP
+괴롭히는	NNP
+괴롭히는 일	NNP
+괴롭히는 짓을	NNP
+괴롭히다	NNP
+괴멸	NNP
+괴멸되다	NNP
+괴멸하다	NNP
+괴물	NNP
+괴사가	NNP
+괴사가 일어난	NNP
+괴상하고	NNP
+괴상한	NNP
+괴상한 데가	NNP
+괴상한 일	NNP
+괴상한 일이	NNP
+괴이쩍게	NNP
+괴이쩍게 생각하다	NNP
+괴이하게	NNP
+괴이하게 여기다	NNP
+굉장하게	NNP
+굉장하다	NNP
+교관하다	NNP
+교도소에 수감된	NNP
+교리에 밝고	NNP
+교만하게	NNP
+교만하게 굶	NNP
+교만하고	NNP
+교만하다	NNP
+교만하여	NNP
+교만함	NNP
+교모하게 괴롭히거나	NNP
+교묘하게	NNP
+교묘하고	NNP
+교묘하다	NNP
+교묘히 넘기는	NNP
+교양	NNP
+교양과	NNP
+교양이 없고	NNP
+교양이 없다	NNP
+교양이 있다	NNP
+교양이 있어	NNP
+교육적인	NNP
+교제를 끊어	NNP
+교통을 허락하다	NNP
+교통이 허락되다	NNP
+교화하고	NNP
+교활하고	NNP
+교활한	NNP
+교활한 무리들이	NNP
+교활한 수단을	NNP
+교활한 수단이나	NNP
+교훈	NNP
+구경하며 즐기다	NNP
+구구함이나 연연함이 없다	NNP
+구김살 없이	NNP
+구김살이 없다	NNP
+구김살이 없이	NNP
+구두쇠처럼	NNP
+구리게	NNP
+구박하거나	NNP
+구성지고	NNP
+구속하다	NNP
+구속함	NNP
+구슬퍼질	NNP
+구슬퍼질 정도로	NNP
+구슬프고	NNP
+구슬프고 쓸쓸한	NNP
+구슬프다	NNP
+구슬피	NNP
+구역날	NNP
+구역날 듯하다	NNP
+구역이 나려는	NNP
+구역질	NNP
+구역질나는	NNP
+구역질나다	NNP
+구역질을	NNP
+구역질을 하는	NNP
+구역질이	NNP
+구역질이 나는	NNP
+구역질이 나다	NNP
+구역질이 나서	NNP
+구역질하다	NNP
+구원하다	NNP
+구원한	NNP
+구원한 일	NNP
+구제함	NNP
+구차스러운	NNP
+구차스러운 짓을	NNP
+구차스럽게	NNP
+구차스럽게 구는	NNP
+구차스럽게 굴다	NNP
+구차하여	NNP
+구차하지 않다	NNP
+구토	NNP
+구토 증세가	NNP
+구토를	NNP
+구토를 일으키거나	NNP
+국내의 반란	NNP
+군살이 처지도록	NNP
+군색함	NNP
+군소리 없이	NNP
+군소리를	NNP
+군소리를 내다	NNP
+군소리를 하는	NNP
+군소리를 하다	NNP
+굳게	NNP
+굳게 맹세하다	NNP
+굳게 믿다	NNP
+굳고 행실이	NNP
+굳세거나	NNP
+굳세게	NNP
+굳세게 함	NNP
+굳세고	NNP
+굳세고 야무지다	NNP
+굳세다	NNP
+굳센 기상이	NNP
+굳어지다	NNP
+굳은	NNP
+굳은 상태로	NNP
+굳지 못하고	NNP
+굳지 못하여	NNP
+굴복시킴	NNP
+굴복하지 않고	NNP
+굴욕	NNP
+굴욕감	NNP
+굴욕을	NNP
+굴욕을 당하거나	NNP
+굴욕을 당하여	NNP
+굴욕적	NNP
+굵고 시원시원한	NNP
+굶는	NNP
+굶는 모양	NNP
+굶다	NNP
+굶주려서	NNP
+굶주리고	NNP
+굶주리다	NNP
+굶주린	NNP
+굶주린 백성을	NNP
+굼드게 먹는	NNP
+굼뜨게	NNP
+굼뜨게 먹다	NNP
+굼뜨게 움직이는	NNP
+굼뜨게 움직이다	NNP
+굼뜨게 하다	NNP
+굼뜨게 행동하는	NNP
+굼뜨게 행동하다	NNP
+굼뜨고	NNP
+굼뜨고 거추장스럽게	NNP
+굼뜨고 게으르게	NNP
+굼뜨고 좀스럽게	NNP
+굼뜨다	NNP
+굽신	NNP
+굽신거리다	NNP
+굽신굽신	NNP
+굽신굽신하다	NNP
+굽신대다	NNP
+굽신하다	NNP
+굽실	NNP
+굽실거리다	NNP
+굽실굽실	NNP
+굽실굽실하다	NNP
+굽실대다	NNP
+굽실하다	NNP
+굽혀서 산다는	NNP
+굽히지 아니하고	NNP
+굽히지 않는	NNP
+궁상스러운	NNP
+궁상스러운 모양	NNP
+궁상스럽다	NNP
+궁색하게	NNP
+궁색하다	NNP
+궁색하여	NNP
+궁핍하다	NNP
+궁핍히	NNP
+궁하고	NNP
+궁하다	NNP
+궂게	NNP
+궂다	NNP
+권리를 없애거나	NNP
+권리를 침해한	NNP
+권세를 꺾다	NNP
+권세를 마음대로	NNP
+권태	NNP
+권태감	NNP
+권태기	NNP
+권태로이	NNP
+권태롭다	NNP
+권태를	NNP
+권태를 느끼는	NNP
+궐기할	NNP
+궐기할 것을	NNP
+귀머거리	NNP
+귀먹은	NNP
+귀양을 보내던	NNP
+귀양이 보내어지다	NNP
+귀에 즐거움과	NNP
+귀여운	NNP
+귀여운 느낌이	NNP
+귀여운 데가	NNP
+귀여워하거나	NNP
+귀여워하거나 즐김	NNP
+귀여워하다	NNP
+귀여워할	NNP
+귀여워할 때	NNP
+귀염성	NNP
+귀염성스럽다	NNP
+귀염성스레	NNP
+귀염을	NNP
+귀염을 받는	NNP
+귀염을 받을	NNP
+귀염을 받지 못할	NNP
+귀엽게	NNP
+귀엽게 걷는	NNP
+귀엽게 걷다	NNP
+귀엽게 기울어지는	NNP
+귀엽게 기울어지다	NNP
+귀엽게 놀리며	NNP
+귀엽게 떠서	NNP
+귀엽게 여기다	NNP
+귀엽게 움직이는	NNP
+귀엽게 움직이다	NNP
+귀엽게 움직이며	NNP
+귀엽게 웃는	NNP
+귀엽게 웃다	NNP
+귀엽게 이르는	NNP
+귀엽게 흔들리는	NNP
+귀엽게 흔들리다	NNP
+귀엽고	NNP
+귀엽고 보드랍게	NNP
+귀엽고 탐스러운	NNP
+귀엽고 탐스럽다	NNP
+귀엽고 환하게	NNP
+귀엽다	NNP
+귀엽도록	NNP
+귀엽도록 보드랍고	NNP
+귀요미	NNP
+귀중하게	NNP
+귀중하다	NNP
+귀중한	NNP
+귀중한 보배	NNP
+귀중한 자원이라는	NNP
+귀중히	NNP
+귀중히 여기는	NNP
+귀중히 여기다	NNP
+귀차니즘	NNP
+귀찮거나	NNP
+귀찮게	NNP
+귀찮게 구는	NNP
+귀찮게 굴다	NNP
+귀찮게 씹히는	NNP
+귀찮게 씹히다	NNP
+귀찮게 하는	NNP
+귀찮게 하다	NNP
+귀찮게 하여	NNP
+귀찮고	NNP
+귀찮고 성가시다	NNP
+귀찮다	NNP
+귀찮아하도록	NNP
+귀찮아하도록 성가시게	NNP
+귀찮으면서도	NNP
+귀찮은	NNP
+귀찮을	NNP
+귀찮을 때	NNP
+귀찮을 정도로	NNP
+귀찮음	NNP
+귀하게	NNP
+귀하게 되어	NNP
+귀하게 될	NNP
+귀하고	NNP
+귀하고 값진	NNP
+귀하고 중요하게	NNP
+귀하고 중요하다	NNP
+귀하다	NNP
+귀하며	NNP
+귀한	NNP
+규모가 크고	NNP
+규범을 어기면서	NNP
+규칙을 어겨	NNP
+균의	NNP
+균의 침입으로	NNP
+균형을 잃거나	NNP
+그 감동	NNP
+그 긍지	NNP
+그 방정	NNP
+그 범죄를	NNP
+그 사랑	NNP
+그 시체를	NNP
+그 실수	NNP
+그 질병	NNP
+그 한숨	NNP
+그 형벌에	NNP
+그대로 설사하는	NNP
+그대로 힘없이	NNP
+그득한 병	NNP
+그러하다	NNP
+그런 근심	NNP
+그런 비판	NNP
+그럴듯하게 대강	NNP
+그럴듯하게 대충	NNP
+그럴듯하다	NNP
+그럴싸하다	NNP
+그렇게 되리라는	NNP
+그렇게 애도함	NNP
+그렇게 인정받는	NNP
+그르게 되거나	NNP
+그르치다	NNP
+그른	NNP
+그른 짓을	NNP
+그릇되거나	NNP
+그릇되게	NNP
+그릇되게 하는	NNP
+그릇되게 하다	NNP
+그릇되다	NNP
+그릇된	NNP
+그릇된 방향으로	NNP
+그릇된 일을	NNP
+그릇된 짓을	NNP
+그릇된 행동	NNP
+그릇된 행동을	NNP
+그리운	NNP
+그리운 마음이	NNP
+그리움	NNP
+그리웁다	NNP
+그리워지다	NNP
+그리워하거나	NNP
+그리워하거나 좋아하는	NNP
+그리워하거나 좋아하다	NNP
+그리워하다	NNP
+그리워함	NNP
+그린라이트	NNP
+그립다	NNP
+그만두게	NNP
+그만두게 되거나	NNP
+그만두게 하다	NNP
+그만두다	NNP
+그만두어	NNP
+그만두어 버리다	NNP
+그만두어 버림	NNP
+그와 이별하다	NNP
+그윽하고	NNP
+그윽하고 평온하다	NNP
+극락	NNP
+극복하고	NNP
+극복하다	NNP
+극성맞게	NNP
+극성맞다	NNP
+극진하게	NNP
+극진하다	NNP
+극진한 데가	NNP
+극혐	NNP
+근거가 없고	NNP
+근본에 맞는	NNP
+근사하다	NNP
+근심	NNP
+근심 따위로	NNP
+근심 없이	NNP
+근심과	NNP
+근심과 걱정으로	NNP
+근심스럽거나	NNP
+근심스럽거나 답답하여	NNP
+근심스럽고	NNP
+근심에 잠겨서	NNP
+근심으로	NNP
+근심이	NNP
+근심이 있어	NNP
+근심이나	NNP
+근심이나 걱정	NNP
+근심이나 걱정이	NNP
+근심이나 걱정이 없고	NNP
+근심이나 병	NNP
+근심이나 설움으로	NNP
+근심하거나	NNP
+근심하거나 안타까워	NNP
+근심하고	NNP
+근심하는	NNP
+근심하는 데가	NNP
+근심하다	NNP
+근심하며	NNP
+근심하며 분하게	NNP
+근심함	NNP
+근심함을	NNP
+근심함을 이르는	NNP
+근지럽고	NNP
+근질근질 가려운	NNP
+근질근질하다	NNP
+근하다	NNP
+긁어	NNP
+긁어 상처를	NNP
+금고를 깨뜨리다	NNP
+금사빠	NNP
+금지되다	NNP
+금지된 물건을	NNP
+금지하는 말과	NNP
+금지하려	NNP
+금지하려 할	NNP
+금지함	NNP
+급성 염증	NNP
+급성 위장염의	NNP
+급작스럽게 화를	NNP
+급하게	NNP
+급하게 몰아쉬는	NNP
+급하게 쉬는	NNP
+급하고	NNP
+급하고 거세다	NNP
+급하고 변덕스러워	NNP
+급하다	NNP
+급한 처지에	NNP
+긍가하다	NNP
+긍정	NNP
+긍정적	NNP
+긍정적으로	NNP
+긍정적으로 강조하는	NNP
+긍정적이고	NNP
+긍정적이고 좋다	NNP
+긍정적인	NNP
+긍정적인 범위에	NNP
+긍정적인 태도	NNP
+긍정적인 효과를	NNP
+긍정하는	NNP
+긍정하는 뜻으로	NNP
+긍정할	NNP
+긍정할 때	NNP
+긍정할 때에	NNP
+긍지	NNP
+긍지를	NNP
+긍지를 가지는	NNP
+긍지를 가짐	NNP
+기가 눌려	NNP
+기가 막혀	NNP
+기가 막히거나	NNP
+기가 미련이	NNP
+기가 부족하며	NNP
+기가 어색하고	NNP
+기관지염	NNP
+기능 장애로	NNP
+기능을 상실한	NNP
+기능을 잃고	NNP
+기능이 약하여진	NNP
+기능이 허약하여	NNP
+기다리지 못하고	NNP
+기대	NNP
+기대 이상으로	NNP
+기대 이상이다	NNP
+기대가	NNP
+기대가 가득하다	NNP
+기대되는	NNP
+기대된다	NNP
+기대를 받다	NNP
+기대에 어그러져	NNP
+기대하다	NNP
+기대할 만한	NNP
+기둥처럼 든든히	NNP
+기량이 부족하여	NNP
+기력이 쇠약한	NNP
+기력이 쇠약해지는	NNP
+기력이 약하여	NNP
+기력이 약하여지는	NNP
+기력이 허약하여	NNP
+기를 꺾다	NNP
+기를 꺾음	NNP
+기름기가 많다	NNP
+기름진 땅	NNP
+기리어	NNP
+기막히다	NNP
+기만하다	NNP
+기모띠	NNP
+기미하다	NNP
+기반이 튼튼하게	NNP
+기반이 튼튼하다	NNP
+기부하다	NNP
+기분 나쁠	NNP
+기분 좋은	NNP
+기분을 나쁘게	NNP
+기분이 나쁘거나	NNP
+기분이 상하다	NNP
+기분이 좋게	NNP
+기분이 좋다	NNP
+기분이 좋은	NNP
+기분이 좋을	NNP
+기뻐	NNP
+기뻐서	NNP
+기뻐서 웃는	NNP
+기뻐하고	NNP
+기뻐하고 즐거워하다	NNP
+기뻐하고 즐거워한다는	NNP
+기뻐하고 즐거워함	NNP
+기뻐하는	NNP
+기뻐하다	NNP
+기뻐함과	NNP
+기뻐함과 즐거워함	NNP
+기쁘거나	NNP
+기쁘거나 만족스럽거나	NNP
+기쁘거나 즐거운	NNP
+기쁘거나 흥분하여	NNP
+기쁘게	NNP
+기쁘게 여기다	NNP
+기쁘고	NNP
+기쁘고 만족스럽다	NNP
+기쁘다	NNP
+기쁜	NNP
+기쁜 마음	NNP
+기쁜 마음으로	NNP
+기쁜 마음을	NNP
+기쁜 빛	NNP
+기쁜 빛을	NNP
+기쁜 일이	NNP
+기쁨	NNP
+기쁨과	NNP
+기쁨과 즐거움	NNP
+기쁨을	NNP
+기쁨을 느끼는	NNP
+기쁨을 느끼다	NNP
+기쁨을 느끼어	NNP
+기쁨을 담은	NNP
+기쁨을 아는	NNP
+기쁨을 즐기다	NNP
+기쁨이나	NNP
+기쁨이나 감격이	NNP
+기상이 뛰어난	NNP
+기세 좋게	NNP
+기세가 꺾이고	NNP
+기세가 약해지다	NNP
+기세가 좋은	NNP
+기억이 희미해져서	NNP
+기예에 통달하여	NNP
+기운 없이	NNP
+기운을 쓰는	NNP
+기운을 잃고	NNP
+기운이 꺾이다	NNP
+기운이 꺾임	NNP
+기운이 다하여	NNP
+기운이 막히다	NNP
+기운이 막힘	NNP
+기운이 못 펴지게	NNP
+기운이 빠져	NNP
+기운이 빠져서	NNP
+기운이 쇠약하여	NNP
+기운이 없거나	NNP
+기운이 없고	NNP
+기운이 없는	NNP
+기운이 없다	NNP
+기운이 없어	NNP
+기운이 없어지고	NNP
+기운이 없이	NNP
+기운이나 의욕 따위가 없이	NNP
+기운차게	NNP
+기운차게 솟구쳐	NNP
+기운차고	NNP
+기운차고 활기	NNP
+기운차다	NNP
+기울어지며 자꾸	NNP
+기일이 안타깝게	NNP
+기절하듯이	NNP
+기절하듯이 쓰러지다	NNP
+기절할	NNP
+기절할 듯이	NNP
+기죽다	NNP
+기준보다 못하거나	NNP
+기준에 미치지 못하다	NNP
+기준에 어긋나	NNP
+기침	NNP
+기침 소리를	NNP
+기침병을 앓아	NNP
+기침을	NNP
+기침을 심하게	NNP
+기침을 하다	NNP
+기침을 한다	NNP
+기침이	NNP
+기침이 나는	NNP
+기특하고	NNP
+기특하고 장하다	NNP
+기품이 있다	NNP
+기풍	NNP
+기피되어	NNP
+기피되어 따돌림을	NNP
+기피하여	NNP
+기피하여 따돌리거나	NNP
+기한까지 내지 못하고	NNP
+기형으로	NNP
+기회를 놓치거나	NNP
+기회주의적이고	NNP
+긴장되고	NNP
+긴장되다	NNP
+긴장을 해소하려	NNP
+긴장이나	NNP
+긴장하거나	NNP
+긴장하거나 힘을	NNP
+긴장하다	NNP
+긴장하여	NNP
+긴절하다	NNP
+긴절히	NNP
+길고 아름다워서	NNP
+길막	NNP
+길미	NNP
+길을 찾아내다	NNP
+길이 막막하게	NNP
+길이 막막하다	NNP
+길이 어둡거나	NNP
+깊고 중대한	NNP
+깊은 맛이	NNP
+깊은 맛이 있게	NNP
+깊은 은혜	NNP
+깊은 은혜와	NNP
+깊은 이치나	NNP
+깊이 감복하여	NNP
+깊이 근심함	NNP
+깊이 기억하다	NNP
+깊이 따르다	NNP
+깊이 따름	NNP
+깊이 사귐	NNP
+깊이 사모함	NNP
+깊이 슬퍼하다	NNP
+깊이 슬퍼함	NNP
+깊이 있고	NNP
+깊이가 없고	NNP
+깊지 아니하거나	NNP
+깊지 아니하고	NNP
+ㄲ	NNP
+ㄲㅂ	NNP
+ㄲㅈ	NNP
+까꾸러트리다	NNP
+까다로운	NNP
+까다로운 모양	NNP
+까다로워	NNP
+까다로이	NNP
+까다롭게	NNP
+까다롭게 구는	NNP
+까다롭게 굴거나	NNP
+까다롭게 굴다	NNP
+까다롭고	NNP
+까다롭고 좀스럽게	NNP
+까다롭다	NNP
+까다롭지 아니하다	NNP
+까마득하다	NNP
+까마아득하게	NNP
+까무러질	NNP
+까무러질 듯하다	NNP
+까무러질 듯한	NNP
+까무러쳐	NNP
+까무러쳐 넘어지면서	NNP
+까무러칠	NNP
+까무러칠 듯	NNP
+까무러칠 듯이	NNP
+까무러칠 듯하게	NNP
+까무러칠 듯하다	NNP
+까무러칠 듯한	NNP
+까무스름하다	NNP
+까부는	NNP
+까부는 모양	NNP
+까불거나	NNP
+까불기만 하고	NNP
+까불까불하고	NNP
+까불다	NNP
+까불며	NNP
+까불며 웃는	NNP
+까불며 웃다	NNP
+까불며 행동하는	NNP
+까불어	NNP
+까불어 대는	NNP
+까불어 대다	NNP
+까불어서	NNP
+까비	NNP
+까칠하거나	NNP
+까칠하게	NNP
+까칠하게 일어선	NNP
+까칠하다	NNP
+까탈이	NNP
+까탈이 많게	NNP
+까탈이 많다	NNP
+깍아내리다	NNP
+깎아내려	NNP
+깎아내려 배척함	NNP
+깎아내려 헐뜯음	NNP
+깎아내리기	NNP
+깎아내리기 잘하다	NNP
+깎아내리려	NNP
+깎아내리려 함	NNP
+깐깐하고	NNP
+깐깐하다	NNP
+깐작깐작하고	NNP
+깐죽대다	NNP
+깔깔하며	NNP
+깔깔하며 거북하고	NNP
+깔깔한	NNP
+깔깔한 느낌	NNP
+깔끄럽게	NNP
+깔끄럽게 따끔거리는	NNP
+깔끔하게	NNP
+깔끔하다	NNP
+깔끔하지 못하고	NNP
+깔끔하지 않고	NNP
+깔끔한	NNP
+깔끔한 데가	NNP
+깔끔해지다	NNP
+깔보면서	NNP
+깔보면서 놀리다	NNP
+깔보아	NNP
+깔보아 업신여기다	NNP
+깔보아 업신여김	NNP
+깔봄	NNP
+깜놀	NNP
+깜짝 놀라다	NNP
+깜찍스럽게 지껄이며	NNP
+깜찍하게	NNP
+깜찍하게 까딱거리는	NNP
+깜찍하게 생긴	NNP
+깜찍하고	NNP
+깜찍하고 트인	NNP
+깜찍하다	NNP
+깜찍하면서도	NNP
+깝	NNP
+깨갱대다	NNP
+깨끗이	NNP
+깨끗이 하다	NNP
+깨끗이 함	NNP
+깨끗하게	NNP
+깨끗하게 다듬고	NNP
+깨끗하게 하다	NNP
+깨끗하고	NNP
+깨끗하고 깔끔하게	NNP
+깨끗하고 깔끔한	NNP
+깨끗하고 말끔하게	NNP
+깨끗하고 매끈한	NNP
+깨끗하고 순진하게	NNP
+깨끗하고 시원스럽다	NNP
+깨끗하고 시원하다	NNP
+깨끗하고 시원한	NNP
+깨끗하고 온전하다	NNP
+깨끗하고 진실한	NNP
+깨끗하고 칠칠한	NNP
+깨끗하다	NNP
+깨끗하다는	NNP
+깨끗하며	NNP
+깨끗하며 단아하게	NNP
+깨끗하여	NNP
+깨끗하여 조금도	NNP
+깨끗하지 못하고	NNP
+깨끗하지 못한	NNP
+깨끗한	NNP
+깨끗한 마음	NNP
+깨끗한 모양	NNP
+깨끗한 사람	NNP
+깨끗한 사랑을	NNP
+깨끗한 상태로	NNP
+깨끗한 생혈	NNP
+깨닫거나	NNP
+깨닫게	NNP
+깨닫게 하거나	NNP
+깨닫고자	NNP
+깨닫는	NNP
+깨닫는 경지에	NNP
+깨닫다	NNP
+깨달아	NNP
+깨달아 알게	NNP
+깨달아 알다	NNP
+깨달아 얻음	NNP
+깨달은 상태	NNP
+깨달음	NNP
+깨달음을	NNP
+깨달음을 방해하는	NNP
+깨달음을 얻고	NNP
+깨달음의	NNP
+깨달음의 지혜이다	NNP
+깨뜨려 버리다	NNP
+깨뜨리다	NNP
+깨알같다	NNP
+깨어지거나	NNP
+깨어지다	NNP
+깨우쳐	NNP
+깨우쳐 주고	NNP
+깨지다	NNP
+깨진	NNP
+깨침이 늦고	NNP
+깽깽대다	NNP
+꺼꾸러트리다	NNP
+꺼덕거리다	NNP
+꺼덕대다	NNP
+꺼덕이다	NNP
+꺼려지거나	NNP
+꺼리는	NNP
+꺼리는 날	NNP
+꺼리는 마음으로	NNP
+꺼리다	NNP
+꺼리어	NNP
+꺼리어 피하거나	NNP
+꺼린다	NNP
+꺼림	NNP
+꺼림칙하고	NNP
+꺼림칙하여	NNP
+꺼림칙해	NNP
+꺼림칙해 보일	NNP
+꺼먹대다	NNP
+꺼부는	NNP
+꺼부는 모양	NNP
+꺼부러져	NNP
+꺼부러져 보이게	NNP
+꺼불거리고	NNP
+꺼불대다	NNP
+꺼칠하게	NNP
+꺼칠하게 일어선	NNP
+꺼칠하다	NNP
+꺽어 약해지게	NNP
+꺾어 누르다	NNP
+꺾이다	NNP
+꺾이어 무너지다	NNP
+꺾이어 약해지다	NNP
+꺾임	NNP
+껄끄러운	NNP
+껄끄러운 모양	NNP
+껄끄럽게 뜨끔거리는	NNP
+껄렁껄렁한	NNP
+껄렁껄렁한 사람	NNP
+껄렁껄렁한 사람들의	NNP
+꼬락서니	NNP
+꼬물거리는	NNP
+꼬물거리는 모양	NNP
+꼬이거나	NNP
+꼬이거나 틀어지다	NNP
+꼬집거나	NNP
+꼬집히는	NNP
+꼬집히는 것처럼	NNP
+꼭 맞다	NNP
+꼭 알맞다	NNP
+꼭 어울리고	NNP
+꼴사나운	NNP
+꼴사납게	NNP
+꼴사납게 우는	NNP
+꼴사납다	NNP
+꼼꼼하게	NNP
+꼼꼼하게 자세히	NNP
+꼼꼼하고	NNP
+꼼꼼하고 자상하게	NNP
+꼼꼼하다	NNP
+꼼꼼하지 않아	NNP
+꼼꼼한	NNP
+꼿꼿하며	NNP
+꼿꼿하며 건장하다	NNP
+꼿꼿하며 건장한	NNP
+꽁알대다	NNP
+꽁하다	NNP
+꽃이 보드랍고	NNP
+꽉 막힌	NNP
+꽤 거칠게	NNP
+꽤 귀여운	NNP
+꽤 더럽고	NNP
+꽤 따뜻하고	NNP
+꽤 따뜻하다	NNP
+꽤 뜨뜻하고	NNP
+꽤 사납게	NNP
+꽤 스산하고	NNP
+꽤 썰렁한	NNP
+꽤 엉성하고	NNP
+꽤 염치없이	NNP
+꽤 저리다	NNP
+꽤 저린	NNP
+꽤 흥분되고	NNP
+꽥꽥거리는 사람을	NNP
+꾀 거칠게	NNP
+꾀거나	NNP
+꾀를 부려	NNP
+꾀를 부리거나	NNP
+꾀를 부리느라고	NNP
+꾀만 부리다	NNP
+꾸며서 전하다	NNP
+꾸며서 전함	NNP
+꾸며서 하는	NNP
+꾸물거리는	NNP
+꾸물거리는 모양	NNP
+꾸물거리다	NNP
+꾸물꾸물하다	NNP
+꾸민	NNP
+꾸밈을 화려하게	NNP
+꾸밈이 없음	NNP
+꾸밈이 없이	NNP
+꾸준하게	NNP
+꾸준하게 열심히	NNP
+꾸준하게 일하거나	NNP
+꾸준하게 행동하다	NNP
+꾸준한	NNP
+꾸준한 데가	NNP
+꾸준함	NNP
+꾸준히	NNP
+꾸중	NNP
+꾸중 따위의	NNP
+꾸중을	NNP
+꾸중을 듣거나	NNP
+꾸중을 듣고	NNP
+꾸중하다	NNP
+꾸지람	NNP
+꾸지람을	NNP
+꾸지람을 듣거나	NNP
+꾸지람하다	NNP
+꾸짖거나	NNP
+꾸짖거나 나무라며	NNP
+꾸짖는	NNP
+꾸짖는 말로	NNP
+꾸짖다	NNP
+꾸짖어	NNP
+꾸짖어 혼쭐을	NNP
+꾸짖음	NNP
+꿀잼	NNP
+꿉신대다	NNP
+꿋꿋하다	NNP
+꿋꿋한	NNP
+꿋꿋한 모양	NNP
+끈기	NNP
+끈기 있는	NNP
+끈기가 있는	NNP
+끊고	NNP
+끊고 갈라서다	NNP
+끊어 버리다	NNP
+끊어 버림을	NNP
+끌다	NNP
+끌리도록	NNP
+끔살	NNP
+끔직하고	NNP
+끔직하고 절망적이다	NNP
+끔찍하게	NNP
+끔찍하다	NNP
+끔찍한	NNP
+끔찍한 느낌	NNP
+끔찍한 느낌이	NNP
+끔찍함	NNP
+끝까지 변함없이	NNP
+끝나는 사랑	NNP
+끝내 패가망신한다는	NNP
+끝내지 못하고	NNP
+끝내지 못한	NNP
+끝장이 나다	NNP
+끼깅대다	NNP
+끼쳐서 미안하다	NNP
+끼치도록 무섭고	NNP
+낄끼빠빠	NNP
+낑낑대다	NNP
+ㄳ	NNP
+ㄴㅇㅈ	NNP
+나가자빠지는	NNP
+나가자빠지는 모양	NNP
+나고 아프며	NNP
+나긋나긋이	NNP
+나라가 태평한	NNP
+나릿나릿	NNP
+나무라기나 하는	NNP
+나무라다	NNP
+나무라며	NNP
+나무라며 못마땅하게	NNP
+나무람을	NNP
+나무람을 이르는	NNP
+나불거리며	NNP
+나불거리며 까불다	NNP
+나불나불	NNP
+나불나불하다	NNP
+나빠지게	NNP
+나빠지게 하다	NNP
+나빠지다	NNP
+나빠지도록	NNP
+나빠진	NNP
+나빠진 모양	NNP
+나쁘거나	NNP
+나쁘거나 궂게	NNP
+나쁘거나 궂다	NNP
+나쁘게	NNP
+나쁘게 되다	NNP
+나쁘게 만들다	NNP
+나쁘게 말하여	NNP
+나쁘고	NNP
+나쁘다	NNP
+나쁘지 않고	NNP
+나쁜	NNP
+나쁜 기운을	NNP
+나쁜 놈	NNP
+나쁜 말로	NNP
+나쁜 버릇	NNP
+나쁜 생각을	NNP
+나쁜 일	NNP
+나쁜 일을	NNP
+나쁜 짓을	NNP
+나쁜 징조의	NNP
+나쁜 처지로	NNP
+나쁜 흉계	NNP
+나쁜놈	NNP
+나쁠	NNP
+나쁠 정도로	NNP
+나서 틀어지다	NNP
+나서는 힘	NNP
+나아가게	NNP
+나아가게 하다	NNP
+나아가지 못하고	NNP
+나아지게	NNP
+나아지게 발전하다	NNP
+나아지다	NNP
+나오는 기침	NNP
+나오는 한숨이나	NNP
+나타나는 불쾌한	NNP
+나태하게	NNP
+나태하다	NNP
+나태한	NNP
+낙담	NNP
+낙담하다	NNP
+낙망	NNP
+낙망하다	NNP
+낙심	NNP
+낙심되다	NNP
+낙심하다	NNP
+난리나다	NNP
+난잡스러운	NNP
+난잡스러운 짓	NNP
+난잡하다	NNP
+난잡한	NNP
+난잡한 상태가	NNP
+난처하거나	NNP
+난처하고	NNP
+난폭하거나	NNP
+난폭하거나 주책없는	NNP
+난폭하다	NNP
+난폭한	NNP
+난폭한 행위로	NNP
+난하다	NNP
+날뛰다	NNP
+날뜀	NNP
+날씨가 맑거나	NNP
+날씨가 화창하여	NNP
+날씬하다	NNP
+날씬한	NNP
+날이 좋아지다	NNP
+날조하여	NNP
+날카로운 말투로	NNP
+날카롭고 격하게	NNP
+낡고	NNP
+낡다	NNP
+낡아	NNP
+낡아 버리다	NNP
+낡아지다	NNP
+낡은	NNP
+낡은 느낌이나	NNP
+낡은 티를	NNP
+남기거나 버리다	NNP
+남달리	NNP
+남달리 뛰어난	NNP
+남달리 좋아하고	NNP
+남루하게	NNP
+남루하게 입다	NNP
+남몰래	NNP
+남몰래 슬쩍	NNP
+남보다 높은	NNP
+남보다 뒤떨어지거나	NNP
+남보다 뛰어난	NNP
+남보다 앞서서	NNP
+남보다 월등히	NNP
+남부끄러이	NNP
+남부끄럽다	NNP
+남부럽다	NNP
+남사스럽다	NNP
+남아 서운하다	NNP
+남에게 넘기다	NNP
+남에게 따돌림을	NNP
+남에게 미루다	NNP
+남에게 베풀어서	NNP
+남에게 복종하면서	NNP
+남에게 씌우려던	NNP
+남에게 아첨함을	NNP
+남에게 억지로	NNP
+남에게 칭찬을	NNP
+남에게 폐를	NNP
+남용	NNP
+남용하다	NNP
+남을 건드려	NNP
+남을 곯려	NNP
+남을 곯리거나	NNP
+남을 괴롭히는	NNP
+남을 굴복시킴	NNP
+남을 귀찮게	NNP
+남을 깎아내리기	NNP
+남을 꾀거나	NNP
+남을 나무람을	NNP
+남을 낮추어	NNP
+남을 낮추어 보듯이	NNP
+남을 대접하는	NNP
+남을 도와주다	NNP
+남을 멸시하거나	NNP
+남을 못살게	NNP
+남을 부추기어	NNP
+남을 비방하거나	NNP
+남을 사랑하는	NNP
+남을 성가시게	NNP
+남을 속여	NNP
+남을 속이거나	NNP
+남을 속이다	NNP
+남을 속이려는	NNP
+남을 시기하는	NNP
+남을 억누르다	NNP
+남을 업신여기는	NNP
+남을 웃기는	NNP
+남을 웃기려고	NNP
+남을 이해하고	NNP
+남을 조롱하거나	NNP
+남을 해치려다가	NNP
+남을 헐뜯고	NNP
+남을 헐뜯다	NNP
+남을 헐뜯어	NNP
+남을 헐뜯으려고	NNP
+남을 헐뜯음	NNP
+남의 결함을	NNP
+남의 어리석은	NNP
+남의 잘못이나	NNP
+남이 귀찮아하도록	NNP
+남이 병들거나	NNP
+남이 잘못되는	NNP
+납치	NNP
+낫게 하다	NNP
+낫다	NNP
+낫지 아니하는	NNP
+낫지 아니하여	NNP
+낫지 않는	NNP
+낭만	NNP
+낭만적인	NNP
+낭비	NNP
+낭비 된	NNP
+낭비된	NNP
+낭비하다	NNP
+낭패	NNP
+낮아지거나	NNP
+낮은 성적	NNP
+낮은 지위의	NNP
+낮은 지혜라는	NNP
+낮이 없거나	NNP
+낮잡는	NNP
+낮잡는 뜻으로	NNP
+낮잡아	NNP
+낮잡아 이르는	NNP
+낮추어	NNP
+낮추어 보거나	NNP
+낮추어 보듯이	NNP
+낮추어 보아	NNP
+낮추어 이르는	NNP
+낯부끄럽다	NNP
+낯설다	NNP
+낯이 설거나	NNP
+낯이 없거나	NNP
+낯이 없다는	NNP
+낳지 못하는	NNP
+내거나 불평을	NNP
+내구성이 좋아	NNP
+내놓기가 싫다	NNP
+내는 성	NNP
+내던져 버리다	NNP
+내던져 버림	NNP
+내려가지 아니하여	NNP
+내려오는 병이나	NNP
+내리눌리다	NNP
+내밀었다가 허탕이	NNP
+내버려지다	NNP
+내버리거나	NNP
+내부의 싸움	NNP
+내색 없이	NNP
+내소외친하다	NNP
+내송	NNP
+내송하다	NNP
+내숭스럽고	NNP
+내숭스럽고 거칠다	NNP
+내용으로 익살스럽게	NNP
+내용이 못마땅하거나	NNP
+내쫓기다	NNP
+내쫓김을 당하다	NNP
+내쫓는	NNP
+내쫓는 일	NNP
+내쫓다	NNP
+내쫓아	NNP
+내키지 아니하거나	NNP
+내키지 아니하여	NNP
+내키지 않게	NNP
+내키지 않는	NNP
+내키지 않다	NNP
+내키지 않아	NNP
+냉담하다	NNP
+냉담한	NNP
+냉랭하거나	NNP
+냉랭하고	NNP
+냉랭하며	NNP
+너그러운	NNP
+너그러운 데가	NNP
+너그러운 마음으로	NNP
+너그러운 모양	NNP
+너그러워	NNP
+너그러워 보이는	NNP
+너그러이	NNP
+너그럽게	NNP
+너그럽게 듣다	NNP
+너그럽게 보다	NNP
+너그럽게 용서하다	NNP
+너그럽게 이해하다	NNP
+너그럽고	NNP
+너그럽고 부드러운	NNP
+너그럽고 상냥하면서	NNP
+너그럽다	NNP
+너그럽지 못하고	NNP
+너그럽지 못하다	NNP
+너무 기쁘거나	NNP
+너무 더디거나	NNP
+너무 볼품없이	NNP
+너무 쇠약해지거나	NNP
+너무 예민하거나	NNP
+너무 지나치거나	NNP
+너무하다	NNP
+너불거리며	NNP
+너불거리며 까부는	NNP
+너불거리며 까불다	NNP
+너저분하게	NNP
+너저분하다	NNP
+너저분하여	NNP
+너저분하여 보일	NNP
+너저분한	NNP
+너저분한 상태가	NNP
+너저분해	NNP
+너저분해 보일	NNP
+너절하게	NNP
+너절하다	NNP
+너절한	NNP
+너절한 상태	NNP
+너절한 상태이다	NNP
+너프	NNP
+넉넉잡아야 고작	NNP
+넉넉하거나	NNP
+넉넉하거나 많다	NNP
+넉넉하게	NNP
+넉넉하고	NNP
+넉넉하고 많은	NNP
+넉넉하고 많음	NNP
+넉넉하고 윤택하게	NNP
+넉넉하고 푸지다	NNP
+넉넉하다	NNP
+넉넉하여	NNP
+넉넉하여 만족하다	NNP
+넉넉하여 만족함	NNP
+넉넉하지 못하고	NNP
+넉넉하지 못하여	NNP
+넉넉하지 못함	NNP
+넉넉하지 아니함	NNP
+넉넉한	NNP
+넉살 좋게	NNP
+넋을 잃다	NNP
+넌더리가	NNP
+넌더리가 날	NNP
+넌덕스러운	NNP
+넌덕스러운 말로	NNP
+넌씨눈	NNP
+널리 알려지다	NNP
+널리 알려진	NNP
+널리 전하여	NNP
+넓고 시원스럽다	NNP
+넓은 마음으로	NNP
+넘기기 좋게	NNP
+넘기지 못한다는	NNP
+넘사	NNP
+넘사벽	NNP
+넘어지거나	NNP
+넘어지거나 주저앉는	NNP
+넘어지는 병	NNP
+넘어지며	NNP
+넘어질	NNP
+넘어질 듯	NNP
+넘치게 굴다	NNP
+넘치는 기쁨	NNP
+노는 꼬락서니	NNP
+노는 짓을	NNP
+노답	NNP
+노략질하는	NNP
+노략질하는 짓을	NNP
+노략질함을	NNP
+노려보다	NNP
+노력이나	NNP
+노력하는	NNP
+노력하다	NNP
+노련하고	NNP
+노름	NNP
+노름꾼이	NNP
+노름을 하거나	NNP
+노름판을 벌여	NNP
+노린 냄새가	NNP
+노숙자	NNP
+노여운	NNP
+노여운 감정이	NNP
+노여움	NNP
+노여움 따위를	NNP
+노여움 따위의	NNP
+노여움을	NNP
+노여움을 나타내다	NNP
+노엽거나	NNP
+노엽거나 언짢은	NNP
+노예	NNP
+노인의 병	NNP
+노인정	NNP
+노잼	NNP
+노하여	NNP
+노하여 화증	NNP
+노한다	NNP
+노함	NNP
+노후되다	NNP
+녹이 심하게	NNP
+논리가 없이	NNP
+논리적	NNP
+논리적인	NNP
+놀기만 하는	NNP
+놀기만 하다	NNP
+놀다	NNP
+놀라거나	NNP
+놀라거나 두려워서	NNP
+놀라거나 떪	NNP
+놀라거나 무서워	NNP
+놀라거나 불안하여	NNP
+놀라거나 슬퍼서	NNP
+놀라거나 아파서	NNP
+놀라거나 어색한	NNP
+놀라거나 피곤하거나	NNP
+놀라고	NNP
+놀랍거나 언짢아서	NNP
+놀랍다	NNP
+놀려	NNP
+놀려 말하는	NNP
+놀려 말하다	NNP
+놀리거나	NNP
+놀리는	NNP
+놀리는 말투나	NNP
+놀리는 모양	NNP
+놀리는 짓을	NNP
+놀리는 태도가	NNP
+놀리는 태도로	NNP
+놀리다	NNP
+놀리다 비아냥대다	NNP
+놀릴	NNP
+놀릴 때	NNP
+놀림	NNP
+놀림 받다	NNP
+놀림과	NNP
+놀림받다	NNP
+놀림을	NNP
+놀림을 받게	NNP
+놀림조	NNP
+놀림조로	NNP
+놀림조로 이르는	NNP
+놀아나는	NNP
+놀아나는 짓	NNP
+농락하여	NNP
+농지거리를	NNP
+농지거리를 하다	NNP
+높거나	NNP
+높거나 가치가	NNP
+높고	NNP
+높고 뛰어나다	NNP
+높고 맑다	NNP
+높고 빼어나게	NNP
+높다	NNP
+높여 부르는	NNP
+높여 이르는	NNP
+높은	NNP
+높은 경지로	NNP
+높은 경지에	NNP
+높은 등급으로	NNP
+높은 성적	NNP
+높은 수준에	NNP
+높은 작위	NNP
+높이 받들다	NNP
+높이 받듦	NNP
+높이 평가하거나	NNP
+높이 평가하다	NNP
+높이다	NNP
+놓쳐	NNP
+놓쳐 헤어지게	NNP
+놓치다	NNP
+뇌물을	NNP
+뇌물의	NNP
+뇌물의 성격을	NNP
+뇌성 마비에서	NNP
+뇌의 장애로	NNP
+뇌종양	NNP
+뇌진탕	NNP
+뇌출혈	NNP
+뇌타박상	NNP
+누그러지거나 부드러운	NNP
+누그러지거나 부드럽다	NNP
+누그럽거나 부드러운	NNP
+누그럽거나 부드럽다	NNP
+누르기 어려워하다	NNP
+누리게 하다	NNP
+눈곱이나	NNP
+눈꼴 사납게	NNP
+눈꼴사납게	NNP
+눈꼴사납고	NNP
+눈꼴사납다	NNP
+눈뜬장님	NNP
+눈매가 또렷하다	NNP
+눈매가 뚜렷하다	NNP
+눈물	NNP
+눈물겹다	NNP
+눈물을 흘리다	NNP
+눈물을 흘리며	NNP
+눈물이	NNP
+눈물이 나며	NNP
+눈물이 넘칠듯이	NNP
+눈물이 많이	NNP
+눈물이 좔좔	NNP
+눈빛이 반짝이다	NNP
+눈새	NNP
+눈알을 경망스럽게	NNP
+눈알이 우묵해지다	NNP
+눈앞에 생생하게	NNP
+눈앞에서 귀찮게	NNP
+눈에 거슬려	NNP
+눈에 거슬리는	NNP
+눈에 거슬리다	NNP
+눈에 눈물이	NNP
+눈에 뛸	NNP
+눈을 멋없이	NNP
+눈을 속여	NNP
+눈을 속임	NNP
+눈을 즐겁게	NNP
+눈이 가렵고	NNP
+눈이 깔깔하거나	NNP
+눈이 부시어	NNP
+눈이 좀스럽게	NNP
+눈이 풀려서	NNP
+눈치가 빠르거나	NNP
+눈치를	NNP
+눈치를 보며	NNP
+눌러 없애다	NNP
+눌려 졸아들고	NNP
+뉘우치고	NNP
+뉘우치고 고침	NNP
+뉘우치고 바로잡아	NNP
+뉘우치다	NNP
+뉘우치지 못함을	NNP
+뉘우침	NNP
+뉘우침이 없음	NNP
+느개비	NNP
+느글거리는	NNP
+느글거리는 모양	NNP
+느글거리다	NNP
+느글대다	NNP
+느금마	NNP
+느끼는 감동이나	NNP
+느끼는 고통	NNP
+느끼지 못하는	NNP
+느끼하다	NNP
+느끼해지는 모양	NNP
+느끼해지다	NNP
+느낌이 깨끗하고	NNP
+느낌이 부드럽게	NNP
+느낌이 시원하고	NNP
+느리고 굼뜨다	NNP
+느리다	NNP
+느릿느릿	NNP
+느릿느릿 굼뜨게	NNP
+느릿느릿 행동하는	NNP
+느릿느릿 힘없는	NNP
+느물거려	NNP
+느물거리는	NNP
+느물거리는 모양	NNP
+느즈러져	NNP
+늘 병치레를	NNP
+늘 소중하게	NNP
+늘 앓거나	NNP
+늘씬한	NNP
+늘씬한 모양	NNP
+늘어나다	NNP
+늙거나	NNP
+늙어 빠진	NNP
+늙어서	NNP
+늙은이를 낮잡아	NNP
+능글능글하다	NNP
+능글능글한	NNP
+능글능글한 모양	NNP
+능글맞게 하다	NNP
+능글맞고	NNP
+능란하게	NNP
+능력	NNP
+능력을 믿고	NNP
+능력이 뛰어나	NNP
+능력이 뛰어나다	NNP
+능력이 뛰어나다고	NNP
+능력이 없는	NNP
+능력이 없다	NNP
+능력이 없어지다	NNP
+능력이 없이	NNP
+능력이 있다	NNP
+능률이 나다	NNP
+능수능간	NNP
+능수능란	NNP
+능숙하게	NNP
+능숙하게 다루다	NNP
+능숙하게 처리하다	NNP
+능청맞고	NNP
+능청맞고 수선스럽게	NNP
+능청스러운	NNP
+능청스러운 짓을	NNP
+능청스럽게	NNP
+능청스럽게 구는	NNP
+능청스럽게 굴다	NNP
+능청스럽고	NNP
+능청스럽고 음흉한	NNP
+능청을	NNP
+능청을 부리며	NNP
+능통한	NNP
+능통한 재주	NNP
+능하고	NNP
+능하다	NNP
+능히	NNP
+능히 처리하다	NNP
+능히 해내거나	NNP
+늦다	NNP
+늦어지는	NNP
+늦어지는 모양	NNP
+늦어지다	NNP
+ㄷㅊ	NNP
+다 까칠하거나	NNP
+다 없애	NNP
+다 좋도록	NNP
+다 탐스럽게	NNP
+다그치다	NNP
+다그치며 몰아세우다	NNP
+다급하게	NNP
+다급하여	NNP
+다독거리다	NNP
+다독다독	NNP
+다독다독하다	NNP
+다듬어지지 않은	NNP
+다랍게	NNP
+다랍게 아첨을	NNP
+다루기가 거북하고	NNP
+다루기에 손쉽게	NNP
+다리가 무겁고	NNP
+다리가 약해져서	NNP
+다리가 잘못되어	NNP
+다리를 잘망스럽게	NNP
+다리를 절다	NNP
+다리를 절며	NNP
+다리를 절면서	NNP
+다부지게 하지 못하고	NNP
+다부지지 못하고	NNP
+다부지지 못하여	NNP
+다소 건방지게	NNP
+다소 비굴하게	NNP
+다소 엉뚱하게	NNP
+다시 살아나거나	NNP
+다시 성해지다	NNP
+다시 친숙해지다	NNP
+다시 평안하다	NNP
+다양하다	NNP
+다정하고	NNP
+다정하고 친절하게	NNP
+다정하고 친절하다	NNP
+다정하다	NNP
+다정하지 않고	NNP
+다채롭다	NNP
+다치거나	NNP
+다치거나 맞거나	NNP
+다치거나 하여	NNP
+다치게 하다	NNP
+다치게 함	NNP
+다치게 함으로써	NNP
+다치다	NNP
+다친 데나	NNP
+다친다는	NNP
+다친다는 뜻으로	NNP
+다침	NNP
+다투거나	NNP
+다투거나 우기다	NNP
+다투는	NNP
+다투는 것을	NNP
+다투는 모양	NNP
+다투는 소리	NNP
+다투다	NNP
+다툼을	NNP
+다하여 싸우다	NNP
+다하여 없다	NNP
+다행스럽다	NNP
+닥쳐오다	NNP
+닦달하거나	NNP
+단념할	NNP
+단념할 수밖에	NNP
+단단하게	NNP
+단단하고	NNP
+단단하고 굳세거나	NNP
+단단하고 굳세다	NNP
+단단히 가다듬다	NNP
+단단히 꾸짖어	NNP
+단련되고	NNP
+단련되고 굳세어지다	NNP
+단련되다	NNP
+단번에 빼앗다	NNP
+단아하게	NNP
+단아하게 건정히	NNP
+단작스럽게	NNP
+단정하게	NNP
+단정하게 차린	NNP
+단정하게 포개다	NNP
+단정하다	NNP
+단정하지 못하고	NNP
+단정하지 못하며	NNP
+단정하지 못한	NNP
+단출하게	NNP
+달갑지 아니하거나	NNP
+달갑지 아니하게	NNP
+달갑지 아니하여	NNP
+달갑지 아니하여서	NNP
+달갑지 아니한	NNP
+달갑지 아니한 태도를	NNP
+달갑지 않거나	NNP
+달갑지 않다	NNP
+달갑지 않은	NNP
+달갑지 않은 음식을	NNP
+달거나	NNP
+달거나 달콤하다	NNP
+달달하다	NNP
+달뜬	NNP
+달뜬 느낌	NNP
+달뜬 상태이다	NNP
+달뜸	NNP
+달래는 모양	NNP
+달래다	NNP
+달래어 편하게	NNP
+달성감	NNP
+달성하다	NNP
+달성한	NNP
+달아남	NNP
+달콤하고	NNP
+달콤하고 정다운	NNP
+달콤하다	NNP
+달콤한	NNP
+달콤한 느낌	NNP
+달콤한 말	NNP
+닳아	NNP
+담력과 지혜를	NNP
+담력이 약함을	NNP
+답답하거나	NNP
+답답하게	NNP
+답답하게 여기다	NNP
+답답하고	NNP
+답답하고 갑갑한	NNP
+답답하고 분한	NNP
+답답하고 분함	NNP
+답답하고 안타깝게	NNP
+답답하다	NNP
+답답하며	NNP
+답답하여	NNP
+답답하여 활기가	NNP
+답답하여진다	NNP
+답답한	NNP
+답답한 데	NNP
+답답한 마음이	NNP
+답답한 모양	NNP
+답답한 상태에서	NNP
+답답한 증상	NNP
+답답한 증세	NNP
+답답할	NNP
+답답할 때	NNP
+답답할 정도로	NNP
+답답함	NNP
+답답해진다	NNP
+당당하게	NNP
+당당하게 말하다	NNP
+당당하고	NNP
+당당하고 떳떳하게	NNP
+당당하다	NNP
+당차지 못하고	NNP
+당찮다	NNP
+당하거나 배척되다	NNP
+당하다	NNP
+당하였던	NNP
+당하였던 일이	NNP
+당한 것을	NNP
+당한 고통을	NNP
+당황하다	NNP
+당황하여	NNP
+당황한	NNP
+당황해하는	NNP
+당황해하는 모양	NNP
+당황해하다	NNP
+대가	NNP
+대가 없이 내놓다	NNP
+대강 하고	NNP
+대강대강	NNP
+대강대강 아무렇게나	NNP
+대견하고	NNP
+대구하는 짓을	NNP
+대꾸하는	NNP
+대단치 아니하거나	NNP
+대단치 않은	NNP
+대단하거나	NNP
+대단하거나 강하다	NNP
+대단하고	NNP
+대단하고 극진하게	NNP
+대단하고 극진하다	NNP
+대단하고 극진한	NNP
+대단하다	NNP
+대단한	NNP
+대단한 상태에	NNP
+대단히 괜찮음	NNP
+대담하고	NNP
+대담하고 시원스럽게	NNP
+대담하지 못하고	NNP
+대드는 짓	NNP
+대들다	NNP
+대립으로	NNP
+대립하는	NNP
+대립하는 관계에	NNP
+대상	NNP
+대상을 무서워하여	NNP
+대상을 아끼고	NNP
+대상을 위협하기	NNP
+대상이 시원스럽도록	NNP
+대수롭지 아니하거나	NNP
+대수롭지 아니하고	NNP
+대수롭지 아니하다	NNP
+대수롭지 아니한	NNP
+대열을 깨끗이	NNP
+대접	NNP
+대접하기	NNP
+대접하는	NNP
+대접하는 일	NNP
+대접함	NNP
+대중없이	NNP
+대중없이 날뛰는	NNP
+대중이 없다	NNP
+대책이 없이	NNP
+대충 하고	NNP
+대충대충	NNP
+대충대충 일을	NNP
+대충대충 하는	NNP
+대충대충 하다	NNP
+대충하다	NNP
+대할 만하게	NNP
+대할 만하다	NNP
+더 강하게	NNP
+더 강하고	NNP
+더 높거나	NNP
+더 높은	NNP
+더 좋게	NNP
+더 필요한	NNP
+더들다	NNP
+더듬는	NNP
+더듬는 모양	NNP
+더디거나	NNP
+더디거나 지루하여	NNP
+더디다	NNP
+더딘	NNP
+더딘 모양	NNP
+더러운	NNP
+더러운 데가	NNP
+더러운 도랑이라는	NNP
+더러운 때에	NNP
+더러운 모양	NNP
+더러운 무리	NNP
+더러운 점	NNP
+더러움	NNP
+더러움을 씻고	NNP
+더러워	NNP
+더러워져서	NNP
+더러워지거나	NNP
+더러워지다	NNP
+더러워진	NNP
+더러워진 상태	NNP
+더러워진 옷	NNP
+더럽게	NNP
+더럽게 꼴로	NNP
+더럽게 생각하고	NNP
+더럽게 아첨을	NNP
+더럽게 여겨져	NNP
+더럽고	NNP
+더럽고 궁상스러운	NNP
+더럽고 치사하여	NNP
+더럽다	NNP
+더럽혀서	NNP
+더럽혀서 쓰지	NNP
+더럽혀진	NNP
+더럽혀진 물	NNP
+더럽히는	NNP
+더럽히는 일을	NNP
+더럽히는 짓을	NNP
+더럽히다	NNP
+더부룩이	NNP
+더부룩하고	NNP
+더부룩하다	NNP
+더부룩하면서	NNP
+더부룩하여	NNP
+더없이	NNP
+더없이 뛰어난	NNP
+더욱 든든하고	NNP
+더욱 심해지는	NNP
+더위를 먹어서	NNP
+더위에 괴로워하는	NNP
+더하다	NNP
+더할 나위 없이	NNP
+더할 나위 없이 맑고	NNP
+더할 나위 없이 좋음	NNP
+더할 바 없이	NNP
+더할 수 없이	NNP
+덕	NNP
+덕망을 갖춘	NNP
+덕망이 높고	NNP
+덕망이 높은	NNP
+덕망이 뛰어난	NNP
+덕을	NNP
+덕을 보다	NNP
+덕을 봄	NNP
+덕을 찬미한	NNP
+덕이 넓어	NNP
+덕이 높고	NNP
+덕이 있는	NNP
+덕이 훌륭하고	NNP
+덕이라는	NNP
+덕행을	NNP
+덕행을 닦는	NNP
+덕행이	NNP
+덕행이 높고	NNP
+덕행이 뛰어나	NNP
+덜렁거리며	NNP
+덜렁거리며 돌아다니는	NNP
+덤벼들어	NNP
+덤비거나	NNP
+덤비는 짓을	NNP
+덤비다	NNP
+덥거나	NNP
+덥다	NNP
+덧나다	NNP
+덩이가 볼품없이	NNP
+덮어 주다	NNP
+데 적합하다	NNP
+데면데면하게	NNP
+데면데면하다	NNP
+데면데면함	NNP
+도덕적	NNP
+도덕적 기준에	NNP
+도도하게	NNP
+도도하게 행동하다	NNP
+도둑	NNP
+도둑을 맞은	NNP
+도둑질하다	NNP
+도둑질한	NNP
+도리	NNP
+도리가 없다	NNP
+도리가 없이	NNP
+도리를 깨닫는	NNP
+도리어 말대답을	NNP
+도리에 어그러지고	NNP
+도리에 어긋남에도	NNP
+도망하는	NNP
+도망하는 짓	NNP
+도박에서 져서	NNP
+도살되다	NNP
+도살하다	NNP
+도와서 이루어지도록	NNP
+도와주다	NNP
+도외시하다	NNP
+도움	NNP
+도움을 얻다	NNP
+도움을 주는	NNP
+도움이 되는	NNP
+도움이 될 만한	NNP
+도의심이 없다	NNP
+도의심이 없음	NNP
+도적질	NNP
+도중에 실패로	NNP
+독	NNP
+독 작용	NNP
+독감	NNP
+독보적	NNP
+독사	NNP
+독살스러운	NNP
+독살스러운 데가	NNP
+독이	NNP
+독차지함	NNP
+독창적	NNP
+독창적인	NNP
+독특하다	NNP
+독하거나	NNP
+독한	NNP
+독한 냄새	NNP
+돈을 빼앗기거나	NNP
+돈을 축냄	NNP
+돈이 많음	NNP
+돋는다	NNP
+돋보이다	NNP
+돋우다	NNP
+돌겠네	NNP
+돌과 같은 머리라는	NNP
+돌머리	NNP
+돌보지 아니하다	NNP
+돌보지 않음을	NNP
+돌봄이 없이	NNP
+돌아보아지지 않고	NNP
+돌아보지 아니하다	NNP
+돌아보지 아니함	NNP
+돕는 마음	NNP
+돕다	NNP
+동경하고	NNP
+동기 부여하다	NNP
+동기를 부여하다	NNP
+동기부여하다	NNP
+동의?어보감	NNP
+동작이 거칠게	NNP
+동작이 느리고	NNP
+동통	NNP
+되거나	NNP
+되거나 맵짜다	NNP
+되는 서러운	NNP
+되는대로 마구	NNP
+되는대로 지껄이다	NNP
+되는대로 팽개치다	NNP
+되바라지게	NNP
+되바라지게 행동하는	NNP
+되바라지게 행동하다	NNP
+되어 무안하고	NNP
+되지 못하다	NNP
+되지 아니하거나	NNP
+되지 아니하면서	NNP
+되지 아니하여	NNP
+되지 않고	NNP
+되지 않아	NNP
+되지못한	NNP
+되지못한 소리로	NNP
+되지못한 희떠운	NNP
+되찾는	NNP
+되찾는 일	NNP
+되풀이되어 물리거나	NNP
+됨됨이가 뛰어나고	NNP
+됨됨이가 원숙하여	NNP
+두근거리다	NNP
+두드러지게 뛰어나다	NNP
+두드러지다	NNP
+두드러진 보람	NNP
+두려운	NNP
+두려운 마음을	NNP
+두려운 마음이	NNP
+두려운 인물이	NNP
+두려움	NNP
+두려움 따위를	NNP
+두려움으로	NNP
+두려움을	NNP
+두려움을 주는	NNP
+두려움이나	NNP
+두려워	NNP
+두려워서	NNP
+두려워서 몸을	NNP
+두려워하는	NNP
+두려워하는 병	NNP
+두려워하다	NNP
+두려워하여	NNP
+두려워하여 경계하는	NNP
+두려워하지 아니하다	NNP
+두려워하지 아니함	NNP
+두려워함	NNP
+두렵거나	NNP
+두렵거나 무서워	NNP
+두렵거나 싫어서	NNP
+두렵거나 춥거나	NNP
+두렵거나 흥분	NNP
+두렵고	NNP
+두렵고 무서움	NNP
+두렵다	NNP
+두창을	NNP
+두창을 앓을	NNP
+두터운 덕이라는	NNP
+두터운 혜택이나	NNP
+두텁다	NNP
+두통	NNP
+두통이나	NNP
+둔하게	NNP
+둔하고	NNP
+둔하고 미련한	NNP
+둔하다	NNP
+둔한	NNP
+둔한 데가	NNP
+뒤가 무지근한	NNP
+뒤끓다	NNP
+뒤떨어져	NNP
+뒤떨어지거나	NNP
+뒤떨어지거나 모자라다	NNP
+뒤떨어지거나 못하다	NNP
+뒤로 물러나다	NNP
+뒤바뀌어 지다	NNP
+뒤바뀌어 짐	NNP
+뒤섞거나	NNP
+뒤섞거나 뒤얽히게	NNP
+뒤섞여 너저분하다	NNP
+뒤섞이거나 뒤얽혀	NNP
+뒤숭숭하게	NNP
+뒤숭숭하다	NNP
+뒤숭숭한	NNP
+뒤숭숭한 느낌	NNP
+뒤숭숭한 시기	NNP
+뒤숭숭함	NNP
+뒤얽혀	NNP
+뒤얽히게	NNP
+뒤얽히게 하다	NNP
+뒤엉키어	NNP
+뒤에 처지다	NNP
+뒤져 있다	NNP
+뒤지어 훔치다	NNP
+뒤척거리다	NNP
+뒤틀리다	NNP
+뒤틀리어서	NNP
+뒷거래하다	NNP
+드높은	NNP
+드높은 모양	NNP
+드러나는 멋	NNP
+드러내어 뽐낼	NNP
+드러내어 탓하다	NNP
+드문드문 벗어진	NNP
+드센	NNP
+득템	NNP
+든든하고	NNP
+든든하고 굳세다	NNP
+든든하고 튼튼하다	NNP
+든든하다	NNP
+든든하지 못해서	NNP
+든든히	NNP
+든든히 의지할	NNP
+듣기 거북하게	NNP
+듣기 거북한	NNP
+듣기 싫게	NNP
+듣기 싫도록	NNP
+듣기 싫은	NNP
+듣기 좋게	NNP
+듣기 좋은	NNP
+듣기 좋을	NNP
+듣기에 상쾌하다	NNP
+듣보잡	NNP
+들기 좋을	NNP
+들끓다	NNP
+들떠서 건들거리고	NNP
+들떠서 두근거리다	NNP
+들뜬	NNP
+들뜬 상태에	NNP
+들먹이며 우쭐하다	NNP
+들먹이며 우쭐해하다	NNP
+들볶거나	NNP
+들볶거나 번거롭게	NNP
+들볶다	NNP
+들어 앓는	NNP
+들어맞다	NNP
+들어오지 못하게	NNP
+들지 아니하거나	NNP
+들지 아니하여	NNP
+들추어내어 일러바치다	NNP
+듯이 날뛰다	NNP
+듯이 날뜀	NNP
+등급이 낮은	NNP
+등급이 떨어지고	NNP
+등뼈가 굽어	NNP
+등지게 되다	NNP
+따가운	NNP
+따가운 느낌	NNP
+따가운 느낌이	NNP
+따가울	NNP
+따가울 정도로	NNP
+따금대다	NNP
+따끔거리는	NNP
+따끔거리는 느낌이	NNP
+따끔따끔히	NNP
+따끔하게	NNP
+따끔하게 내리는	NNP
+따끔하게 울리다	NNP
+따끔히	NNP
+따돌리거나 멀리함	NNP
+따돌림을	NNP
+따돌림을 당하거나	NNP
+따돌림을 당하여	NNP
+따뜻이	NNP
+따뜻이 어루만져	NNP
+따뜻하게	NNP
+따뜻하고	NNP
+따뜻하고 포근한	NNP
+따뜻하다	NNP
+따뜻하며	NNP
+따뜻하여	NNP
+따뜻하여 편안하다	NNP
+따뜻하여 편안한	NNP
+따뜻하지 않다는	NNP
+따뜻한	NNP
+따뜻한 느낌	NNP
+따뜻한 보호	NNP
+따르지 못하거나	NNP
+따르지 않고	NNP
+따름	NNP
+따분하고	NNP
+따스함이 있게	NNP
+따스함이 있다	NNP
+따위가 급하고	NNP
+따위가 기쁘고	NNP
+따위가 덧나다	NNP
+따위가 상서롭다	NNP
+따위가 성가시고	NNP
+따위가 술렁거리어	NNP
+따위가 왕성하다	NNP
+따위가 흐뭇하고	NNP
+따위를 아프고	NNP
+따지고	NNP
+따지고 들다	NNP
+따지며	NNP
+따지며 싸우다	NNP
+딱 알맞다	NNP
+딱딱대다	NNP
+딱딱한 말씨로	NNP
+딱하거나	NNP
+딱하게	NNP
+딱하게 되어	NNP
+딱하게 여기다	NNP
+딱하고	NNP
+딱하고 불쌍하게	NNP
+딱하다	NNP
+딱하여	NNP
+딱한	NNP
+딱한 사정에	NNP
+딱한 일을	NNP
+딱한 형편을	NNP
+딱한 형편이	NNP
+딱함	NNP
+딴전을	NNP
+딴전을 부림을	NNP
+딸바보	NNP
+때가	NNP
+때가 끼어서	NNP
+때가 늦음	NNP
+때가 찌들어서	NNP
+때나	NNP
+때려	NNP
+때려 죽여서	NNP
+때려서	NNP
+때려서 상처를	NNP
+때를 없애다	NNP
+때를 없앰	NNP
+때리는	NNP
+때리는 일	NNP
+때리는 일을	NNP
+때림을	NNP
+때림을 이르는	NNP
+떠넘기려고	NNP
+떠넘기려고 하다	NNP
+떠드는	NNP
+떠드는 모양	NNP
+떠들거나	NNP
+떠들다	NNP
+떠들며	NNP
+떠들썩대다	NNP
+떠들썩하게	NNP
+떠들썩하다	NNP
+떠들어	NNP
+떠들어 대는	NNP
+떠들어 대다	NNP
+떠들어서	NNP
+떠벌리다	NNP
+떡실신	NNP
+떨구다	NNP
+떨다	NNP
+떨림	NNP
+떨며	NNP
+떨며 조심하다	NNP
+떨며 조심함	NNP
+떨어져 나가다	NNP
+떨어지는 증상	NNP
+떨어지다	NNP
+떨어트리다	NNP
+떪	NNP
+떳떳하게	NNP
+떳떳하고	NNP
+떳떳하고 올바르게	NNP
+떳떳하고 올바르다	NNP
+떳떳하다	NNP
+떳떳하지 못하거나	NNP
+떳떳하지 못하게	NNP
+떳떳하지 못하다	NNP
+떳떳하지 못하여	NNP
+떳떳하지 못한	NNP
+떳떳한	NNP
+떳떳한 도리를	NNP
+떳떳한 모습이나	NNP
+떼를 쓰며	NNP
+또는 순수하게	NNP
+또는 슬프게	NNP
+또는 즐겁고	NNP
+또라이	NNP
+또랑또랑하여	NNP
+또렷또렷	NNP
+또렷또렷하다	NNP
+또렷또렷한	NNP
+또렷이	NNP
+또렷하게 하다	NNP
+또렷하다	NNP
+또렷하지 못하고	NNP
+또렷하지 아니하고	NNP
+또렷한	NNP
+또렷한 상태로	NNP
+또박또박하게	NNP
+또박또박하게 하는	NNP
+또박또박하게 하다	NNP
+똑똑하고	NNP
+똑똑하고 뚜렷하게	NNP
+똑똑하고 뚜렷하다	NNP
+똑똑하고 영리하게	NNP
+똑똑하다	NNP
+똑똑하지 못하고	NNP
+똑똑하지 못하다	NNP
+똑똑하지 못하여	NNP
+똑똑하지 못한	NNP
+똑똑하지 않은	NNP
+똑똑한	NNP
+똑똑한 모양	NNP
+똑바르다	NNP
+똘똘하지 못하고	NNP
+똘똘히	NNP
+똥꼬충	NNP
+똥똥하게	NNP
+똥똥한	NNP
+똥똥한 모양	NNP
+뚜렷하게	NNP
+뚜렷하고	NNP
+뚜렷하고 크다	NNP
+뚜렷하다	NNP
+뚜렷하여	NNP
+뚜렷하지 아니하다	NNP
+뚜렷하지 않은	NNP
+뚝둑하고	NNP
+뚫고 지나가다	NNP
+뚫어트리다	NNP
+뚱뚱하다	NNP
+뚱뚱한	NNP
+뚱뚱한 사람	NNP
+뛰어나	NNP
+뛰어나 유명한	NNP
+뛰어나 존경받는	NNP
+뛰어나거나	NNP
+뛰어나게	NNP
+뛰어나게 세다	NNP
+뛰어나게 훌륭한	NNP
+뛰어나고	NNP
+뛰어나고 특이하다	NNP
+뛰어나고 훌륭하게	NNP
+뛰어나고 훌륭하다	NNP
+뛰어나고 훌륭한	NNP
+뛰어나다	NNP
+뛰어나다는	NNP
+뛰어나다는 뜻에서	NNP
+뛰어난	NNP
+뛰어난 것	NNP
+뛰어난 견해	NNP
+뛰어난 경지에	NNP
+뛰어난 대가	NNP
+뛰어난 덕	NNP
+뛰어난 명장	NNP
+뛰어난 모양	NNP
+뛰어난 문채로	NNP
+뛰어난 미인	NNP
+뛰어난 사람	NNP
+뛰어난 사람으로	NNP
+뛰어난 성질	NNP
+뛰어난 슬기나	NNP
+뛰어난 역량을	NNP
+뛰어난 영웅	NNP
+뛰어난 예능을	NNP
+뛰어난 자연의	NNP
+뛰어난 재능	NNP
+뛰어난 재능과	NNP
+뛰어난 재주	NNP
+뛰어난 재주나	NNP
+뛰어난 지혜	NNP
+뛰어난 진리	NNP
+뛰어난 풍채와	NNP
+뛰어남	NNP
+뛰어넘다	NNP
+뜨겁다	NNP
+뜨끔거리는	NNP
+뜨끔거리는 느낌이	NNP
+뜨끔뜨끔히	NNP
+뜨끔하게	NNP
+뜨끔하게 울리는	NNP
+뜨뜻하고	NNP
+뜻깊은	NNP
+뜻깊은 일이나	NNP
+뜻대로 되지 아니하거나	NNP
+뜻대로 되지 아니하여	NNP
+뜻대로 되지 않아	NNP
+뜻대로 안 되거나	NNP
+뜻밖의 변이나	NNP
+뜻밖의 사고가	NNP
+뜻밖의 사고를	NNP
+뜻으로 두려워서	NNP
+뜻을 굽히다	NNP
+뜻을 이루거나	NNP
+뜻이 강하다	NNP
+뜻이 맞지 아니하여	NNP
+뜻이 있거나	NNP
+뜻하지 아니하게	NNP
+뜻하지 아니한	NNP
+뜻한 바를 굽히지 않고 밀고 나아가는 힘이 있다	NNP
+띠꾸	NNP
+로맨티시즘	NNP
+루머	NNP
+리즈시절	NNP
+ㅁㅊ	NNP
+마구 가두거나	NNP
+마구 내버리거나	NNP
+마구 다그치다	NNP
+마구 들볶다	NNP
+마구 때림을	NNP
+마구 떠들거나	NNP
+마구 떠들어	NNP
+마구 쓰는 모양	NNP
+마구 쓰다	NNP
+마구 죄어들거나	NNP
+마구 주저앉거나	NNP
+마구 죽이는	NNP
+마구 죽이는 일	NNP
+마구 죽임을	NNP
+마구 지껄이는	NNP
+마구 쳐부수는	NNP
+마구 헐뜯는	NNP
+마구 헝클어지거나	NNP
+마구 화풀이를	NNP
+마는 둥	NNP
+마땅치 않은	NNP
+마땅하고	NNP
+마땅하고 떳떳한	NNP
+마땅하고 좋게	NNP
+마땅하지 않은	NNP
+마르거나 시들어서	NNP
+마맛자국이	NNP
+마비	NNP
+마비 따위의	NNP
+마비되거나	NNP
+마비되고 저리거나	NNP
+마비되는	NNP
+마비되는 병증	NNP
+마비에서	NNP
+마스터피스	NNP
+마약	NNP
+마음대로	NNP
+마음대로 정치를	NNP
+마음대로 처리함을	NNP
+마음대로 하다	NNP
+마음대로 함을	NNP
+마음대로 행동함	NNP
+마음속에 간직하다	NNP
+마음속이 답답하여	NNP
+마음씨가 곱고	NNP
+마음씨가 맑고	NNP
+마음에 간직하다	NNP
+마음에 걸려	NNP
+마음에 걸리는	NNP
+마음에 걸리는 일이	NNP
+마음에 걸리다	NNP
+마음에 걸리어	NNP
+마음에 근심이	NNP
+마음에 내키지 않게	NNP
+마음에 들	NNP
+마음에 들다	NNP
+마음에 들어	NNP
+마음에 들지 아니하다	NNP
+마음에 들지 아니하여	NNP
+마음에 들지 아니하여서	NNP
+마음에 들지 않거나	NNP
+마음에 들지 않다	NNP
+마음에 들지 않아	NNP
+마음에 멍이 들거나	NNP
+마음에 모자라	NNP
+마음에 못마땅하거나	NNP
+마음에 못마땅하여	NNP
+마음에 못마땅할	NNP
+마음에 미안하게	NNP
+마음에 미안하고	NNP
+마음에 미안하다	NNP
+마음에 미안함	NNP
+마음에 안 들거나	NNP
+마음에 언짢고	NNP
+마음에 언짢아서	NNP
+마음에 없는 말로	NNP
+마음에 없는 일을	NNP
+마음에 여유가 있다	NNP
+마음에 자리자리한	NNP
+마음에 차지 아니하고	NNP
+마음에 차지 아니하여	NNP
+마음에 차지 아니하여서	NNP
+마음에 차지 않거나	NNP
+마음에 차지 않아	NNP
+마음에 흐뭇하거나	NNP
+마음에 흐뭇하고	NNP
+마음에 흐뭇하여	NNP
+마음에 흡족하여	NNP
+마음으로 근심함	NNP
+마음으로 좀스럽게	NNP
+마음을 가라앉히고	NNP
+마음을 계속 졸이는	NNP
+마음을 계속 졸이다	NNP
+마음을 깨끗이	NNP
+마음을 놓을 수 없게	NNP
+마음을 놓지 못하고	NNP
+마음을 받아들이다	NNP
+마음을 베풀거나	NNP
+마음을 상하게	NNP
+마음을 써서	NNP
+마음을 조임	NNP
+마음을 졸이는	NNP
+마음을 졸이다	NNP
+마음을 졸이며	NNP
+마음을 졸임	NNP
+마음을 털어놓고	NNP
+마음을 편안하고	NNP
+마음을 편히	NNP
+마음을 홀리는	NNP
+마음의 괴로움과	NNP
+마음의 병을	NNP
+마음이 가볍고	NNP
+마음이 간절하다	NNP
+마음이 거북하다	NNP
+마음이 괴로운	NNP
+마음이 괴롭고	NNP
+마음이 구슬퍼질	NNP
+마음이 놓이지 않아	NNP
+마음이 답답하고	NNP
+마음이 들뜬	NNP
+마음이 맑게	NNP
+마음이 맞고	NNP
+마음이 맞지 아니하여	NNP
+마음이 몹시 상함	NNP
+마음이 무거워지다	NNP
+마음이 무겁거나	NNP
+마음이 불안하거나	NNP
+마음이 불안하게	NNP
+마음이 불안하다	NNP
+마음이 불안한	NNP
+마음이 불편하고	NNP
+마음이 불편하여	NNP
+마음이 사늘한	NNP
+마음이 상하게	NNP
+마음이 상하다	NNP
+마음이 상함	NNP
+마음이 생기다	NNP
+마음이 서로 맞지 않아	NNP
+마음이 서운하거나	NNP
+마음이 설레다	NNP
+마음이 슬프다	NNP
+마음이 신령하다	NNP
+마음이 신령하여	NNP
+마음이 쓰리고	NNP
+마음이 아프고	NNP
+마음이 아프다	NNP
+마음이 아픈	NNP
+마음이 아플	NNP
+마음이 안 놓여	NNP
+마음이 안타깝거나	NNP
+마음이 안타깝게	NNP
+마음이 언짢게	NNP
+마음이 언짢고	NNP
+마음이 언짢아서	NNP
+마음이 언짢아지다	NNP
+마음이 우울하게	NNP
+마음이 움직이다	NNP
+마음이 움직임	NNP
+마음이 조급하여	NNP
+마음이 좁고	NNP
+마음이 좁아	NNP
+마음이 즐겁고	NNP
+마음이 지치어	NNP
+마음이 진정되어	NNP
+마음이 참되고	NNP
+마음이 초조하고	NNP
+마음이 초조하고 불안하다	NNP
+마음이 초조한	NNP
+마음이 초초하고	NNP
+마음이 크다	NNP
+마음이 텅 비어	NNP
+마음이 텅 빈것같이	NNP
+마음이 편안하게	NNP
+마음이 편안하다	NNP
+마음이 편안하지 못하다	NNP
+마음이 평온하다	NNP
+마음이 평온히	NNP
+마음이 풀리어	NNP
+마음이 한가하게	NNP
+마음이 한가하다	NNP
+마음이 허전하거나	NNP
+마음이 후련하게	NNP
+마음이 후련하고	NNP
+마음이 후련하다	NNP
+마음이 흐뭇하고	NNP
+마음이 흡족하게	NNP
+마음이 흡족하여	NNP
+마이너스	NNP
+마주치기를 꺼리어	NNP
+마지못하여	NNP
+마지못하여 먹다	NNP
+마지못해	NNP
+마초맨	NNP
+막되게	NNP
+막되게 행동하다	NNP
+막되다	NNP
+막되어	NNP
+막막하게	NNP
+막막하다	NNP
+막연하다	NNP
+막혀	NNP
+막히는	NNP
+막히는 것을	NNP
+막히는 모양	NNP
+막히는 장애물을	NNP
+막히다	NNP
+막힌 듯이	NNP
+막힘없이	NNP
+막힘없이 깨끗하고	NNP
+막힘없이 잘	NNP
+막힘이 없는	NNP
+막힘이 없다	NNP
+막힘이 없이	NNP
+만나고 싶지 않았던	NNP
+만나지 못하여	NNP
+만만한	NNP
+만만한 사람	NNP
+만성 질환	NNP
+만성 피부염	NNP
+만족	NNP
+만족과	NNP
+만족과 기쁨을	NNP
+만족스러운	NNP
+만족스러운 데가	NNP
+만족스러운 듯이	NNP
+만족스러운 듯하다	NNP
+만족스러운 모양	NNP
+만족스럽거나	NNP
+만족스럽게	NNP
+만족스럽다	NNP
+만족스럽지 못하게	NNP
+만족스럽지 못하다	NNP
+만족스럽지 않고	NNP
+만족시키는	NNP
+만족시키는 일	NNP
+만족을 줄	NNP
+만족하는	NNP
+만족하다	NNP
+만족한	NNP
+만족한 마음이	NNP
+만족할	NNP
+만족할 만큼	NNP
+만족할 만하다	NNP
+만족할 만한	NNP
+만족함	NNP
+만큼 귀여운	NNP
+많다	NNP
+많은 경험으로	NNP
+많은 고생을	NNP
+많은 복리	NNP
+많은 복리를	NNP
+많은 복을	NNP
+많음	NNP
+많이 닥쳐오다	NNP
+많이 무질서하게	NNP
+많이 상하다	NNP
+많이 상해서	NNP
+많이 잡다	NNP
+많이 잡혔음을	NNP
+많이 잡히는	NNP
+말끔하게	NNP
+말끔하게 바로잡다	NNP
+말끔하게 바로잡히다	NNP
+말끔하게 반듯이	NNP
+말끔하게 이루어지다	NNP
+말끔하게 하다	NNP
+말끔하고	NNP
+말끔하고 깨끗하게	NNP
+말끔하다	NNP
+말끔하여	NNP
+말끔한	NNP
+말끔한 모양	NNP
+말끔히	NNP
+말끔히 가다듬어	NNP
+말다툼하다	NNP
+말대꾸하다	NNP
+말대답을	NNP
+말대답을 하며	NNP
+말똥말똥	NNP
+말똥말똥 쳐다보다	NNP
+말라 없어지다	NNP
+말라서	NNP
+말라서 거친	NNP
+말라죽은	NNP
+말라죽을	NNP
+말라죽을 꼴로	NNP
+말로 꾀어	NNP
+말소리가 찡찡한	NNP
+말썽을	NNP
+말썽을 부리거나	NNP
+말썽을 일으키다	NNP
+말썽이	NNP
+말썽이 나서	NNP
+말쑥하고	NNP
+말쑥하고 곱다	NNP
+말쑥하고 단정하게	NNP
+말쑥하고 잘생겨	NNP
+말쑥하다	NNP
+말쑥한 모양	NNP
+말없이	NNP
+말에 부정하여	NNP
+말에 엇서며	NNP
+말을 부정하며	NNP
+말을 정답게	NNP
+말을 함부로	NNP
+말이 버릇없고	NNP
+말짱하게	NNP
+말짱하다	NNP
+말하기 어렵게	NNP
+말할 수 없을 만큼	NNP
+맑거나	NNP
+맑거나 고르다	NNP
+맑게	NNP
+맑게 개는	NNP
+맑고	NNP
+맑고 고상한	NNP
+맑고 고움	NNP
+맑고 깨끗하다	NNP
+맑고 깨끗하다는	NNP
+맑고 깨끗한	NNP
+맑고 또렷한	NNP
+맑고 보드랍다	NNP
+맑고 산뜻하게	NNP
+맑고 아름다움	NNP
+맑고 아름다움을	NNP
+맑고 아름답다	NNP
+맑고 투명하다	NNP
+맑고 환하게	NNP
+맑고 환한	NNP
+맑다	NNP
+맑다는	NNP
+맑다는 뜻	NNP
+맑아지는	NNP
+맑아지는 모양	NNP
+맑은	NNP
+맑은 티가	NNP
+맑은 향기가	NNP
+맑지 못하고	NNP
+맑지 아니하고	NNP
+맑지 아니하다	NNP
+맑지 아니한	NNP
+맑지 않아서	NNP
+맛 좋은	NNP
+맛깔나다	NNP
+맛깔스럽게	NNP
+맛도 좋은	NNP
+맛없다	NNP
+맛없이	NNP
+맛없이 우쭐하여	NNP
+맛이 개운하게	NNP
+맛이 달거나	NNP
+맛이 약하다	NNP
+맛이 없이	NNP
+맛이 있게	NNP
+맛이 있다	NNP
+맛이 있으며	NNP
+맛이 좋게	NNP
+맛이 좋음	NNP
+맛있게	NNP
+맛있게 먹는	NNP
+맛있게 먹다	NNP
+맛있게 씹는	NNP
+맛있게 씹다	NNP
+맛있는	NNP
+맛있는 것을	NNP
+맛있는 음식	NNP
+맛있다	NNP
+맛집	NNP
+망그러지다	NNP
+망상	NNP
+망상과 잡념을 없애고	NNP
+망설여지며	NNP
+망설이거나	NNP
+망설이고	NNP
+망설이기만	NNP
+망설이기만 하고	NNP
+망설이는	NNP
+망설이는 모양	NNP
+망설이다	NNP
+망설이며	NNP
+망설이며 주저주저하는	NNP
+망설이며 주저주저하다	NNP
+망신	NNP
+망신스러운	NNP
+망신스러운 일을	NNP
+망실	NNP
+망실하다	NNP
+망치는 짓을	NNP
+망치다	NNP
+망하는	NNP
+망하는 때	NNP
+망하다	NNP
+망할	NNP
+망할 꼴로	NNP
+맞갖지 않게	NNP
+맞갖지 않다	NNP
+맞거나	NNP
+맞거나 하여	NNP
+맞게 행동하는	NNP
+맞고 순순히	NNP
+맞지 아니하고	NNP
+맞지 아니하기도	NNP
+맞지 아니하다	NNP
+맞지 아니하여	NNP
+맞지 아니한다고	NNP
+맞지 아니함	NNP
+맞지 않거나	NNP
+맞지 않게	NNP
+맞지 않는	NNP
+맞추기 힘들	NNP
+맞추기 힘들 만큼	NNP
+맞추어	NNP
+맞추어 나가다	NNP
+매끄러운	NNP
+매끄러운 모양	NNP
+매끄러워서	NNP
+매끄럽고	NNP
+매끄럽다	NNP
+매끈둥대다	NNP
+매끈하게	NNP
+매끈하지 못하고	NNP
+매독	NNP
+매독균의	NNP
+매독균의 침입으로	NNP
+매력에	NNP
+매력에 이끌리는	NNP
+매력에 이끌리다	NNP
+매력이 있다	NNP
+매력있다	NNP
+매력적이다	NNP
+매력적인	NNP
+매로	NNP
+매로 때리는	NNP
+매료되어	NNP
+매료되어 취하다	NNP
+매를 맞는	NNP
+매몰차게	NNP
+매몰차고	NNP
+매섭게 공격하다	NNP
+매섭게 독하거나	NNP
+매스껍고	NNP
+매슥매슥하여	NNP
+매여	NNP
+매우 가난하여	NNP
+매우 가쁘고	NNP
+매우 가소롭게	NNP
+매우 가소롭다	NNP
+매우 간지럽고	NNP
+매우 거만하게	NNP
+매우 거만하고	NNP
+매우 거친	NNP
+매우 거칠게	NNP
+매우 거칠고	NNP
+매우 거칠다	NNP
+매우 경망스럽게	NNP
+매우 경망스럽고	NNP
+매우 경망하게	NNP
+매우 경박하다	NNP
+매우 고귀한	NNP
+매우 고분고분하고	NNP
+매우 고통스럽게	NNP
+매우 곱다	NNP
+매우 공손하게	NNP
+매우 괴로워하다	NNP
+매우 괴롭다	NNP
+매우 교만하고	NNP
+매우 구성지고	NNP
+매우 굼뜨게	NNP
+매우 귀엽게	NNP
+매우 귀중하게	NNP
+매우 귀찮을	NNP
+매우 귀하다	NNP
+매우 그러하다	NNP
+매우 그럴싸하다	NNP
+매우 근심하다	NNP
+매우 근지럽고	NNP
+매우 급하게	NNP
+매우 급하고	NNP
+매우 기뻐서	NNP
+매우 기뻐하고	NNP
+매우 기쁘다	NNP
+매우 기쁨	NNP
+매우 까다로운	NNP
+매우 까다롭게	NNP
+매우 까다롭다	NNP
+매우 깔깔하며	NNP
+매우 깨끗하고	NNP
+매우 꾸준한	NNP
+매우 꾸준함	NNP
+매우 나빠지거나	NNP
+매우 난폭하거나	NNP
+매우 넉넉하고	NNP
+매우 눈꼴사납고	NNP
+매우 느끼하다	NNP
+매우 느리고	NNP
+매우 능글능글한	NNP
+매우 능청스럽고	NNP
+매우 다정하다	NNP
+매우 다행스럽다	NNP
+매우 답답하다	NNP
+매우 더운	NNP
+매우 두텁다	NNP
+매우 따뜻하게	NNP
+매우 따뜻하다	NNP
+매우 떨어지고	NNP
+매우 뛰어나	NNP
+매우 뛰어나다	NNP
+매우 뛰어난	NNP
+매우 뛰어남	NNP
+매우 뜨뜻하고	NNP
+매우 만족스러운	NNP
+매우 만족스럽다	NNP
+매우 만족할	NNP
+매우 맑고	NNP
+매우 매끄럽다	NNP
+매우 매끈하게	NNP
+매우 멀끔하다	NNP
+매우 멋없이	NNP
+매우 멍한	NNP
+매우 메스껍고	NNP
+매우 메스껍다	NNP
+매우 모질고	NNP
+매우 못된	NNP
+매우 못마땅해하면서	NNP
+매우 못마해하면서	NNP
+매우 미끄러운	NNP
+매우 미끄럽다	NNP
+매우 미덥지	NNP
+매우 미련하고	NNP
+매우 밉살스러운	NNP
+매우 밝고	NNP
+매우 방정맞게	NNP
+매우 보드라운	NNP
+매우 보드랍게	NNP
+매우 보드랍고	NNP
+매우 보드랍다	NNP
+매우 복잡하게	NNP
+매우 부드러운	NNP
+매우 부드럽게	NNP
+매우 부드럽고	NNP
+매우 부드럽다	NNP
+매우 부산한	NNP
+매우 분명한	NNP
+매우 비굴하게	NNP
+매우 비속하게	NNP
+매우 빤빤스럽고	NNP
+매우 뻔뻔스럽고	NNP
+매우 뽀얀	NNP
+매우 사랑하고	NNP
+매우 상냥하고	NNP
+매우 상서로운	NNP
+매우 상서롭다	NNP
+매우 생기가	NNP
+매우 서먹서먹하게	NNP
+매우 설레거나	NNP
+매우 섬세하고	NNP
+매우 성기게	NNP
+매우 소란스럽게	NNP
+매우 소스라치게	NNP
+매우 소중하게	NNP
+매우 수더분하거나	NNP
+매우 시끄럽고	NNP
+매우 신경질적으로	NNP
+매우 심한	NNP
+매우 심함을	NNP
+매우 씩씩하고	NNP
+매우 아담하고	NNP
+매우 아름다운	NNP
+매우 아름다움	NNP
+매우 아름답게	NNP
+매우 아름답고	NNP
+매우 아름답다	NNP
+매우 안타깝게	NNP
+매우 알짤지근하다	NNP
+매우 알짤지근한	NNP
+매우 앙큼하다	NNP
+매우 애를	NNP
+매우 애통할	NNP
+매우 약한	NNP
+매우 얄밉게	NNP
+매우 어려운	NNP
+매우 어리석고	NNP
+매우 어리석은	NNP
+매우 어수선하게	NNP
+매우 어수선하다	NNP
+매우 어지러우며	NNP
+매우 어지럽게	NNP
+매우 어질고	NNP
+매우 어찔어찔한	NNP
+매우 엉성하고	NNP
+매우 엉성한	NNP
+매우 여유로운	NNP
+매우 온전하게	NNP
+매우 온전하다	NNP
+매우 옹졸하고	NNP
+매우 요란스럽게	NNP
+매우 요란하게	NNP
+매우 용감하고	NNP
+매우 우락부락하고	NNP
+매우 우물쭈물하다	NNP
+매우 우악스러운	NNP
+매우 원만하다	NNP
+매우 원만한	NNP
+매우 위태롭거나	NNP
+매우 위태하여	NNP
+매우 익살맞다	NNP
+매우 인색한	NNP
+매우 자리자리한	NNP
+매우 잘된	NNP
+매우 저린	NNP
+매우 절면서	NNP
+매우 정겹고	NNP
+매우 정답게	NNP
+매우 정돈되어	NNP
+매우 조심스러움	NNP
+매우 조심스럽게	NNP
+매우 좁음을	NNP
+매우 좋다	NNP
+매우 좋아지다	NNP
+매우 좋음	NNP
+매우 중요하고	NNP
+매우 즐거운	NNP
+매우 즐겁고	NNP
+매우 추운	NNP
+매우 치사하고	NNP
+매우 포근하게	NNP
+매우 포근하고	NNP
+매우 푸근하게	NNP
+매우 필요하고	NNP
+매우 허전하고	NNP
+매우 허전하다	NNP
+매우 허전한	NNP
+매우 화려하고	NNP
+매우 후련하다	NNP
+매우 후련한	NNP
+매우 훌륭하게	NNP
+매우 훌륭한	NNP
+매우 훤하고	NNP
+매우 흉하게	NNP
+매우 흐리멍덩하다	NNP
+매우 흐리멍덩한	NNP
+매우 흐뭇하고	NNP
+매우 흥이	NNP
+매우 힘들게	NNP
+매우 힘없이	NNP
+매질을	NNP
+매질을 하고	NNP
+매질을 하다	NNP
+맥박이 미약한	NNP
+맥박이 약하고	NNP
+맥없게	NNP
+맥없는	NNP
+맥없이	NNP
+맥없이 느리게	NNP
+맥없이 주저앉거나	NNP
+맥없이 폭	NNP
+맥이 빠져	NNP
+맥이 풀려	NNP
+맥이 풀리거나	NNP
+맥이 풀리다	NNP
+맥이 풀림	NNP
+맵시 있고	NNP
+맵시가 있게	NNP
+맵시가 있는	NNP
+맵시가 있다	NNP
+맵짜게	NNP
+맵짜게 쏘아붙이는	NNP
+맵짜다	NNP
+맹세하다	NNP
+맺힌 노여움	NNP
+머리가	NNP
+머리가 둔한 사람을	NNP
+머리가 몹시 어지러워	NNP
+머리가 몹시 울리고	NNP
+머리가 세다	NNP
+머리가 아픈	NNP
+머리가 어지러워서	NNP
+머리가 어지럽고	NNP
+머뭇거리거나	NNP
+머뭇거리게	NNP
+머뭇거리게 되다	NNP
+머뭇거리는	NNP
+머뭇거리는 결점	NNP
+머뭇거리는 모양	NNP
+머뭇거리다	NNP
+머뭇거리며	NNP
+머뭇대다	NNP
+머뭇머뭇하거나	NNP
+머뭇머뭇하는	NNP
+머뭇머뭇하는 모양	NNP
+머뭇하다	NNP
+머저리	NNP
+먹기 싫은	NNP
+먹을 수 없게	NNP
+먹음새가 좋아서	NNP
+먹지 못하는	NNP
+먹튀	NNP
+먼지	NNP
+먼지 따위가	NNP
+멀건	NNP
+멀건 모양	NNP
+멀겋게	NNP
+멀겋다	NNP
+멀끔하게	NNP
+멀끔하게 번듯이	NNP
+멀끔하다	NNP
+멀끔한	NNP
+멀끔한 모양	NNP
+멀끔히	NNP
+멀끔히 가다듬어	NNP
+멀리하다	NNP
+멀리함	NNP
+멀쑥하게	NNP
+멀쑥하다	NNP
+멀쑥한	NNP
+멀쑥한 모양	NNP
+멀어진 듯한	NNP
+멀쩡하다	NNP
+멈칫하거나	NNP
+멋	NNP
+멋들어지게	NNP
+멋들어지게 부드럽고	NNP
+멋스러운	NNP
+멋스러운 경치를	NNP
+멋스럽다	NNP
+멋없다	NNP
+멋없이	NNP
+멋없이 가볍게	NNP
+멋없이 걷는	NNP
+멋없이 까다롭게	NNP
+멋없이 까다롭다	NNP
+멋없이 우쭐하는	NNP
+멋없이 우쭐하다	NNP
+멋없이 행동하는	NNP
+멋없이 행동하다	NNP
+멋없이 흔들리는	NNP
+멋없이 흔들리다	NNP
+멋을	NNP
+멋이 없다	NNP
+멋이 있는	NNP
+멋이 있다	NNP
+멋이나	NNP
+멋있거나	NNP
+멋있는	NNP
+멋있다	NNP
+멋쟁이	NNP
+멋지게	NNP
+멋지고	NNP
+멋지고 부드러운	NNP
+멋지고 훌륭한	NNP
+멋지다	NNP
+멋진	NNP
+멋쩍거나	NNP
+멋쩍고	NNP
+멋쩍다	NNP
+멋쩍은	NNP
+멋쩍은 사람	NNP
+멋쩍음	NNP
+멍청이	NNP
+멍청하거나	NNP
+멍청하고	NNP
+멍청하다	NNP
+멍청한	NNP
+멍청한 모양	NNP
+멍청한 사람	NNP
+멍청한 정도로	NNP
+멍하고	NNP
+멍하고 앞이	NNP
+멍한	NNP
+멍한 모양	NNP
+멍한 상태로	NNP
+메말라	NNP
+메스꺼움	NNP
+메스꺼워	NNP
+메스꺼워 구역질이	NNP
+메스꺼워 토하며	NNP
+메스껍고	NNP
+메스껍고 느끼하다	NNP
+메스껍고 느끼해지다	NNP
+메스껍다	NNP
+메슥메슥하여	NNP
+메슥메슥한	NNP
+메슥메슥한 느낌이	NNP
+멘붕	NNP
+면색여토하다	NNP
+면직을	NNP
+면직을 당하다	NNP
+멸망시키다	NNP
+멸망함	NNP
+멸명되다	NNP
+멸시	NNP
+멸시감	NNP
+멸시당하는	NNP
+멸시당하는 느낌	NNP
+멸시되다	NNP
+멸시하거나	NNP
+멸시하다	NNP
+멸여	NNP
+멸여되다	NNP
+멸여하다	NNP
+명랑하고	NNP
+명랑하고 천진하게	NNP
+명랑하다	NNP
+명량하고	NNP
+명량하다	NNP
+명량한	NNP
+명령을 거짓으로	NNP
+명망을 잃거나	NNP
+명망을 잃다	NNP
+명망을 잃음	NNP
+명망이 높은	NNP
+명백하지 않은	NNP
+명복을 빌고	NNP
+명복을 빌다	NNP
+명성	NNP
+명성이 높다	NNP
+명예	NNP
+명예 훼손	NNP
+명예로운	NNP
+명예롭다	NNP
+명예롭지 못한	NNP
+명예훼손	NNP
+명존세	NNP
+명쾌하다	NNP
+명쾌한	NNP
+명쾌함	NNP
+모두 잃거나	NNP
+모두 지쳐	NNP
+모략	NNP
+모르거나	NNP
+모르게 없어져	NNP
+모르는	NNP
+모르는 듯하다	NNP
+모르는 모양	NNP
+모르는 사람	NNP
+모르는 체하다	NNP
+모르는 체하며	NNP
+모르는 체함	NNP
+모범으로	NNP
+모범으로 삼아	NNP
+모범이 될	NNP
+모순	NNP
+모순되다	NNP
+모순된	NNP
+모순된 것을	NNP
+모순을 초월한	NNP
+모시	NNP
+모양	NNP
+모양새가 밉살스러운	NNP
+모양이 꼼꼼하고	NNP
+모양이 아름다워	NNP
+모양이 흉하게	NNP
+모양이 흉하고	NNP
+모여 수선스럽게	NNP
+모욕	NNP
+모욕을	NNP
+모욕을 당하거나	NNP
+모자라 아쉽거나	NNP
+모자라거나	NNP
+모자라거나 낮다	NNP
+모자라거나 없어서	NNP
+모자라게 되다	NNP
+모자라기는	NNP
+모자라는	NNP
+모자라는 듯하다	NNP
+모자라는 상태를	NNP
+모자라다	NNP
+모자라서	NNP
+모자라서 안타깝고	NNP
+모자란	NNP
+모자란 듯하다	NNP
+모자란 듯한	NNP
+모자람이 없을	NNP
+모자람이 없이	NNP
+모조리 뒤지어 훔치다	NNP
+모조리 파괴되어	NNP
+모조리 파괴하여	NNP
+모조리 훔치거나	NNP
+모진	NNP
+모진 고통을	NNP
+모질게	NNP
+모질고	NNP
+모질고 억세다	NNP
+모질고 잔인한	NNP
+모질다	NNP
+모짊	NNP
+모호하거나	NNP
+모호하게	NNP
+모호하게 하다	NNP
+모호하다	NNP
+모호하여	NNP
+목구멍에 걸려	NNP
+목구멍이 헐어서	NNP
+목소리가 쉰	NNP
+목숨을 끊다	NNP
+목숨이 거의 다 되어	NNP
+목숨이 거의 다 된 생태	NNP
+목숨이 얼마 남지 않은	NNP
+목숨이 위태로울	NNP
+목이 마르고	NNP
+목이 뻣뻣해지기도	NNP
+목이 잠기는	NNP
+목이 텁텁하여	NNP
+목적을 달성한	NNP
+목적을 이룸	NNP
+몰래	NNP
+몰래 가지다	NNP
+몰래 사고파는	NNP
+몰래 삼	NNP
+몰래 팖	NNP
+몰래 훔치거나	NNP
+몰래 훔치다	NNP
+몰래 훔침으로써	NNP
+몰아대거나	NNP
+몰아대다	NNP
+몰아붙이듯이	NNP
+몰아붙이듯이 공격하다	NNP
+몰아세우다	NNP
+몰아쳐서	NNP
+몰인정	NNP
+몸가짐을 점잖고	NNP
+몸가짐이 의젓하고	NNP
+몸보신하다	NNP
+몸살	NNP
+몸살나다	NNP
+몸에 부스럼이나	NNP
+몸을 가누지 못함	NNP
+몸을 깜찍하게	NNP
+몸을 단련하거나	NNP
+몸을 더럽히다	NNP
+몸을 뒤척거리다	NNP
+몸을 보하는	NNP
+몸을 움츠리는	NNP
+몸을 움츠린다는	NNP
+몸을 움츠림을	NNP
+몸을 조리함	NNP
+몸을 튼튼하게	NNP
+몸이 거북하다	NNP
+몸이 건강하고	NNP
+몸이 굳어지다	NNP
+몸이 떨리는	NNP
+몸이 불편하거나	NNP
+몸이 불편하다	NNP
+몸이 불편하여	NNP
+몸이 불편함	NNP
+몸이 붓고	NNP
+몸이 붓는	NNP
+몸이 뻐근하게	NNP
+몸이 실하고	NNP
+몸이 야위는	NNP
+몸이 야위어	NNP
+몸이 약하거나	NNP
+몸이 약하여	NNP
+몸이 약하여서	NNP
+몸이 약하여져서	NNP
+몸이 여위게	NNP
+몸이 여위고	NNP
+몸이 여위어	NNP
+몸이 움츠러들거나	NNP
+몸이 지쳐	NNP
+몸이 참	NNP
+몸이 허약하여	NNP
+몸이 회복되다	NNP
+몸져눕게	NNP
+몸져눕게 만들다	NNP
+몸져눕는	NNP
+몸져눕는 상태가	NNP
+몸짱	NNP
+몹시 가난하고	NNP
+몹시 가난하여	NNP
+몹시 가난한	NNP
+몹시 가렵고	NNP
+몹시 가쁘고	NNP
+몹시 갑갑하고	NNP
+몹시 거북스럽게	NNP
+몹시 거북하거나	NNP
+몹시 거칠게	NNP
+몹시 거칠고	NNP
+몹시 거칠다	NNP
+몹시 거칠어	NNP
+몹시 겁을	NNP
+몹시 게으름을	NNP
+몹시 경망스럽게	NNP
+몹시 고단하다	NNP
+몹시 고단하여	NNP
+몹시 고생스러운	NNP
+몹시 고통을	NNP
+몹시 괴로운	NNP
+몹시 괴롭고	NNP
+몹시 괴롭다	NNP
+몹시 괴롭히거나	NNP
+몹시 구속하다	NNP
+몹시 군색함	NNP
+몹시 군소리를	NNP
+몹시 굳은	NNP
+몹시 굼뜨고	NNP
+몹시 궁하고	NNP
+몹시 귀찮게	NNP
+몹시 귀찮아하도록	NNP
+몹시 긴장하거나	NNP
+몹시 까불어서	NNP
+몹시 까칠하다	NNP
+몹시 꺼불다	NNP
+몹시 꺼칠하다	NNP
+몹시 끌리도록	NNP
+몹시 난처하거나	NNP
+몹시 낡고	NNP
+몹시 노엽거나	NNP
+몹시 노하여	NNP
+몹시 놀라	NNP
+몹시 놀라거나	NNP
+몹시 느리고	NNP
+몹시 답답하고	NNP
+몹시 답답한	NNP
+몹시 대단하고	NNP
+몹시 더듬는	NNP
+몹시 더러운	NNP
+몹시 더러워진	NNP
+몹시 더럽고	NNP
+몹시 더럽다	NNP
+몹시 더운	NNP
+몹시 두려워서	NNP
+몹시 두렵고	NNP
+몹시 뒤엉키어	NNP
+몹시 따뜻하다	NNP
+몹시 딱하고	NNP
+몹시 뜨거운	NNP
+몹시 뜨겁다	NNP
+몹시 만족스러운	NNP
+몹시 많거나	NNP
+몹시 멋없이	NNP
+몹시 메스꺼워	NNP
+몹시 못마땅하거나	NNP
+몹시 못살게	NNP
+몹시 무덥고	NNP
+몹시 무서운	NNP
+몹시 무섭거나	NNP
+몹시 무질서하게	NNP
+몹시 미련하거나	NNP
+몹시 미련하고	NNP
+몹시 미련한	NNP
+몹시 미움을	NNP
+몹시 바쁘게	NNP
+몹시 반드러운	NNP
+몹시 반드럽다	NNP
+몹시 버릇없이	NNP
+몹시 번드럽다	NNP
+몹시 분하거나	NNP
+몹시 분하고	NNP
+몹시 분하여	NNP
+몹시 불평스럽게	NNP
+몹시 비굴하게	NNP
+몹시 사나운	NNP
+몹시 사납다	NNP
+몹시 사랑스럽다	NNP
+몹시 사랑하거나	NNP
+몹시 사랑하고	NNP
+몹시 살기	NNP
+몹시 상하다	NNP
+몹시 상한	NNP
+몹시 상함	NNP
+몹시 샐그러뜨리며	NNP
+몹시 샘바르고	NNP
+몹시 서두르며	NNP
+몹시 설레어	NNP
+몹시 성을	NNP
+몹시 소란하고	NNP
+몹시 소모되어	NNP
+몹시 수척하다	NNP
+몹시 쉬거나	NNP
+몹시 슬퍼하면서	NNP
+몹시 슬프게	NNP
+몹시 슬프고	NNP
+몹시 시끄럽고	NNP
+몹시 시끄럽다	NNP
+몹시 시들한	NNP
+몹시 시장하거나	NNP
+몹시 시큰둥한	NNP
+몹시 싫어하는	NNP
+몹시 싫어하여	NNP
+몹시 싫어함을	NNP
+몹시 심하게	NNP
+몹시 심하여	NNP
+몹시 심한	NNP
+몹시 싱겁게	NNP
+몹시 싸늘한	NNP
+몹시 쑤시고	NNP
+몹시 쓰리고	NNP
+몹시 씁쓰레하게	NNP
+몹시 아끼고	NNP
+몹시 아니꼽다	NNP
+몹시 아리고	NNP
+몹시 아쉽다	NNP
+몹시 아프거나	NNP
+몹시 아프게	NNP
+몹시 아프고	NNP
+몹시 아픈	NNP
+몹시 악독하게	NNP
+몹시 악한	NNP
+몹시 안타깝게	NNP
+몹시 앓는	NNP
+몹시 앓다	NNP
+몹시 앓음	NNP
+몹시 암상스럽게	NNP
+몹시 애를	NNP
+몹시 애쓰다	NNP
+몹시 야무지고	NNP
+몹시 야위고	NNP
+몹시 야윈	NNP
+몹시 약하여지는	NNP
+몹시 어긋나고	NNP
+몹시 어려운	NNP
+몹시 어색하거나	NNP
+몹시 어수선하게	NNP
+몹시 어수선하다	NNP
+몹시 어수선한	NNP
+몹시 어지러워	NNP
+몹시 어지럽고	NNP
+몹시 억누르는	NNP
+몹시 억누르다	NNP
+몹시 억울하거나	NNP
+몹시 언짢거나	NNP
+몹시 얼떨떨하다	NNP
+몹시 얽은	NNP
+몹시 여윈	NNP
+몹시 외로워하다	NNP
+몹시 요망스럽게	NNP
+몹시 우물거리며	NNP
+몹시 우물쭈물하는	NNP
+몹시 우직스럽게	NNP
+몹시 울렁거리는	NNP
+몹시 울렁거리다	NNP
+몹시 원망스럽고	NNP
+몹시 원망하듯	NNP
+몹시 위태로움	NNP
+몹시 자지러지게	NNP
+몹시 즐겨서	NNP
+몹시 즐기는	NNP
+몹시 지저분하게	NNP
+몹시 지쳐	NNP
+몹시 지쳐서	NNP
+몹시 지치거나	NNP
+몹시 지친	NNP
+몹시 찡그리다	NNP
+몹시 참혹함을	NNP
+몹시 초라하다	NNP
+몹시 취하여	NNP
+몹시 침침해지다	NNP
+몹시 탄식하다	NNP
+몹시 피곤하거나	NNP
+몹시 피로하여	NNP
+몹시 하찮고	NNP
+몹시 해지거나	NNP
+몹시 허둥거리는	NNP
+몹시 허약할	NNP
+몹시 허약해진	NNP
+몹시 허전하다	NNP
+몹시 허전한	NNP
+몹시 호된	NNP
+몹시 화가	NNP
+몹시 화나게	NNP
+몹시 화를	NNP
+몹시 흉악하게	NNP
+몹시 흉악하다	NNP
+몹시 흉악한	NNP
+몹시 흉악함	NNP
+몹시 흉하거나	NNP
+몹시 흐려지다	NNP
+몹시 흐리멍덩하게	NNP
+몹시 흥분하거나	NNP
+몹시 희다	NNP
+몹시 힘겹게	NNP
+몹시 힘들거나	NNP
+몹쓸	NNP
+몹쓸 행동을	NNP
+못	NNP
+못 가누다	NNP
+못 견디게	NNP
+못 견디다	NNP
+못 되다	NNP
+못 되도록	NNP
+못 미쳐	NNP
+못 쓰게	NNP
+못 하게	NNP
+못 하게 하다	NNP
+못 하다	NNP
+못나게	NNP
+못나고	NNP
+못난	NNP
+못난 사람	NNP
+못난 사람을	NNP
+못난 사람의	NNP
+못난 사람이나	NNP
+못난 수단	NNP
+못난 짓	NNP
+못난이	NNP
+못남	NNP
+못났다	NNP
+못되게	NNP
+못되게 굴어	NNP
+못된	NNP
+못된 꾀	NNP
+못된 꾀로	NNP
+못된 사람을	NNP
+못된 사람이나	NNP
+못된 성품을	NNP
+못된 일에	NNP
+못된 일을	NNP
+못된 입	NNP
+못된 장난을	NNP
+못된 짓	NNP
+못된 짓을	NNP
+못마땅하거나	NNP
+못마땅하게	NNP
+못마땅하게 노려보다	NNP
+못마땅하게 여겨	NNP
+못마땅하게 여기는	NNP
+못마땅하게 여기다	NNP
+못마땅하게 여기어	NNP
+못마땅하게 여김	NNP
+못마땅하게 여김을	NNP
+못마땅하다	NNP
+못마땅하며	NNP
+못마땅하여	NNP
+못마땅하여 군소리를	NNP
+못마땅하여 기분이	NNP
+못마땅하여 시들하다	NNP
+못마땅하여서 내는	NNP
+못마땅한	NNP
+못마땅한 것을	NNP
+못마땅한 것이	NNP
+못마땅한 사람이나	NNP
+못마땅할	NNP
+못마땅할 때	NNP
+못마땅할 때에	NNP
+못마땅해하면서	NNP
+못살게	NNP
+못살게 구는	NNP
+못살게 군다는	NNP
+못살게 굴거나	NNP
+못살게 굴다	NNP
+못살게 굴며	NNP
+못생겨서	NNP
+못생겨서 흉하게	NNP
+못생겼다	NNP
+못생기다	NNP
+못생긴	NNP
+못생김	NNP
+못하거나	NNP
+못하게	NNP
+못하게 되다	NNP
+못하게 망치다	NNP
+못하게 방해하다	NNP
+못하게 하다	NNP
+못하겠다고	NNP
+못하겠다고 버티다	NNP
+못하고	NNP
+못하고 나쁘다	NNP
+못하고 몸져눕는	NNP
+못하고 실없이	NNP
+못하고 어물어물하다	NNP
+못하고 엉성하고	NNP
+못하고 쪼들리게	NNP
+못하고 허술한	NNP
+못하고 희미하게	NNP
+못하는 결점	NNP
+못하는 모양	NNP
+못하는 상태	NNP
+못하는 상태가	NNP
+못하는 상태로	NNP
+못하다	NNP
+못하던	NNP
+못하던 일	NNP
+못하도록	NNP
+못하도록 억지로	NNP
+못하여	NNP
+못하여 당하다	NNP
+못하여 순진하고	NNP
+못하여 안타깝다	NNP
+못하여 어수선하고	NNP
+못한	NNP
+못한 데가	NNP
+못한 상태이다	NNP
+못한 자는	NNP
+못한 형편을	NNP
+못할 만큼	NNP
+못할 만한	NNP
+못함을	NNP
+몽땅 빼앗거나	NNP
+몽땅 없애다	NNP
+무가치	NNP
+무가치하고	NNP
+무가치하고 무의미하게	NNP
+무거운 걸음으로	NNP
+무거운 기운이	NNP
+무거운 발걸음으로	NNP
+무거운 분위기나	NNP
+무겁거나 하여	NNP
+무겁고 투박하다	NNP
+무겁다	NNP
+무게 있게	NNP
+무게가 있게	NNP
+무게가 있는	NNP
+무게가 있다	NNP
+무관심	NNP
+무관심하다	NNP
+무관심한	NNP
+무궁무진하다	NNP
+무기력	NNP
+무기력하다	NNP
+무기력한	NNP
+무기력함	NNP
+무너뜨리다	NNP
+무너지게	NNP
+무너지게 하다	NNP
+무너지는	NNP
+무너지는 소리가	NNP
+무너지다	NNP
+무너짐	NNP
+무뇌충	NNP
+무능력	NNP
+무능하다	NNP
+무능한	NNP
+무단 결석	NNP
+무단결석	NNP
+무더위로	NNP
+무디다	NNP
+무뚝뚝하다	NNP
+무량한 마음을	NNP
+무례하다	NNP
+무례한	NNP
+무례한 것으로	NNP
+무례한 데가	NNP
+무례한 사람을	NNP
+무례함	NNP
+무료로	NNP
+무르게 생긴	NNP
+무르고 부드러운	NNP
+무르고 부드럽다	NNP
+무릎이 시리고	NNP
+무리에서 기피되어	NNP
+무리에서 기피하여	NNP
+무리하게	NNP
+무리하다	NNP
+무모하다	NNP
+무모한	NNP
+무분별한	NNP
+무사히	NNP
+무서운	NNP
+무서운 꿈에	NNP
+무서운 느낌이	NNP
+무서운 말이나	NNP
+무서운 사람	NNP
+무서울	NNP
+무서울 정도로	NNP
+무서움	NNP
+무서움 때문에	NNP
+무서움을	NNP
+무서움을 느낄	NNP
+무서워	NNP
+무서워서	NNP
+무서워서 간신히	NNP
+무서워서 지르는	NNP
+무서워하는	NNP
+무서워하는 증상	NNP
+무서워하여	NNP
+무섭거나	NNP
+무섭거나 놀라서	NNP
+무섭거나 두려운	NNP
+무섭거나 아파서	NNP
+무섭거나 징그러울	NNP
+무섭거나 차가움을	NNP
+무섭거나 추워서	NNP
+무섭고	NNP
+무섭고 끔찍하다	NNP
+무섭고 끔찍한	NNP
+무섭고 두려워서	NNP
+무섭기까지	NNP
+무섭다	NNP
+무시당하다	NNP
+무시하다	NNP
+무안을	NNP
+무안을 당하거나	NNP
+무안을 당하다	NNP
+무안하거나	NNP
+무안하고	NNP
+무안하고 부끄럽게	NNP
+무안하고 부끄럽다	NNP
+무엇에 얽매여서	NNP
+무엇을 바라거나	NNP
+무엇을 보고도 제대로 알지 못하는 사람	NNP
+무엇을 융통하거나	NNP
+무엇을 잃거나	NNP
+무엇을 좋아하여	NNP
+무엇을 토하다	NNP
+무엇이 훌륭하거나	NNP
+무용적 조화와	NNP
+무의미하게	NNP
+무의미하다	NNP
+무의미한	NNP
+무의미한 말이나	NNP
+무의하다	NNP
+무자비하다	NNP
+무자비한	NNP
+무정한	NNP
+무정한 행동이나	NNP
+무지근한	NNP
+무지근한 증상이	NNP
+무지러져서	NNP
+무지하고	NNP
+무지하고 포악하며	NNP
+무지하고 하찮은	NNP
+무질서하게	NNP
+무질서하게 고부라져	NNP
+무질서하게 몰려드는	NNP
+무질서하게 부러지거나	NNP
+무질서하게 일어나는	NNP
+무질서하고	NNP
+무질서한	NNP
+무질서한 정치	NNP
+무책임	NNP
+무책임하다	NNP
+무탈하다	NNP
+무편무당하다	NNP
+무한이기주의	NNP
+무해하다	NNP
+무해한	NNP
+무형적 손해를	NNP
+무효로	NNP
+무효로 하다	NNP
+무효로 함	NNP
+문드러져	NNP
+문드러지다	NNP
+문란하게	NNP
+문란하여진	NNP
+문란하여진 법도	NNP
+문맹	NNP
+문맹 상태를	NNP
+문제 삼아	NNP
+문제의 아름다움과	NNP
+문체가 화려하게	NNP
+문학에 뛰어나고	NNP
+물건 따위를 아끼지 아니하고	NNP
+물건을 훔쳐	NNP
+물건을 훔치거나	NNP
+물건을 훔치는	NNP
+물건을 훔치려고	NNP
+물건을 훔친다는	NNP
+물건이 귀엽게	NNP
+물러나다	NNP
+물러서거나	NNP
+물리거나	NNP
+물리거나 지루해져서	NNP
+물리거나 질리다	NNP
+물리거나 질림	NNP
+물어 주다	NNP
+물어뜯거나	NNP
+물에 빠져	NNP
+물이 맑고	NNP
+물이 오르다	NNP
+물정에 밝은	NNP
+물질대사가 안되어	NNP
+물질적인 이득이나	NNP
+물집	NNP
+뭇사람을 구제함	NNP
+뭐서워서 자꾸	NNP
+므흣하다	NNP
+미개하다	NNP
+미개하여	NNP
+미개한	NNP
+미끄러운	NNP
+미끄러운 모양	NNP
+미끈하다	NNP
+미덥지	NNP
+미덥지 못하게	NNP
+미덥지 못하다	NNP
+미덥지 못한	NNP
+미덥지 못한 행동을	NNP
+미덥지 아니하고	NNP
+미덥지 아니한	NNP
+미덥지 않은	NNP
+미띤	NNP
+미련이	NNP
+미련이 남아	NNP
+미련하거나	NNP
+미련하고	NNP
+미련하고 험상궃은	NNP
+미련하다	NNP
+미련하여	NNP
+미련한	NNP
+미련한 데가	NNP
+미련한 사람을	NNP
+미루거나	NNP
+미루다	NNP
+미루지 않고	NNP
+미묘하여	NNP
+미세함	NNP
+미소	NNP
+미소를 보냄을	NNP
+미숙하다	NNP
+미숙하여	NNP
+미숙한	NNP
+미안하게	NNP
+미안하고	NNP
+미안하고 딱하게	NNP
+미안하고 딱하다	NNP
+미안하다	NNP
+미안하여	NNP
+미안하여 어색하다	NNP
+미안함	NNP
+미약하다	NNP
+미운	NNP
+미운 듯한	NNP
+미운 듯한 데가	NNP
+미운 사람을	NNP
+미운 얼굴이나	NNP
+미운 짓을	NNP
+미움을	NNP
+미움을 받을	NNP
+미움을 받을 만한	NNP
+미워하고	NNP
+미워하고 깎아내리려	NNP
+미워하고 꺼림	NNP
+미워하는	NNP
+미워하는 감정	NNP
+미워하는 기색	NNP
+미워하는 마음	NNP
+미워하는 생각이나	NNP
+미워하다	NNP
+미워할	NNP
+미워함	NNP
+미워함을	NNP
+미워함을 이르는	NNP
+미워해	NNP
+미인	NNP
+미천한	NNP
+미천한 사람을	NNP
+미치겠다	NNP
+미치지 못하게	NNP
+미치지 못함을	NNP
+미치지 못해	NNP
+미친	NNP
+미친 사람처럼	NNP
+미친 증세가	NNP
+미친개의	NNP
+미칠 만하게	NNP
+미혹한	NNP
+미혹한 마음	NNP
+믿고	NNP
+믿고 의지하다	NNP
+믿다	NNP
+믿을 만하고	NNP
+믿을 수 없을 정도로	NNP
+믿음	NNP
+믿음성	NNP
+믿음성 있게	NNP
+믿음을	NNP
+믿음직스러운	NNP
+믿음직스러워	NNP
+믿음직스럽게	NNP
+믿음직스럽고	NNP
+믿음직스럽다	NNP
+믿음직하고	NNP
+믿음직할	NNP
+믿음직할 정도로	NNP
+믿지 못하는	NNP
+믿지 못하다	NNP
+믿지 못할	NNP
+믿지 아니하거나	NNP
+밀려나다	NNP
+밀려나지 않고	NNP
+밀린 사람	NNP
+밉게	NNP
+밉게 노는	NNP
+밉게 보이는	NNP
+밉게 생긴	NNP
+밉게 여기거나	NNP
+밉게 여기는	NNP
+밉다	NNP
+밉살스러운	NNP
+밉살스러운 데가	NNP
+밉살스럽게	NNP
+밉살스럽게 달라붙어	NNP
+밉살스럽게 이리저리로	NNP
+밉살스럽게 재깔이며	NNP
+밉살스럽게 지껄이며	NNP
+밉살스럽고	NNP
+밉살스럽고 짓궃게	NNP
+밋밋하다	NNP
+ㅂㅅ	NNP
+바닥이 훤하게	NNP
+바라거나	NNP
+바라거나 의지하다	NNP
+바라거나 탐내는	NNP
+바라는	NNP
+바라진	NNP
+바라진 상태	NNP
+바람을 피우며	NNP
+바람이 없고	NNP
+바람직스럽다	NNP
+바람직하다	NNP
+바람직한	NNP
+바래서	NNP
+바로잡다	NNP
+바로잡아 새로운	NNP
+바르거나	NNP
+바르거나 옳게	NNP
+바르게	NNP
+바르게 고치다	NNP
+바르게 만들다	NNP
+바르고	NNP
+바르고 곧게	NNP
+바르고 곧다	NNP
+바르다	NNP
+바르며	NNP
+바르며 상냥하게	NNP
+바르며 상냥하다	NNP
+바르지 못하고	NNP
+바르지 못하다	NNP
+바르지 못한	NNP
+바르지 못함	NNP
+바르지 아니하고	NNP
+바른	NNP
+바른 도리	NNP
+바른 말이나	NNP
+바른 일과	NNP
+바른 정치	NNP
+바른 정치로	NNP
+바른 지혜로써	NNP
+바를 이루어	NNP
+바보	NNP
+바보같이	NNP
+바보같이 웃는	NNP
+바쁘게	NNP
+바스러질 정도로	NNP
+바이러스	NNP
+바지직대다	NNP
+바짝 재촉하다	NNP
+박복함	NNP
+박약	NNP
+박탈되고	NNP
+박탈되어	NNP
+박탈하고	NNP
+박탈하다	NNP
+박탈하여	NNP
+박할	NNP
+박할하다	NNP
+반가운	NNP
+반가운 비	NNP
+반갑다	NNP
+반기다	NNP
+반기지 않는	NNP
+반대하거나	NNP
+반대하다	NNP
+반드러운	NNP
+반드러운 모양	NNP
+반드럽게	NNP
+반드럽다	NNP
+반드르르하다	NNP
+반들반들	NNP
+반들반들 윤기가	NNP
+반들반들하다	NNP
+반듯하게	NNP
+반듯하고	NNP
+반듯하고 의젓한	NNP
+반란	NNP
+반반하게	NNP
+반반하게 생긴	NNP
+반발하다	NNP
+반벙어리처럼	NNP
+반성하고	NNP
+반신불수가	NNP
+반신불수가 되는	NNP
+반역	NNP
+반역을	NNP
+반역을 꾀함	NNP
+반지랍지 못한	NNP
+반품남	NNP
+반품녀	NNP
+반하다	NNP
+반항하다	NNP
+반항하려는	NNP
+반항하려는 말이나	NNP
+반항하여	NNP
+반해버리다	NNP
+반했다	NNP
+받는 괴로움	NNP
+받는 벌	NNP
+받는 재앙	NNP
+받는 해	NNP
+받다	NNP
+받들어 공경하다	NNP
+받아들여지지 않고	NNP
+받아들이기는커녕	NNP
+받아들이지 않고	NNP
+받지 못하게	NNP
+받지 못하다	NNP
+발기 불능	NNP
+발길질을	NNP
+발길질을 하다	NNP
+발끈 성을	NNP
+발끈대다	NNP
+발달된	NNP
+발달된 문명	NNP
+발달하게 되다	NNP
+발달하게 하다	NNP
+발라서	NNP
+발라서 흐뭇하다	NNP
+발랄하다	NNP
+발연기	NNP
+발열	NNP
+발열과	NNP
+발열과 오한	NNP
+발열이	NNP
+발육되지 못하여	NNP
+발육이 장애를	NNP
+발을 헛디디거나	NNP
+발작	NNP
+발전	NNP
+발전되도록	NNP
+발전시키는	NNP
+발전시키는 일	NNP
+발전이나	NNP
+발전하게 하다	NNP
+발전하는	NNP
+발전하다	NNP
+발컨	NNP
+발휘하지 못하다	NNP
+밝게	NNP
+밝게 빛나거나	NNP
+밝게 통달하는	NNP
+밝고	NNP
+밝고 강렬하게	NNP
+밝고 경쾌하다	NNP
+밝고 똑똑하다	NNP
+밝고 똑똑한	NNP
+밝고 보드랍게	NNP
+밝고 선명하다	NNP
+밝고 선명한	NNP
+밝고 어질다	NNP
+밝고 큰 덕	NNP
+밝고 환함	NNP
+밝고 활기가	NNP
+밝다	NNP
+밝아서	NNP
+밝은	NNP
+밝은 마음	NNP
+밝은 빛이	NNP
+밝은 사람	NNP
+밝은 재주	NNP
+밝은 지혜와	NNP
+밝지 못하고	NNP
+밥이나 축내는	NNP
+방긋	NNP
+방긋 웃는	NNP
+방긋 웃다	NNP
+방긋방긋	NNP
+방긋방긋 웃는	NNP
+방긋방긋 웃다	NNP
+방면에 능하고	NNP
+방자하고	NNP
+방자한	NNP
+방자한 태도로	NNP
+방정	NNP
+방정맞게	NNP
+방정맞게 계속	NNP
+방정맞게 까불거나	NNP
+방정맞게 까불며	NNP
+방정맞게 씰룩거리는	NNP
+방정맞게 오몰거리며	NNP
+방정맞게 움직이거나	NNP
+방정맞게 움직이며	NNP
+방정맞게 행동하다	NNP
+방정맞고	NNP
+방정맞은	NNP
+방정맞은 사람을	NNP
+방정을 떠는	NNP
+방정을 떨다	NNP
+방치되다	NNP
+방탕하게	NNP
+방탕하게 놀기를	NNP
+방탕하게 놀아나는	NNP
+방탕하고	NNP
+방탕하다	NNP
+방탕한	NNP
+방탕한 기질	NNP
+방탕한 사람을	NNP
+방탕한 짓을	NNP
+방해가	NNP
+방해가 되거나	NNP
+방해가 되는	NNP
+방해가 되다	NNP
+방해하거나	NNP
+방해하거나 막다	NNP
+방해하는	NNP
+방해하는 악업을	NNP
+방해하는 조건	NNP
+방해하는 짓	NNP
+방해하는 짓을	NNP
+방해하다	NNP
+방해하던	NNP
+방해하던 일	NNP
+방해하여	NNP
+방해함	NNP
+방향도 없이	NNP
+배가 떠남	NNP
+배가 아프고	NNP
+배가 아프다	NNP
+배가 아프며	NNP
+배를 곯다	NNP
+배반하다	NNP
+배반함	NNP
+배신하다	NNP
+배신하여	NNP
+배우는	NNP
+배우다	NNP
+배우지 못하여	NNP
+배우지 못한	NNP
+배워지고	NNP
+배워지고 닦이다	NNP
+배은망덕	NNP
+배척되다	NNP
+배척하다	NNP
+배탈	NNP
+뱀과 같이	NNP
+버겁다	NNP
+버그러져	NNP
+버그러진	NNP
+버그러진 데가	NNP
+버그러진 모양	NNP
+버려두어	NNP
+버려지다	NNP
+버릇	NNP
+버릇없게	NNP
+버릇없게 굴다	NNP
+버릇없고	NNP
+버릇없는	NNP
+버릇없는 짓을	NNP
+버릇없이	NNP
+버릇없이	NNP
+버릇없이 경솔하게	NNP
+버릇없이 구는	NNP
+버릇없이 구는 태도로	NNP
+버릇없이 굴다	NNP
+버릇없이 까부는	NNP
+버릇없이 까불다	NNP
+버릇없이 행동하는	NNP
+버릇없이 행동하다	NNP
+버릇없이 흔들거나	NNP
+버릇이 없거나	NNP
+버릇이 없다	NNP
+버리다	NNP
+버린다는	NNP
+버성기어	NNP
+버젓하고 당당하게	NNP
+버젓하고 당당하다	NNP
+버젓하지	NNP
+버젓하지 못하다	NNP
+버티거나 반항하다	NNP
+버프	NNP
+벅차다	NNP
+번거로운	NNP
+번거로운 일을	NNP
+번거롭게	NNP
+번거롭게 굴어	NNP
+번거롭다	NNP
+번드럽게	NNP
+번드럽다	NNP
+번듯이	NNP
+번듯하게	NNP
+번듯하고	NNP
+번듯하고 의젓한	NNP
+번지르르하게	NNP
+번지르르하게 나다	NNP
+번창한	NNP
+번창한 집안	NNP
+번하다	NNP
+벌	NNP
+벌레가 나오는	NNP
+벌로	NNP
+벌로 내는	NNP
+벌받을	NNP
+벌받을 일을	NNP
+벌벌 떨릴	NNP
+벌벌 떨며	NNP
+벌을	NNP
+벌을 받거나	NNP
+벌을 받다	NNP
+벌을 주다	NNP
+범인	NNP
+범죄	NNP
+범죄 사실을	NNP
+범죄 행위나	NNP
+범죄로	NNP
+범죄로 인해	NNP
+범죄를	NNP
+범죄를 저지르도록	NNP
+범죄를 저지른	NNP
+범죄를 한	NNP
+범죄에	NNP
+범죄에 가담시키거나	NNP
+범죄에 의하여	NNP
+범죄자	NNP
+범죄자들의	NNP
+범죄적인	NNP
+범죄적인 행위	NNP
+법률에 위반되어	NNP
+법석이는 짓을	NNP
+법을 무시하고	NNP
+법을 위반한	NNP
+벗	NNP
+벗어나	NNP
+벗어나 틀어지다	NNP
+벗어나다	NNP
+벗어나지 못하다	NNP
+벗어남이 없이	NNP
+벙글거리며	NNP
+벙긋	NNP
+벙긋 웃는	NNP
+벙긋 웃다	NNP
+벙긋벙긋	NNP
+벙긋벙긋 웃는	NNP
+벙긋벙긋 웃다	NNP
+벙벙한	NNP
+벙벙한 모양	NNP
+베푸는	NNP
+베푸는 마음이	NNP
+베푸는 사랑	NNP
+베푸는 사랑과	NNP
+베푸는 정	NNP
+베풀거나	NNP
+베풀다	NNP
+베풀어	NNP
+베풀어 주는	NNP
+베풀어 주다	NNP
+베풀어 줌	NNP
+베풀어서	NNP
+베풀어져	NNP
+베풀어져 주어지다	NNP
+베풀어지다	NNP
+벼르다	NNP
+벼슬을 박탈하고	NNP
+벼슬이 박탈되고	NNP
+변덕스러워	NNP
+변변찮은	NNP
+변변찮은 고통이나	NNP
+변변치 못하거나	NNP
+변변치 못하다	NNP
+변변치 못한	NNP
+변변하지 못하여	NNP
+변변하지 못한	NNP
+변비	NNP
+변비증	NNP
+변사하다	NNP
+변태	NNP
+변함없이	NNP
+별로다	NNP
+별스러울	NNP
+별스러울 정도로	NNP
+별스러워	NNP
+별안간 호들갑스럽게	NNP
+볍신	NNP
+병	NNP
+병 따위가	NNP
+병 따위로	NNP
+병독	NNP
+병독이 옮아	NNP
+병든	NNP
+병든 몸으로	NNP
+병들거나	NNP
+병들어	NNP
+병맛	NNP
+병세가	NNP
+병세가 지독하여	NNP
+병신이나	NNP
+병신이나 다름없는	NNP
+병에서	NNP
+병에서 벗어나	NNP
+병으로	NNP
+병으로 인하여	NNP
+병을	NNP
+병을 앓거나	NNP
+병을 앓고	NNP
+병을 앓는	NNP
+병을 앓은	NNP
+병을 일으키는	NNP
+병을 치료하다	NNP
+병의 기운이	NNP
+병의 빌미	NNP
+병이	NNP
+병이 나거나	NNP
+병이 나다	NNP
+병이 나서	NNP
+병이 남	NNP
+병이 생겨	NNP
+병이 잦음	NNP
+병이나	NNP
+병이나 과로	NNP
+병이다	NNP
+병적 상태	NNP
+병적 증상	NNP
+병적으로	NNP
+병적으로 싫어하고	NNP
+병적인	NNP
+병적인 강박	NNP
+병적인 증상	NNP
+병증	NNP
+병증으로	NNP
+병증을	NNP
+병치레를	NNP
+병치레를 하는	NNP
+보고 싶거나	NNP
+보고 싶어	NNP
+보고 싶어 하다	NNP
+보고 즐기다	NNP
+보기 거북하다	NNP
+보기 사납게	NNP
+보기 싫게	NNP
+보기 좋게	NNP
+보기 좋을	NNP
+보기 좋을 정도로	NNP
+보기 흉하게	NNP
+보기 흉할	NNP
+보기도 괜찮고	NNP
+보기에 가량맞고	NNP
+보기에 가엾고	NNP
+보기에 딱하여	NNP
+보기에 무정한	NNP
+보기에 무지하고	NNP
+보기에 미련하고	NNP
+보기에 부끄러운	NNP
+보기에 사랑스럽거나	NNP
+보기에 신묘하게	NNP
+보기에 싫다	NNP
+보기에 싫은	NNP
+보기에 야멸치고	NNP
+보기에 어려운	NNP
+보기에 어질고	NNP
+보기에 언짢거나	NNP
+보기에 언짢을	NNP
+보기에 욕심이	NNP
+보기에 좋고	NNP
+보기에 좋다	NNP
+보기에 좋아지다	NNP
+보기에 짜증이	NNP
+보기에 천하고	NNP
+보기에 흉하다	NNP
+보답이	NNP
+보답하는	NNP
+보드라운	NNP
+보드라운 느낌이	NNP
+보드라운 모양	NNP
+보드랍게	NNP
+보드랍게 살그머니	NNP
+보드랍게 웃는	NNP
+보드랍게 웃다	NNP
+보드랍고	NNP
+보드랍고 따뜻하다	NNP
+보드랍고 따뜻하여	NNP
+보드랍고 만만하다	NNP
+보드랍고 무르다	NNP
+보드랍고 무른	NNP
+보드랍고 순하게	NNP
+보드랍고 순한	NNP
+보드랍고 야들야들한	NNP
+보드랍고 연하게	NNP
+보드랍고 연하다	NNP
+보드랍고 연한	NNP
+보드랍고 탄력	NNP
+보드랍고 탐스럽게	NNP
+보드랍고 하늘하늘하다	NNP
+보드랍다	NNP
+보드랍지 못하고	NNP
+보란 듯이	NNP
+보람	NNP
+보람 없이	NNP
+보람 있는	NNP
+보람이나	NNP
+보람이나 소득이	NNP
+보로통히	NNP
+보배	NNP
+보살의 지혜	NNP
+보살피거나	NNP
+보살피거나 수고하는	NNP
+보살피거나 위하는	NNP
+보살피다	NNP
+보송보송	NNP
+보송보송하다	NNP
+보수적	NNP
+보수적이다	NNP
+보잘것없거나	NNP
+보잘것없거나 하찮은	NNP
+보잘것없고	NNP
+보잘것없는	NNP
+보잘것없는 솜씨와	NNP
+보잘것없다	NNP
+보잘것없음	NNP
+보잘것없이	NNP
+보잘것없이 되고	NNP
+보잘것없이 되다	NNP
+보잘것없이 작다	NNP
+보채거나	NNP
+보채거나 짜증을	NNP
+보채는	NNP
+보채는 소리	NNP
+보채는 소리를	NNP
+보채다	NNP
+보챔	NNP
+보충하다	NNP
+보탬이	NNP
+보탬이 되는	NNP
+보통 이상의	NNP
+보통 이상의 수준이어서	NNP
+보통 이상이다	NNP
+보호하여	NNP
+복된	NNP
+복된 좋은	NNP
+복리	NNP
+복리를	NNP
+복리를 가져오는	NNP
+복스러운 모양	NNP
+복스럽고	NNP
+복스럽고 탐스러운	NNP
+복스럽고 탐스럽다	NNP
+복원 불가	NNP
+복을	NNP
+복을 쌓은	NNP
+복이 되게	NNP
+복이 됨	NNP
+복이나	NNP
+복이나 재주	NNP
+복잡하거나	NNP
+복잡하거나 엄격하여	NNP
+복잡하게	NNP
+복잡하게 뒤섞여	NNP
+복잡하게 들끓다	NNP
+복잡하고	NNP
+복잡하고 엄격하여	NNP
+복잡하다	NNP
+복잡하여	NNP
+복종하다	NNP
+복종하면서	NNP
+복종하면서 삶을	NNP
+복종함	NNP
+복통을	NNP
+복통을 일으키는	NNP
+볶아치는	NNP
+볶아치는 모양	NNP
+볶아치는 일	NNP
+볶아치다	NNP
+본받아 따르다	NNP
+본받을 만한	NNP
+본심을 감추고	NNP
+볼 낯이 없거나	NNP
+볼것이 없다	NNP
+볼매	NNP
+볼쌍사납게	NNP
+볼썽사납게	NNP
+볼품없이	NNP
+볼품없이 된	NNP
+볼품없이 떠는	NNP
+볼품없이 떨다	NNP
+볼품없이 흐트러지고	NNP
+볼품이 없거나	NNP
+봄날의	NNP
+봄날의 경치에	NNP
+봄의 경치	NNP
+봄철의 빛	NNP
+봉변	NNP
+봉변을 당하거나	NNP
+부귀한	NNP
+부귀한 몸이	NNP
+부글거리는	NNP
+부글거리는 모양	NNP
+부글거리다	NNP
+부끄러운	NNP
+부끄러운 느낌이	NNP
+부끄러운 부분	NNP
+부끄러운 줄	NNP
+부끄러운 줄 모르고	NNP
+부끄러운 짓을	NNP
+부끄러움	NNP
+부끄러움을	NNP
+부끄러움을 느끼게	NNP
+부끄러워서	NNP
+부끄러워지다	NNP
+부끄러워하는	NNP
+부끄러워하는 마음	NNP
+부끄러워하다	NNP
+부끄러워함	NNP
+부끄러이	NNP
+부끄럽게	NNP
+부끄럽게 여기다	NNP
+부끄럽다	NNP
+부담	NNP
+부담스러운	NNP
+부담스럽다	NNP
+부담이 없이	NNP
+부당하거나	NNP
+부당하게	NNP
+부당하게 가로채어	NNP
+부당하다	NNP
+부당한	NNP
+부도덕	NNP
+부도덕한	NNP
+부드러우며	NNP
+부드러우면서	NNP
+부드러우면서 아삭하다	NNP
+부드러운	NNP
+부드러운 느낌이	NNP
+부드러운 마음과	NNP
+부드러운 맛	NNP
+부드러운 모양	NNP
+부드러운 태도에서	NNP
+부드러워지게	NNP
+부드러워지게 하다	NNP
+부드럽게	NNP
+부드럽게 녹여	NNP
+부드럽게 웃는	NNP
+부드럽게 웃다	NNP
+부드럽게 퍼지다	NNP
+부드럽게 흔들리는	NNP
+부드럽고	NNP
+부드럽고 너그러운	NNP
+부드럽고 너그럽다	NNP
+부드럽고 따뜻하게	NNP
+부드럽고 따뜻하다	NNP
+부드럽고 따뜻하며	NNP
+부드럽고 따뜻하여	NNP
+부드럽고 따뜻한	NNP
+부드럽고 매끄러워서	NNP
+부드럽고 반드럽게	NNP
+부드럽고 반드럽다	NNP
+부드럽고 번드럽게	NNP
+부드럽고 번드럽다	NNP
+부드럽고 서정적인	NNP
+부드럽고 순하게	NNP
+부드럽고 순하다	NNP
+부드럽고 순한	NNP
+부드럽고 아삭아삭한	NNP
+부드럽고 연하게	NNP
+부드럽고 영리한	NNP
+부드럽고 온화하게	NNP
+부드럽고 조용하며	NNP
+부드럽다	NNP
+부드럽지 못하게	NNP
+부드럽지 못하고	NNP
+부드럽지 못하다	NNP
+부드럽지 못하여	NNP
+부드럽지 못한	NNP
+부드럽지 못한 말로	NNP
+부드럽지 아니하여	NNP
+부득기소	NNP
+부득기소하다	NNP
+부득부득 우기거나	NNP
+부딪치거나	NNP
+부러뜨리다	NNP
+부러운	NNP
+부러워함	NNP
+부러지다	NNP
+부럽다	NNP
+부르르	NNP
+부르르하다	NNP
+부리거나 억지로	NNP
+부분이 다치거나	NNP
+부산을	NNP
+부산을 떨며	NNP
+부산을 피우다	NNP
+부산하게	NNP
+부산하게 구는	NNP
+부산하게 굴다	NNP
+부산하게 굴어	NNP
+부산하게 떠들다	NNP
+부산하게 소동을	NNP
+부산한	NNP
+부산한 데가	NNP
+부상	NNP
+부서지거나	NNP
+부서지거나 찌그러져	NNP
+부서지다	NNP
+부스럼	NNP
+부스럼이나	NNP
+부스스한	NNP
+부스스한 모양	NNP
+부실하게	NNP
+부심	NNP
+부어서 아프고	NNP
+부위가 아프면서	NNP
+부인하다	NNP
+부자	NNP
+부자연스러운	NNP
+부자연스러움	NNP
+부자연스럽게	NNP
+부자연스럽게 겨우	NNP
+부자연스럽게 행동하는	NNP
+부자연스럽다	NNP
+부작용	NNP
+부작용이	NNP
+부작용이 나타나기도	NNP
+부적격	NNP
+부적당한	NNP
+부적절하다	NNP
+부적절한	NNP
+부정	NNP
+부정어와	NNP
+부정어와 함께	NNP
+부정을	NNP
+부정을 나타내는	NNP
+부정이나	NNP
+부정이나 금지하는	NNP
+부정이나 비리를	NNP
+부정적	NNP
+부정적 감정	NNP
+부정적인	NNP
+부정적인 내용이	NNP
+부정적인 뜻을	NNP
+부정적인 말과	NNP
+부정적인 일을	NNP
+부정적인 표현과	NNP
+부정직	NNP
+부정하거나	NNP
+부정하거나 금지하려	NNP
+부정하는	NNP
+부정하는 뜻을	NNP
+부정하는 모양을	NNP
+부정하다	NNP
+부정하며	NNP
+부정하며 핀잔을	NNP
+부정하여	NNP
+부정하여 대답할	NNP
+부정행위	NNP
+부정확하다	NNP
+부정확한	NNP
+부조리	NNP
+부조화	NNP
+부족	NNP
+부족이나	NNP
+부족하거나	NNP
+부족하다	NNP
+부족하며	NNP
+부족하여	NNP
+부족한	NNP
+부족한 증상	NNP
+부족함이	NNP
+부족함이 생김	NNP
+부족함이 없다	NNP
+부주의로	NNP
+부주의한	NNP
+부지런	NNP
+부지런스럽다	NNP
+부지런스레	NNP
+부지런하고	NNP
+부지런하다	NNP
+부지런히	NNP
+부진	NNP
+부진증	NNP
+부진하다	NNP
+부질없다	NNP
+부질없이	NNP
+부처의 지혜	NNP
+부처의 지혜가	NNP
+부추겨서	NNP
+부추기는	NNP
+부추기는 짓을	NNP
+부패하다	NNP
+부패한	NNP
+북받쳐 일어나다	NNP
+분간이 안 되는	NNP
+분간하기 어려운	NNP
+분간하기 어렵다	NNP
+분개하다	NNP
+분개하여	NNP
+분개하여 몹시	NNP
+분개할	NNP
+분개할 때	NNP
+분격	NNP
+분격하다	NNP
+분나	NNP
+분나하다	NNP
+분노	NNP
+분노 따위의	NNP
+분노나	NNP
+분노나 불만	NNP
+분노하다	NNP
+분노함	NNP
+분란	NNP
+분란통	NNP
+분란하다	NNP
+분명이 하지 못하고	NNP
+분명하게	NNP
+분명하게 짓다	NNP
+분명하게 하지 못하고	NNP
+분명하게 하지 아니하고	NNP
+분명하고	NNP
+분명하고 또렷이	NNP
+분명하다	NNP
+분명하지 못하게	NNP
+분명하지 못하고	NNP
+분명하지 못하다	NNP
+분명하지 못하여	NNP
+분명하지 아니하게	NNP
+분명하지 아니하고	NNP
+분명하지 아니하다	NNP
+분명하지 아니한	NNP
+분명하지 아니함	NNP
+분명하지 않고	NNP
+분명하지 않은	NNP
+분명한	NNP
+분명한 답을	NNP
+분명한 모양	NNP
+분명히 하지 못하고	NNP
+분발하도록 격려하다	NNP
+분발하여	NNP
+분발하여 일어날	NNP
+분별없이	NNP
+분별없이 행동하는	NNP
+분별없이 행동하다	NNP
+분별할 여유가 없다	NNP
+분별할 여유가 없이	NNP
+분수 없이	NNP
+분수를 모르고	NNP
+분수없이	NNP
+분수없이 허황한	NNP
+분수에 넘치게	NNP
+분수에 넘치는 짓을	NNP
+분수에 맞지 아니하게	NNP
+분수에 맞지 아니함	NNP
+분수에 맞지 않게	NNP
+분에	NNP
+분에하다	NNP
+분열병	NNP
+분열병 따위의	NNP
+분위기가 점잖고	NNP
+분위기가 점잖고 엄숙하게	NNP
+분위기가 좋은	NNP
+분위기를 좋게	NNP
+분위기에 어울리게	NNP
+분이나	NNP
+분탄하다	NNP
+분탕	NNP
+분탕질	NNP
+분통	NNP
+분통스럽다	NNP
+분풀이	NNP
+분풀이하다	NNP
+분하거나	NNP
+분하게	NNP
+분하게 여겨	NNP
+분하게 여김	NNP
+분하고	NNP
+분하고 노여운	NNP
+분하고 답답하다	NNP
+분하고 억울하다	NNP
+분하고 억울함	NNP
+분하고 원통한	NNP
+분하고 원통한 마음을 풀어 버리다	NNP
+분하고 화가	NNP
+분하다	NNP
+분하여	NNP
+분하여 마음이	NNP
+분한	NNP
+분한 마음	NNP
+분한 마음을	NNP
+분한 마음이	NNP
+분한 상태이다	NNP
+분한 일을	NNP
+분함	NNP
+분함 또는	NNP
+불건전	NNP
+불건전한	NNP
+불결하다	NNP
+불결한	NNP
+불결한 성관계로	NNP
+불결한 음식	NNP
+불결한 음식을	NNP
+불경기	NNP
+불균형	NNP
+불길하거나	NNP
+불길하다	NNP
+불길한	NNP
+불길한 꿈	NNP
+불끈 성을	NNP
+불끈 화가	NNP
+불량	NNP
+불량 행위를	NNP
+불량배가	NNP
+불량자가	NNP
+불량자가 되게	NNP
+불량패	NNP
+불량하다	NNP
+불량한	NNP
+불량한 무리들이	NNP
+불량한 짓을	NNP
+불량화소	NNP
+불리하다	NNP
+불리한	NNP
+불리한 사실을	NNP
+불만	NNP
+불만 따위를	NNP
+불만감	NNP
+불만스러운	NNP
+불만스러운 느낌이	NNP
+불만스럽거나	NNP
+불만스럽게	NNP
+불만스럽게 말하는	NNP
+불만스럽게 말하다	NNP
+불만스럽다	NNP
+불만스레	NNP
+불만으로	NNP
+불만을	NNP
+불만이	NNP
+불만이 없어	NNP
+불만이 있어	NNP
+불만족	NNP
+불만족스러운	NNP
+불만족스럽다	NNP
+불만족스레	NNP
+불만족하다	NNP
+불만투성이	NNP
+불만하다	NNP
+불면병	NNP
+불면증	NNP
+불명예	NNP
+불명예스러운	NNP
+불법	NNP
+불법 체류	NNP
+불법 행위	NNP
+불법으로	NNP
+불법으로 쳐들어가거나	NNP
+불법이다	NNP
+불법적으로	NNP
+불법적으로 가져감으로써	NNP
+불법체류	NNP
+불성실	NNP
+불순물이	NNP
+불순물이 섞이어	NNP
+불신	NNP
+불신 따위를	NNP
+불신의	NNP
+불신하다	NNP
+불쌍하게	NNP
+불쌍하고	NNP
+불쌍하고 가련하게	NNP
+불쌍하고 가련한	NNP
+불쌍하다	NNP
+불쌍하여	NNP
+불쌍하여 마음이	NNP
+불쌍하여 슬픈	NNP
+불쌍한	NNP
+불쌍한 데가	NNP
+불쌍한 일을	NNP
+불쌍함	NNP
+불쌍히	NNP
+불쌍히 여기고	NNP
+불쌍히 여기는	NNP
+불쌍히 여긴다는	NNP
+불안	NNP
+불안 초조	NNP
+불안감	NNP
+불안스럽다	NNP
+불안전성	NNP
+불안정하게	NNP
+불안정한	NNP
+불안하게	NNP
+불안하게 걷는	NNP
+불안하게 걷다	NNP
+불안하게 되다	NNP
+불안하게 여기는	NNP
+불안하다	NNP
+불안하여	NNP
+불안하여 어찌할	NNP
+불안한	NNP
+불안한 마음으로	NNP
+불안한 모양	NNP
+불안한 상태에	NNP
+불안한 증상	NNP
+불안할	NNP
+불안할 때에	NNP
+불안해하고	NNP
+불안해하는	NNP
+불안해하는 증상	NNP
+불안히	NNP
+불에 닿은	NNP
+불운	NNP
+불충분	NNP
+불충분하거나	NNP
+불충분하다	NNP
+불충분한	NNP
+불충분한 대로	NNP
+불치병	NNP
+불쾌감	NNP
+불쾌감이	NNP
+불쾌감이 있으며	NNP
+불쾌스럽다	NNP
+불쾌스레	NNP
+불쾌하게	NNP
+불쾌하게 여기다	NNP
+불쾌하다	NNP
+불쾌하다고	NNP
+불쾌하다고 생각되는	NNP
+불쾌한	NNP
+불쾌한 느낌이	NNP
+불쾌한 말로	NNP
+불쾌한 정서적	NNP
+불쾌히	NNP
+불편	NNP
+불편리	NNP
+불편리하다	NNP
+불편부당	NNP
+불편부당하다	NNP
+불편스럽다	NNP
+불편스레	NNP
+불편하거나	NNP
+불편하게	NNP
+불편하고	NNP
+불편하고 우울하다	NNP
+불편하다	NNP
+불편하며	NNP
+불편하여	NNP
+불편한	NNP
+불편한 모양	NNP
+불편할	NNP
+불편할 정도로	NNP
+불편함	NNP
+불평	NNP
+불평 따위를	NNP
+불평등	NNP
+불평등하다	NNP
+불평등한	NNP
+불평스러워	NNP
+불평스럽게	NNP
+불평스럽게 말하다	NNP
+불평스럽게 토달거리는	NNP
+불평스럽게 투덜거리는	NNP
+불평스럽게 투덜거리다	NNP
+불평을	NNP
+불평을 가지고	NNP
+불평을 늘어놓는	NNP
+불평을 늘어놓다	NNP
+불평을 늘어놓은	NNP
+불평을 부리는	NNP
+불평을 부리다	NNP
+불평을 부리며	NNP
+불평을 품고	NNP
+불평을 품은	NNP
+불평을 하는	NNP
+불평을 하다	NNP
+불평을 하며	NNP
+불평이나	NNP
+불평조의	NNP
+불평조의 군소리를	NNP
+불평판	NNP
+불평하는	NNP
+불평하는 모양	NNP
+불평하다	NNP
+불합격한	NNP
+불합격한 불량품	NNP
+불합리	NNP
+불행	NNP
+불행을	NNP
+불행하거나	NNP
+불행하거나 재수가	NNP
+불행하게	NNP
+불행하게 죽다	NNP
+불행하다	NNP
+불행한	NNP
+불행한 일을	NNP
+불협화음	NNP
+불화	NNP
+불황	NNP
+불효	NNP
+붉으락푸르락하여지며	NNP
+붉으락푸르락해지며	NNP
+붓거나 부풀었던 것이 줄어들어 본래의 모습대로 되다	NNP
+붓고	NNP
+붓고 아프며	NNP
+붓는 병	NNP
+붙어 싸우는	NNP
+붙임성	NNP
+붙임성 있게	NNP
+붙임성이 없이	NNP
+비관적	NNP
+비관적인	NNP
+비굴하게	NNP
+비굴하게 자꾸	NNP
+비굴하게 행동하는	NNP
+비굴하게 행동하다	NNP
+비굴하다	NNP
+비굴할	NNP
+비굴할 정도로	NNP
+비극	NNP
+비꼬는	NNP
+비꼬는 말	NNP
+비꼬는 모양	NNP
+비꼬다	NNP
+비난	NNP
+비난 따위를	NNP
+비난을	NNP
+비난을 받다	NNP
+비난조로	NNP
+비난조로 이르는	NNP
+비난조로 이르던	NNP
+비난하는	NNP
+비난하는 뜻으로	NNP
+비난하는 사람	NNP
+비난하다	NNP
+비난하여	NNP
+비뚤거리다	NNP
+비뚤어져	NNP
+비뚤어져 있는	NNP
+비뚤어지거나	NNP
+비뚤어지다	NNP
+비련	NNP
+비리를	NNP
+비리를 저지르는	NNP
+비만	NNP
+비만 환자	NNP
+비만이다	NNP
+비매	NNP
+비방	NNP
+비방과	NNP
+비방하거나	NNP
+비방하다	NNP
+비속하게	NNP
+비속하게 사물이	NNP
+비속하게 이르는	NNP
+비싸다	NNP
+비싼	NNP
+비싼 값으로	NNP
+비아냥거리다	NNP
+비아냥대다	NNP
+비아냥스럽다	NNP
+비아냥스레	NNP
+비아냥조	NNP
+비아냥하다	NNP
+비열하다	NNP
+비열한	NNP
+비웃거나	NNP
+비웃거나 깔보면서	NNP
+비웃거나 비꼬는	NNP
+비웃거나 비꼬다	NNP
+비웃거나 빈정거릴	NNP
+비웃거나 언짢거나	NNP
+비웃는	NNP
+비웃는 뜻으로	NNP
+비웃는 태도로	NNP
+비웃다	NNP
+비웃으며	NNP
+비웃음과	NNP
+비웃음을	NNP
+비위 상하게	NNP
+비위가 뒤집혀	NNP
+비위가 상하다	NNP
+비위를 맞추느라고	NNP
+비위를 맞추려고	NNP
+비위를 상하게	NNP
+비위상하다	NNP
+비위에 거슬리거나	NNP
+비위에 거슬리게	NNP
+비위에 거슬리는	NNP
+비위에 거슬리다	NNP
+비위에 맞지 아니하다	NNP
+비장의	NNP
+비장의 수	NNP
+비정상	NNP
+비정상적으로	NNP
+비정상적으로 잇따라	NNP
+비정한	NNP
+비정한 기세나	NNP
+비좁아	NNP
+비좁은	NNP
+비좁은 자리에	NNP
+비중이 있다	NNP
+비참	NNP
+비참하다	NNP
+비참한	NNP
+비참히	NNP
+비추천	NNP
+비추하다	NNP
+비탄	NNP
+비탄하다	NNP
+비통하다	NNP
+비통한	NNP
+비틀거리거나	NNP
+비틀거리는	NNP
+비틀거리는 모양	NNP
+비틀거리다	NNP
+비틀거리며	NNP
+비틀거리면서 걷는	NNP
+비틀어지며	NNP
+비판	NNP
+비판되다	NNP
+비판이나	NNP
+비판이나 추궁을	NNP
+비판하다	NNP
+비판함	NNP
+비평	NNP
+비합리적	NNP
+비합리적인	NNP
+비현실	NNP
+비현실적	NNP
+비효율	NNP
+비효율적	NNP
+빈대	NNP
+빈둥거리는	NNP
+빈둥거리는 모양	NNP
+빈둥거리다	NNP
+빈둥빈둥	NNP
+빈둥빈둥 놀다	NNP
+빈둥빈둥하는	NNP
+빈둥빈둥하는 모양	NNP
+빈둥빈둥하다	NNP
+빈정거리는	NNP
+빈정거리는 모양	NNP
+빈정거리는 태도로	NNP
+빈정거리다	NNP
+빈정거리며	NNP
+빈정거리며 놀리는	NNP
+빈정거리며 놀리다	NNP
+빈정거리며 자꾸	NNP
+빈정거릴	NNP
+빈정거릴 때	NNP
+빈틈없고	NNP
+빈틈없고 야무지다	NNP
+빈혈	NNP
+빈혈 증상	NNP
+빌빌대다	NNP
+빌빌하는	NNP
+빌빌하는 모양	NNP
+빌빌하다	NNP
+빙긋거리다	NNP
+빙긋대다	NNP
+빚	NNP
+빚을	NNP
+빚을 짐	NNP
+빚지다	NNP
+빛	NNP
+빛깔이 야단스럽게	NNP
+빛나고	NNP
+빛나고 아름다운	NNP
+빛나고 환하게	NNP
+빛나는 재주	NNP
+빛나며	NNP
+빛나며 곱고	NNP
+빛을 잃어	NNP
+빠듯하게	NNP
+빠뜨려 흘리다	NNP
+빠르고 시원스러운	NNP
+빠르다	NNP
+빠지직대다	NNP
+빠트리다	NNP
+빡도네	NNP
+빡돌다	NNP
+빡세네	NNP
+빡세다	NNP
+빡치네	NNP
+빡치다	NNP
+빤빤스럽게	NNP
+빤빤스럽게 놀기만	NNP
+빤빤스럽고	NNP
+빤빤스럽고 얄밉게	NNP
+빤빤하게	NNP
+빤빤하게 생긴	NNP
+빵꾸똥꾸	NNP
+빵셔틀	NNP
+빼돌려	NNP
+빼돌려 내다	NNP
+빼앗거나	NNP
+빼앗기	NNP
+빼앗기거나	NNP
+빼앗기고	NNP
+빼앗는	NNP
+빼앗는 돈을	NNP
+빼앗는 일	NNP
+빼앗는 짓	NNP
+빼앗는 짓을	NNP
+빼앗다	NNP
+빼앗아	NNP
+빼앗아 가지다	NNP
+빼앗아 내다	NNP
+빼앗아 버리다	NNP
+빼앗아 차지함	NNP
+빼앗으려고	NNP
+빼앗으려고 벼르다	NNP
+빼어나게	NNP
+빼어나게 아름다운	NNP
+빼어나게 좋음	NNP
+빼어나다	NNP
+빼어난	NNP
+빼어난 능력	NNP
+뺀질대다	NNP
+뺨이 붓고	NNP
+뻐근하게	NNP
+뻐근하게 아픈	NNP
+뻑뻑하지 아니하게	NNP
+뻑적지근하다	NNP
+뻔뻔스러운	NNP
+뻔뻔스럽게	NNP
+뻔뻔스럽게 놀기만	NNP
+뻔뻔스럽고	NNP
+뻔뻔하게	NNP
+뻔뻔하다	NNP
+뻔뻔한	NNP
+뼈마디가 아프며	NNP
+뼈마디가 저리고	NNP
+뽀록	NNP
+뽀얀	NNP
+뽀얀 모양	NNP
+뽐내는	NNP
+뽐내는 모양	NNP
+뽐내다	NNP
+뽐낼	NNP
+뽐낼 만한	NNP
+뽑히지 못하다	NNP
+뿌듯하다	NNP
+뿌듯함	NNP
+삐딱거리다	NNP
+삐딱대다	NNP
+삐딱하다	NNP
+삐뚤거리다	NNP
+삐뚤대다	NNP
+삐뚤어져서	NNP
+삐뚤어져서 가지런하지	NNP
+삐뚤어지다	NNP
+삐죽대다	NNP
+삐죽삐죽	NNP
+삐죽삐죽 투박한	NNP
+삐죽이	NNP
+ㅄ	NNP
+ㅅㅂ	NNP
+ㅅㅅ	NNP
+사건에 적극적으로	NNP
+사고가	NNP
+사고가 없다	NNP
+사고나	NNP
+사고나 병	NNP
+사고나다	NNP
+사고를 당하여	NNP
+사교적	NNP
+사교적이다	NNP
+사교적인	NNP
+사귀다	NNP
+사귀어	NNP
+사나우며	NNP
+사나운	NNP
+사나운 기색이	NNP
+사나운 모양	NNP
+사나운 사람	NNP
+사나운 사람을	NNP
+사나운 짐승	NNP
+사나운 짓을	NNP
+사납거나	NNP
+사납거나 불길하다	NNP
+사납게	NNP
+사납게 되다	NNP
+사납게 맞서서	NNP
+사납게 성을	NNP
+사납게 우는	NNP
+사납게 울다	NNP
+사납게 흘겨보는	NNP
+사납고	NNP
+사납고 무서운	NNP
+사납다	NNP
+사납던	NNP
+사늘한	NNP
+사늘한 기운이	NNP
+사늘한 느낌이	NNP
+사라져 없어짐	NNP
+사람과 대립하는	NNP
+사람다운	NNP
+사람답지 못함	NNP
+사람됨이 야무지다	NNP
+사람됨이 좋은	NNP
+사람들과 어울려	NNP
+사람들이 시끄럽게	NNP
+사람들이 어수선하게	NNP
+사람에게 베풀거나	NNP
+사람을 감동시킬	NNP
+사람을 구원하다	NNP
+사람을 귀엽게	NNP
+사람을 낮잡아	NNP
+사람을 내쫓아	NNP
+사람을 몸져눕게	NNP
+사람을 못살게	NNP
+사람을 소중하게	NNP
+사람을 속이며	NNP
+사람을 아끼고	NNP
+사람을 아끼어	NNP
+사람을 업신여기는	NNP
+사람을 위협하거나	NNP
+사람을 처벌하여	NNP
+사람의 업적과	NNP
+사람의 죽음을	NNP
+사람의 착함을	NNP
+사람이 병이나	NNP
+사람이 섭섭하게	NNP
+사람이 좋아하여	NNP
+사람이 죽어서	NNP
+사람이나 짐승을 죽이다	NNP
+사랑	NNP
+사랑겹다	NNP
+사랑과	NNP
+사랑과 은혜	NNP
+사랑과 은혜를	NNP
+사랑꾼	NNP
+사랑둥이	NNP
+사랑받고	NNP
+사랑받고 칭찬받다	NNP
+사랑받다	NNP
+사랑스러운	NNP
+사랑스러움	NNP
+사랑스럽거나	NNP
+사랑스럽거나 귀엽다	NNP
+사랑스럽게	NNP
+사랑스럽게 부르는	NNP
+사랑스럽게 이르는	NNP
+사랑스럽다	NNP
+사랑스레	NNP
+사랑으로	NNP
+사랑을	NNP
+사랑을 느낄	NNP
+사랑을 받는	NNP
+사랑을 받아	NNP
+사랑을 표현하는	NNP
+사랑의	NNP
+사랑의 마음	NNP
+사랑이	NNP
+사랑이 담긴	NNP
+사랑이다	NNP
+사랑하거나	NNP
+사랑하거나 끌리어서	NNP
+사랑하고	NNP
+사랑하고 소중히	NNP
+사랑하고 좋아함	NNP
+사랑하고 즐기는	NNP
+사랑하고 칭찬하다	NNP
+사랑하는	NNP
+사랑하는 마음	NNP
+사랑하는 사람	NNP
+사랑하는 태도를	NNP
+사랑하다	NNP
+사랑하여	NNP
+사랑함	NNP
+사랑해	NNP
+사로잡다	NNP
+사리를 밝혀	NNP
+사리를 분별할 여유가 없다	NNP
+사리를 분별할 여유가 없이	NNP
+사리에 맞게	NNP
+사리에 맞고	NNP
+사리에 밝고	NNP
+사리에 밝은	NNP
+사리에 밝음	NNP
+사리에 어긋나게	NNP
+사리에 어두운	NNP
+사리에 어두운 사람	NNP
+사리에 어두워	NNP
+사망하다	NNP
+사멸하는	NNP
+사멸하는 것	NNP
+사모	NNP
+사모하다	NNP
+사모하여	NNP
+사모하여 동경함	NNP
+사모함	NNP
+사무치게 미워하는	NNP
+사무치게 미워하다	NNP
+사무치게 미워함	NNP
+사물에 밝은	NNP
+사뿐사뿐하다	NNP
+사뿐하다	NNP
+사사로운 분노	NNP
+사사로움이 없다	NNP
+사사로움이 없음	NNP
+사세난연	NNP
+사세난연하다	NNP
+사실을 긍정적으로	NNP
+사실을 날조하여	NNP
+사실인 것처럼	NNP
+사심없는	NNP
+사악하다	NNP
+사악한	NNP
+사악한 모의	NNP
+사양하는	NNP
+사양하는 모양	NNP
+사이가 꽤 벌어져	NNP
+사이가 꽤 벌어지는	NNP
+사이가 꽤 벌어지다	NNP
+사이가 끊어지고	NNP
+사이가 뜬	NNP
+사이가 뜬 상태로	NNP
+사이가 벌어지게	NNP
+사이가 벌어지는	NNP
+사이가 벌어지다	NNP
+사이가 소원하다	NNP
+사이가 소원한	NNP
+사이가 어그러지고	NNP
+사이가 틀어져서	NNP
+사이를 끊고	NNP
+사이를 두다	NNP
+사정없이 마구	NNP
+사정없이 몰아쳐서	NNP
+사정을 살피다	NNP
+사치	NNP
+사치스러운	NNP
+사치스럽다	NNP
+사태가 복잡하여	NNP
+사형에	NNP
+사형에 처하다	NNP
+사형에 처함	NNP
+사형에 처해지다	NNP
+사회가 혼란스럽고	NNP
+사회의 발전이나	NNP
+삭는	NNP
+삭막하다	NNP
+산 교훈	NNP
+산뜻하거나	NNP
+산뜻하거나 뜨거우면서	NNP
+산뜻하게	NNP
+산뜻하게 느껴지는	NNP
+산뜻하게 생생히	NNP
+산뜻하게 싱싱히	NNP
+산뜻하고	NNP
+산뜻하고 뚜렷하여	NNP
+산뜻하고 부드러운	NNP
+산뜻하다	NNP
+산뜻하지 못하게	NNP
+산뜻하지 못하고	NNP
+산뜻하지 아니하고	NNP
+산뜻하지 않게	NNP
+산뜻한	NNP
+산후 질병	NNP
+살가죽이 짓무르고	NNP
+살갗이 갈라지는	NNP
+살갗이 오그라들며	NNP
+살그머니	NNP
+살그머니 웃는	NNP
+살그머니 웃다	NNP
+살기	NNP
+살기 있고	NNP
+살기 힘든	NNP
+살려 주다	NNP
+살림이 넉넉한	NNP
+살림이 어렵고	NNP
+살모넬라균에	NNP
+살모넬라균에 오염된	NNP
+살빛이 희고	NNP
+살아가는 지혜를	NNP
+살아나거나	NNP
+살아나거나 생겨나다	NNP
+살을 찌르는	NNP
+살이 쪄	NNP
+살이 쪄서	NNP
+살이 찌고	NNP
+살이 찌는	NNP
+살이 찐	NNP
+살인	NNP
+살인자	NNP
+살인죄	NNP
+살인하다	NNP
+살지 못하고	NNP
+살짝 속여	NNP
+살펴보지 않고	NNP
+살피지 아니한	NNP
+살해	NNP
+살해되다	NNP
+살해됨	NNP
+살해됨을	NNP
+살해하다	NNP
+삼연히	NNP
+상긋	NNP
+상긋거리다	NNP
+상긋방긋하다	NNP
+상긋상긋	NNP
+상긋하다	NNP
+상냥하게	NNP
+상냥하게 행동하는	NNP
+상냥하게 행동하다	NNP
+상냥하고	NNP
+상냥하고 너그러운	NNP
+상냥하고 너그럽다	NNP
+상냥하고 보드라운	NNP
+상냥하고 보드랍다	NNP
+상냥하고 부드러운	NNP
+상냥하고 부드럽게	NNP
+상냥하고 부드럽다	NNP
+상냥하다	NNP
+상냥하면서	NNP
+상냥하면서 활발하다	NNP
+상냥하면서 활발한	NNP
+상냥한	NNP
+상냥함	NNP
+상당하다고	NNP
+상당한	NNP
+상당한 수준이나	NNP
+상당한 지식과	NNP
+상당히 차갑게	NNP
+상당히 차갑다	NNP
+상대를 몰아붙이듯이	NNP
+상대를 이기다	NNP
+상대편을 위협하는	NNP
+상서로운	NNP
+상서로운 날	NNP
+상서롭다	NNP
+상서롭지 못한	NNP
+상스러운	NNP
+상스러운 말	NNP
+상스러운 말로	NNP
+상스럽고	NNP
+상스럽다	NNP
+상습범	NNP
+상승곡선	NNP
+상승세	NNP
+상승효과	NNP
+상실된	NNP
+상실된 심리	NNP
+상실한	NNP
+상실한 상태를	NNP
+상심	NNP
+상심하다	NNP
+상처	NNP
+상처 따위가	NNP
+상처가	NNP
+상처가 많아	NNP
+상처가 생기고	NNP
+상처가 쓰리고	NNP
+상처를	NNP
+상처를 내다	NNP
+상처를 내면	NNP
+상처를 내어	NNP
+상처를 입게	NNP
+상처를 입다	NNP
+상처를 입히다	NNP
+상처를 입힘	NNP
+상처를 입힘으로써	NNP
+상처에서	NNP
+상쾌하게	NNP
+상쾌하다	NNP
+상쾌하지 않고	NNP
+상쾌한	NNP
+상쾌한 느낌	NNP
+상쾌한 마음으로	NNP
+상쾌한 몸의	NNP
+상쾌할	NNP
+상쾌할 때	NNP
+상쾌히	NNP
+상큼하다	NNP
+상태가 나쁘거나	NNP
+상태를 부정하거나	NNP
+상태를 부정하는	NNP
+상태를 어지럽게	NNP
+상태를 유지함	NNP
+상태에 시들해져서	NNP
+상하거나	NNP
+상하게	NNP
+상하게 되다	NNP
+상하게 하거나	NNP
+상하게 하다	NNP
+상하게 하여	NNP
+상하고	NNP
+상하다	NNP
+상하여	NNP
+상하지 아니하고	NNP
+상한	NNP
+상한 데가	NNP
+상함	NNP
+상해서	NNP
+상향하다	NNP
+상혼	NNP
+상혼하다	NNP
+새눈무늿병	NNP
+새로운	NNP
+새로운 길에	NNP
+새로운 접근 방식	NNP
+새로워지다	NNP
+새롭게	NNP
+새롭게 고치다	NNP
+새롭지 못하고	NNP
+새롭지 못하다	NNP
+새실대다	NNP
+새파랗게 독이	NNP
+색감이 밝고	NNP
+색다른	NNP
+색에 빠져	NNP
+샐그러뜨리며	NNP
+샐쭉	NNP
+샐쭉거리다	NNP
+샐쭉대다	NNP
+샐쭉샐쭉하다	NNP
+샐쭉하다	NNP
+샘나다	NNP
+샘바르고	NNP
+샘바르고 시기하는	NNP
+샘을	NNP
+샘을 부리다	NNP
+샘하는	NNP
+샘하는 마음을	NNP
+샘하는 마음이	NNP
+샘하여	NNP
+샘하여 미워하다	NNP
+생각 따위가 좁고	NNP
+생각 없이	NNP
+생각이 모자라거나	NNP
+생각이 모자라고	NNP
+생각이 부족하여	NNP
+생각이 아득하다	NNP
+생각이 좁아	NNP
+생각하고 그리워하다	NNP
+생각하고 그리워함	NNP
+생겨나다	NNP
+생글생글	NNP
+생글생글 웃으면서	NNP
+생긋	NNP
+생긋거리다	NNP
+생긋대다	NNP
+생긋방긋	NNP
+생긋방긋거리다	NNP
+생기 없이	NNP
+생기 있게	NNP
+생기 있고	NNP
+생기 있는	NNP
+생기가	NNP
+생기가 없거나	NNP
+생기가 없고	NNP
+생기가 없는	NNP
+생기가 없다	NNP
+생기가 없어	NNP
+생기가 없어져	NNP
+생기가 없어지다	NNP
+생기가 없이	NNP
+생기가 있게	NNP
+생기가 있고	NNP
+생기가 있는	NNP
+생기가 있다	NNP
+생기가 적은	NNP
+생기는 병	NNP
+생기는 병의	NNP
+생긴 병증으로	NNP
+생김새가 아담하고	NNP
+생김새가 훤하고	NNP
+생동감이	NNP
+생생하게	NNP
+생생하게 보이는	NNP
+생생하고	NNP
+생생하고 산뜻하게	NNP
+생생하다	NNP
+생생하지 아니하고	NNP
+생생한	NNP
+생생한 기운이	NNP
+생생히	NNP
+생활에 유용함을	NNP
+생활이 곤궁하여	NNP
+생활이 넉넉하여	NNP
+생활이 원만하고	NNP
+생활이 즐겁고	NNP
+생활이 풍요로워지다	NNP
+서글서글한	NNP
+서글서글한 데가	NNP
+서글퍼지다	NNP
+서글프다	NNP
+서글픔	NNP
+서글피	NNP
+서늘하다	NNP
+서늘한	NNP
+서늘한 기운	NNP
+서늘한 느낌이	NNP
+서두르며	NNP
+서두르며 부산하게	NNP
+서러운	NNP
+서러운 마음	NNP
+서러움	NNP
+서러워하다	NNP
+서러이	NNP
+서럽게	NNP
+서럽게 여기다	NNP
+서럽다	NNP
+서로 거칠게	NNP
+서로 덤벼들어	NNP
+서로 따지며	NNP
+서로 맞지 않아	NNP
+서로 사귀며	NNP
+서로 어긋나고	NNP
+서로 정답고	NNP
+서로 정답다	NNP
+서로 친하다	NNP
+서로 협력함을	NNP
+서로 화답하며	NNP
+서먹거리다	NNP
+서먹서먹하게	NNP
+서먹서먹하게 되다	NNP
+서먹서먹하게 행동하다	NNP
+서먹서먹하다	NNP
+서먹서먹한	NNP
+서먹서먹한 모양	NNP
+서분대다	NNP
+서운감	NNP
+서운하거나	NNP
+서운하거나 불만스럽게	NNP
+서운하게	NNP
+서운하게 여기다	NNP
+서운하고	NNP
+서운하고 아깝다	NNP
+서운하다	NNP
+서운한	NNP
+서운한 느낌	NNP
+서운한 느낌이	NNP
+서운한 모양	NNP
+서운함	NNP
+서운히	NNP
+서정적인	NNP
+서투르거나	NNP
+서투르게	NNP
+서투르게 읽다	NNP
+서투르게 휘청거리며	NNP
+서투르고	NNP
+서투르다	NNP
+서투른	NNP
+서투른 걸음으로	NNP
+서투른 모양	NNP
+서투른 사람	NNP
+서투름	NNP
+선득선득	NNP
+선득선득하다	NNP
+선뜻 내키지 않아	NNP
+선뜻 행동하는	NNP
+선뜻 행동하다	NNP
+선량하다	NNP
+선량한	NNP
+선명하게	NNP
+선명하다	NNP
+선명하다는	NNP
+선명하다는 뜻으로	NNP
+선명하지 못하고	NNP
+선명하지 못한	NNP
+선명하지 아니하고	NNP
+선명한	NNP
+선선한	NNP
+선선한 느낌이	NNP
+선업을	NNP
+선전하다	NNP
+선진적인	NNP
+선천적 기형으로	NNP
+선하다	NNP
+선행을	NNP
+선행을 베푼	NNP
+선호하는	NNP
+선호하다	NNP
+설렁거리다	NNP
+설렁대다	NNP
+설렁설렁	NNP
+설렁설렁하다	NNP
+설레거나	NNP
+설레거나 움직이다	NNP
+설레게	NNP
+설레게 하는	NNP
+설레게 하다	NNP
+설레는	NNP
+설레는 모양	NNP
+설레다	NNP
+설레발	NNP
+설레발치다	NNP
+설레어	NNP
+설레이다	NNP
+설사	NNP
+설사가	NNP
+설사를	NNP
+설사를 하는	NNP
+설사를 하면서	NNP
+설사의	NNP
+설사의 하나	NNP
+설사하는	NNP
+설사하는 병	NNP
+설움	NNP
+설움에	NNP
+설움에 겨워	NNP
+설움으로	NNP
+설움이	NNP
+설움이 북받쳐	NNP
+설친	NNP
+설친 잠	NNP
+섬기지 아니하여	NNP
+섬뜩	NNP
+섬뜩섬뜩	NNP
+섬뜩섬뜩하다	NNP
+섬뜩하다	NNP
+섬세하게	NNP
+섬세하고	NNP
+섬약하여	NNP
+섭섭이	NNP
+섭섭하거나	NNP
+섭섭하거나 불만스러운	NNP
+섭섭하거나 불만스럽게	NNP
+섭섭하거나 서운한	NNP
+섭섭하게	NNP
+섭섭하게 여겨져	NNP
+섭섭하게 여겨질	NNP
+섭섭하고	NNP
+섭섭하고 언짢게	NNP
+섭섭하고 언짢다	NNP
+섭섭하다	NNP
+섭섭한	NNP
+섭섭한 느낌으로	NNP
+섭섭한 느낌이	NNP
+섭하다	NNP
+성	NNP
+성가시게	NNP
+성가시게 구는	NNP
+성가시게 굴다	NNP
+성가시게 달라붙어	NNP
+성가시게 달라붙어서	NNP
+성가시게 하는	NNP
+성가시게 하다	NNP
+성가시고	NNP
+성가시고 귀찮게	NNP
+성가시고 귀찮다	NNP
+성가시다	NNP
+성가시어	NNP
+성가실	NNP
+성가실 정도로	NNP
+성격이 너그럽고	NNP
+성격이 사납고	NNP
+성격이 온화하고	NNP
+성공	NNP
+성공적	NNP
+성공적이다	NNP
+성공하다	NNP
+성공하여	NNP
+성공한	NNP
+성과가	NNP
+성과가 있을	NNP
+성교	NNP
+성교 하다	NNP
+성글	NNP
+성글거리다	NNP
+성글고	NNP
+성글고 곱다	NNP
+성글다	NNP
+성글대다	NNP
+성글벙글	NNP
+성글벙글거리다	NNP
+성글벙글대다	NNP
+성글벙글하다	NNP
+성글성글	NNP
+성글성글하다	NNP
+성글하다	NNP
+성급하게	NNP
+성급하다	NNP
+성급한	NNP
+성기다	NNP
+성나다	NNP
+성난	NNP
+성난 빛이	NNP
+성난 얼굴로	NNP
+성내다	NNP
+성내어	NNP
+성대하다	NNP
+성대한	NNP
+성립되는 죄	NNP
+성립하는 범죄	NNP
+성미가 급하고	NNP
+성미가 급하여	NNP
+성미가 매우 느리고	NNP
+성미가 매우 무르고	NNP
+성미를 부리고	NNP
+성숙되다	NNP
+성숙하고	NNP
+성숙하고 발전하다	NNP
+성숙하다	NNP
+성숙한	NNP
+성실하지 못하고	NNP
+성실한 마음이	NNP
+성을	NNP
+성을 내거나	NNP
+성을 내는	NNP
+성을 내다	NNP
+성을 내며	NNP
+성을 내어	NNP
+성을 냄	NNP
+성을 왈칵	NNP
+성을 잘 내는	NNP
+성을내다	NNP
+성의 없이	NNP
+성의가	NNP
+성의를 보이거나	NNP
+성의있다	NNP
+성이	NNP
+성이 나거나	NNP
+성이 나다	NNP
+성이 나서	NNP
+성이 남	NNP
+성이나서	NNP
+성장되거나	NNP
+성장되거나 성숙되다	NNP
+성장되거나 성숙하다	NNP
+성적인 매력에	NNP
+성질나다	NNP
+성질내다	NNP
+성질부리다	NNP
+성질이 거세고	NNP
+성질이 거칠고	NNP
+성질이 깐깐하여	NNP
+성질이 깐작깐작하고	NNP
+성질이 보드라우면서	NNP
+성질이 부드러우면서	NNP
+성질이 부드럽고	NNP
+성질이 악하고	NNP
+성질이 음흉한	NNP
+성취함을	NNP
+성품이 상냥하고	NNP
+성품이 좋은	NNP
+성품이 착하다	NNP
+성하고	NNP
+성하고 쇠함을	NNP
+성하다	NNP
+성해지다	NNP
+세계를 동경하고	NNP
+세계적인	NNP
+세력에 내리눌리다	NNP
+세력이 없는	NNP
+세련되고	NNP
+세련되고 깔끔해지다	NNP
+세련되고 아름다움	NNP
+세련되다	NNP
+세련되지 않고	NNP
+세련된	NNP
+세련된 데서	NNP
+세련됨이 없이	NNP
+세련미	NNP
+세상을 업신여기고	NNP
+세상의 종말	NNP
+세상이 망하는	NNP
+세속의 때를	NNP
+세운 공로에	NNP
+세월만 허비하는	NNP
+세일	NNP
+세일하다	NNP
+세지 못하다	NNP
+세차고	NNP
+세차고 사납게	NNP
+센 고집	NNP
+센셰이셔널	NNP
+소갈병	NNP
+소견이 얕은	NNP
+소견이 좁은	NNP
+소견이 좁은 사람을	NNP
+소고집	NNP
+소극적이다	NNP
+소담스러운	NNP
+소담스러운 데가	NNP
+소동을	NNP
+소동을 일으키는	NNP
+소동을 일으킴	NNP
+소득	NNP
+소득이 있다	NNP
+소란스러운	NNP
+소란스러운 소리가	NNP
+소란스러운 형세	NNP
+소란스러움	NNP
+소란스럽게	NNP
+소란스럽게 떠드는	NNP
+소란스럽게 이리저리	NNP
+소란스럽게 지르는	NNP
+소란스럽고	NNP
+소란스럽다	NNP
+소란이	NNP
+소란이 이는	NNP
+소란하게	NNP
+소란하게 떠벌리는	NNP
+소란하게 함	NNP
+소란하고	NNP
+소란해지거나	NNP
+소름	NNP
+소름끼치는	NNP
+소름이	NNP
+소름이 끼치는	NNP
+소름이 끼치다	NNP
+소름이 끼치도록	NNP
+소름이 끼칠	NNP
+소름이 돋는	NNP
+소리가 맑고	NNP
+소리가 맑고 은은하게	NNP
+소리가 요란하다	NNP
+소망	NNP
+소문난 명성	NNP
+소복하게	NNP
+소스라치게	NNP
+소외	NNP
+소외감	NNP
+소외되다	NNP
+소용없다	NNP
+소용없이	NNP
+소용이 없음을	NNP
+소원하다	NNP
+소원한	NNP
+소원한 모양	NNP
+소음	NNP
+소중하게	NNP
+소중하게 여겨	NNP
+소중하다	NNP
+소중한	NNP
+소중히	NNP
+소중히 대하다	NNP
+소중히 여기거나	NNP
+소중히 여기고	NNP
+소중히 여기는	NNP
+소중히 여기다	NNP
+소중히 여김	NNP
+소질과	NNP
+소탈하여	NNP
+소홀	NNP
+소홀하게	NNP
+소홀하다	NNP
+소홀히	NNP
+소홀히 여겨	NNP
+소홀히 하거나	NNP
+소화 불량	NNP
+소화가 되지 아니하면서	NNP
+소화되지 못하고	NNP
+소화되지 아니하고	NNP
+속되게	NNP
+속되게 이르는	NNP
+속박되다	NNP
+속병이	NNP
+속병이 나서	NNP
+속상	NNP
+속상하다	NNP
+속셈이 음흉한	NNP
+속아 넘어가게	NNP
+속에 거슬리게	NNP
+속에 답답하게	NNP
+속에 병이	NNP
+속여	NNP
+속여 넘기게	NNP
+속여 넘기는	NNP
+속여 넘기다	NNP
+속으로 불평스럽게	NNP
+속으로는 멀리하다	NNP
+속으로는 엉큼한	NNP
+속으로만 언짢고	NNP
+속을 썩이다	NNP
+속을 썩임	NNP
+속을 태우다	NNP
+속을 태우며	NNP
+속을 태움	NNP
+속을 후련하게	NNP
+속이 거북하다	NNP
+속이 거북한	NNP
+속이 그득한	NNP
+속이 깊다	NNP
+속이 깊지 못하고	NNP
+속이 깐깐하고	NNP
+속이 끓는	NNP
+속이 느글거리는	NNP
+속이 느글거리다	NNP
+속이 느끼하다	NNP
+속이 느끼해지는	NNP
+속이 느끼해지다	NNP
+속이 답답하고	NNP
+속이 답답하다	NNP
+속이 답답한	NNP
+속이 답답함	NNP
+속이 매스껍고	NNP
+속이 매슥매슥하여	NNP
+속이 메스꺼워	NNP
+속이 메스껍고	NNP
+속이 메슥메슥하여	NNP
+속이 부글거리는	NNP
+속이 부글거리다	NNP
+속이 불편하거나	NNP
+속이 빈	NNP
+속이 상하거나	NNP
+속이 상하고	NNP
+속이 상하여	NNP
+속이 상해서	NNP
+속이 시원하고	NNP
+속이 쓰리고	NNP
+속이 아픈	NNP
+속이 언짢고	NNP
+속이 엉큼하고	NNP
+속이 울렁거리는	NNP
+속이 울렁거리다	NNP
+속이 좁다	NNP
+속이 찌르듯이	NNP
+속이 타	NNP
+속이 타는	NNP
+속이 타다	NNP
+속이거나	NNP
+속이고	NNP
+속이고 배반하다	NNP
+속이기	NNP
+속이기 위하여	NNP
+속이는	NNP
+속이는 모양	NNP
+속이다	NNP
+속이려는	NNP
+속이려는 모략	NNP
+속이려는 짓을	NNP
+속이며	NNP
+속인다는	NNP
+속인다는 뜻으로	NNP
+속임	NNP
+속임수	NNP
+속절없다	NNP
+속절없이	NNP
+속죄	NNP
+속태	NNP
+손가락이 없거나	NNP
+손발이 굳어서	NNP
+손발이 잘린	NNP
+손발이 차며	NNP
+손보아 고치다	NNP
+손부끄러이	NNP
+손부끄럽다	NNP
+손상되다	NNP
+손상되어	NNP
+손상된	NNP
+손상을	NNP
+손상을 끼치다	NNP
+손상을 입음	NNP
+손상을 입힘	NNP
+손상이나	NNP
+손상이나 치욕	NNP
+손실이 생길	NNP
+손으로 탐스럽게	NNP
+손해	NNP
+손해 배상	NNP
+손해가	NNP
+손해가 되는	NNP
+손해나	NNP
+손해나 빚	NNP
+손해를	NNP
+손해를 끼치거나	NNP
+손해를 끼치다	NNP
+손해를 보거나	NNP
+손해를 보다	NNP
+손해를 보아서	NNP
+손해를 봄	NNP
+손해를 입다	NNP
+손해의	NNP
+솔직하다	NNP
+솔직한	NNP
+솜씨가 깨끗하고	NNP
+솜씨가 뛰어난	NNP
+솟아나는	NNP
+솟아나는 모양	NNP
+송구스럽거나	NNP
+송구스럽거나 부끄러워서	NNP
+송구스럽게	NNP
+송구스럽게 망설이며	NNP
+쇠멸하다	NNP
+쇠약감	NNP
+쇠약감 따위가	NNP
+쇠약하다	NNP
+쇠약한	NNP
+쇠약한 데다	NNP
+쇠약한 지경을	NNP
+쇠약해져서	NNP
+쇠약해지는	NNP
+쇠약해지는 일	NNP
+쇠약해지면서	NNP
+쇠약해진	NNP
+쇠약해진 사람을	NNP
+쇠약해진 지경을	NNP
+쇠잔하여	NNP
+쇠퇴하여	NNP
+쇠퇴하여 사멸하는	NNP
+쇠퇴한	NNP
+쇠퇴한 제도나	NNP
+쇠하여지다	NNP
+수고가	NNP
+수고가 되는	NNP
+수고하는	NNP
+수군덕수군덕하다	NNP
+수긍하다	NNP
+수꼴	NNP
+수더분하거나	NNP
+수더분하게	NNP
+수두	NNP
+수령에게 기쁨을	NNP
+수막염	NNP
+수면 부족	NNP
+수면부족	NNP
+수분이 부족하거나	NNP
+수상쩍거나	NNP
+수선	NNP
+수선 부리기를	NNP
+수선스러워	NNP
+수선스럽게	NNP
+수선스럽게 뒤끓는	NNP
+수선스럽게 뒤끓다	NNP
+수선스럽게 들끓다	NNP
+수선스럽게 움직이다	NNP
+수선스럽고	NNP
+수선스럽다	NNP
+수선을	NNP
+수선을 부리다	NNP
+수수하다	NNP
+수습하는	NNP
+수습하는 모양	NNP
+수습하다	NNP
+수요가 늘어나다	NNP
+수월하게	NNP
+수월하게 거침없이	NNP
+수월하다	NNP
+수익	NNP
+수익을	NNP
+수익을 거두게	NNP
+수익을 거두다	NNP
+수익을 거둠	NNP
+수준에 미치지 못한	NNP
+수준에 미치지 못함	NNP
+수준을 뛰어넘어	NNP
+수준이 낮다	NNP
+수준이 낮은	NNP
+수준이 높고	NNP
+수준이 매우 낮아지다	NNP
+수준이어서 만족할	NNP
+수준이어서 만족할 만하다	NNP
+수줍다	NNP
+수줍음만	NNP
+수줍음만 타는	NNP
+수척하다	NNP
+수치스러운	NNP
+수치와	NNP
+수치와 모욕을	NNP
+수치플	NNP
+수행의 공덕을	NNP
+수혜	NNP
+수혜자	NNP
+숙련된	NNP
+순간적으로 치미는	NNP
+순결	NNP
+순결무구하다	NNP
+순결한 사랑	NNP
+순박하게	NNP
+순서상으로 앞선	NNP
+순수하게	NNP
+순수하게 되게	NNP
+순수하게 되다	NNP
+순수하게 됨	NNP
+순수하고	NNP
+순수하고 깨끗하며	NNP
+순수하고 깨끗한	NNP
+순수하고 바르게	NNP
+순수하고 바르다	NNP
+순수하고 올바르다	NNP
+순수하다	NNP
+순수한	NNP
+순수한 애정이나	NNP
+순수한 이익	NNP
+순수한 황금	NNP
+순수화	NNP
+순수화하다	NNP
+순순하다	NNP
+순순히	NNP
+순정파	NNP
+순정하다	NNP
+순조롭게	NNP
+순조롭게 되어	NNP
+순조롭게 진행되어	NNP
+순조롭게 하지 못하고	NNP
+순조롭지 못하게	NNP
+순조롭지 않거나	NNP
+순종하는	NNP
+순종하는 모양	NNP
+순진하게	NNP
+순진하고 어리석은	NNP
+순탄하게	NNP
+순탄하고	NNP
+순탄하고 원활하여	NNP
+순탄하지 못하고	NNP
+순탄하지 않게	NNP
+순탄하지 않다	NNP
+순편하다	NNP
+순편히	NNP
+순하게	NNP
+순하게 되다	NNP
+순하고 어리석다	NNP
+순하다	NNP
+순하지 않고	NNP
+순한	NNP
+순한 모양	NNP
+순환의 장애로	NNP
+술렁거리어	NNP
+술렁거리어 뒤숭숭하게	NNP
+술렁거리어 뒤숭숭하다	NNP
+술렁거리어 뒤숭숭한	NNP
+술렁거리어 뒤숭숭함	NNP
+숨 막히듯이	NNP
+숨 쉬기 어렵게	NNP
+숨결이 밭고	NNP
+숨김없이	NNP
+숨김없이 말하다	NNP
+숨김이 없이	NNP
+숨소리가 고르지 아니하고	NNP
+숨소리를 거칠게	NNP
+숨쉬기가 힘들어지고	NNP
+숨어 살거나	NNP
+숨을 가쁘고	NNP
+숨이 가빠	NNP
+숨이 막히는	NNP
+숨이 막히다	NNP
+숨이 막힐	NNP
+숨이 막힘	NNP
+숨이 몹시 차는	NNP
+숨이 차거나	NNP
+숨이 차고	NNP
+숨이 차는	NNP
+숨이 차다	NNP
+숨이 차서	NNP
+숫기가 없어	NNP
+숭상하여	NNP
+숭상하여 좋아하는	NNP
+쉬거나	NNP
+쉬면서	NNP
+쉬워지다	NNP
+쉰	NNP
+쉰 듯하다	NNP
+쉰 듯하여	NNP
+쉴드	NNP
+쉽거나	NNP
+쉽거나 편하다	NNP
+쉽게	NNP
+쉽게 노한다	NNP
+쉽게 다루거나	NNP
+쉽게 다스리거나	NNP
+쉽게 바스러질	NNP
+쉽게 토라지는	NNP
+쉽게 풀이하다	NNP
+쉽게 해결할 수 있는	NNP
+쉽지 아니하다	NNP
+스러져 가다	NNP
+스산하고	NNP
+스스러움을 느끼어	NNP
+스스럼없이	NNP
+스스럼이 없다	NNP
+스스로 굳게	NNP
+스스로 나서다	NNP
+스스로 부끄러워함	NNP
+스스로 새로워지다	NNP
+스스로 처리하다	NNP
+스스로 포기하고	NNP
+스스로를 속인다는	NNP
+스스로에게 긍지를	NNP
+스트레스	NNP
+스포	NNP
+슬그머니 훔쳐	NNP
+슬기	NNP
+슬기나 지혜	NNP
+슬기로운	NNP
+슬기로움을	NNP
+슬기롭고	NNP
+슬기롭고 영리해서	NNP
+슬기롭다	NNP
+슬기롭지 못하고	NNP
+슬쩍 가지다	NNP
+슬쩍 넘겨 버리다	NNP
+슬쩍 넘기다	NNP
+슬쩍 웃다	NNP
+슬퍼	NNP
+슬퍼서	NNP
+슬퍼서 울거나	NNP
+슬퍼져서	NNP
+슬퍼지다	NNP
+슬퍼하고	NNP
+슬퍼하고 가슴	NNP
+슬퍼하다	NNP
+슬퍼하면서	NNP
+슬퍼하면서 탄식하다	NNP
+슬퍼하면서 탄식함	NNP
+슬퍼함	NNP
+슬프게	NNP
+슬프게 끝나는	NNP
+슬프게 여기다	NNP
+슬프게 우는	NNP
+슬프게 한탄하다	NNP
+슬프게 한탄함	NNP
+슬프고	NNP
+슬프고 가슴	NNP
+슬프고 괴롭다	NNP
+슬프고 끔찍하게	NNP
+슬프고 끔찍하다	NNP
+슬프고 끔찍함	NNP
+슬프고 아까움	NNP
+슬프고 아깝다	NNP
+슬프기	NNP
+슬프기 그지없다	NNP
+슬프기 그지없음	NNP
+슬프다	NNP
+슬프도다	NNP
+슬픈	NNP
+슬픈 마음으로	NNP
+슬픈 마음이나	NNP
+슬플	NNP
+슬플 때	NNP
+슬픔	NNP
+슬픔으로	NNP
+슬픔을	NNP
+슬픔을 느끼다	NNP
+슬픔이	NNP
+슬픔이나	NNP
+슬픔이나 걱정	NNP
+슬픔이나 연민이나	NNP
+슬피	NNP
+슬피 울부짖음	NNP
+슬피 탄식함	NNP
+슴벅거리다	NNP
+습성 기침	NNP
+습진	NNP
+승낙하다	NNP
+승리	NNP
+승리하다	NNP
+시각적 아름다움을	NNP
+시간이 더	NNP
+시그럽다	NNP
+시근시근하다	NNP
+시기가 아니다	NNP
+시기하고	NNP
+시기하고 미워함을	NNP
+시기하는	NNP
+시기하는 마음이	NNP
+시기하는 일을	NNP
+시기하다	NNP
+시기하여	NNP
+시기함	NNP
+시끄럽거나	NNP
+시끄럽게	NNP
+시끄럽게 떠드는	NNP
+시끄럽게 떠들고	NNP
+시끄럽게 떠들다	NNP
+시끄럽게 오락가락하고	NNP
+시끄럽고	NNP
+시끄럽고 부산하게	NNP
+시끄럽다	NNP
+시끌시끌한 모양	NNP
+시달리다	NNP
+시달림	NNP
+시달림으로	NNP
+시답지 아니하여	NNP
+시답지 않게	NNP
+시대에 뒤떨어져	NNP
+시든	NNP
+시든 풀처럼	NNP
+시들고	NNP
+시들고 말라서	NNP
+시들다	NNP
+시들대다	NNP
+시들면서	NNP
+시들시들	NNP
+시들시들 잘아	NNP
+시들어	NNP
+시들어서	NNP
+시들어서 우그러지고	NNP
+시들하게	NNP
+시들하다	NNP
+시들한	NNP
+시들한 데가	NNP
+시들한 모양	NNP
+시들해져서	NNP
+시들해져서 싫증이나	NNP
+시련이	NNP
+시련이 많다	NNP
+시름시름	NNP
+시름시름 앓는	NNP
+시름시름 앓다	NNP
+시름하는	NNP
+시름하는 마음이	NNP
+시름하여	NNP
+시망	NNP
+시무룩	NNP
+시무룩하다	NNP
+시묵룩이	NNP
+시발비용	NNP
+시비	NNP
+시비 걸기를	NNP
+시비가	NNP
+시비에	NNP
+시비하는	NNP
+시비하는 짓	NNP
+시새움	NNP
+시샘	NNP
+시샘이	NNP
+시샘이 나서	NNP
+시선이 혹하여	NNP
+시시하거나	NNP
+시시하는 마음	NNP
+시시하다	NNP
+시시한	NNP
+시원스러운	NNP
+시원스러운 모양	NNP
+시원스러운 소리가	NNP
+시원스럽게	NNP
+시원스럽게 나는	NNP
+시원스럽게 높다	NNP
+시원스럽게 빨리	NNP
+시원스럽게 열리는	NNP
+시원스럽게 트이지 못하고	NNP
+시원스럽게 하는	NNP
+시원스럽게 하다	NNP
+시원스럽게 하지 못하고	NNP
+시원스럽게 하지 아니하고	NNP
+시원스럽게 행동하는	NNP
+시원스럽게 훤하게	NNP
+시원스럽게 훤하다	NNP
+시원스럽고	NNP
+시원스럽고 말쑥하다	NNP
+시원스럽고 말쑥한	NNP
+시원스럽고 빠른	NNP
+시원스럽다	NNP
+시원스럽도록	NNP
+시원스럽지 못하고	NNP
+시원스럽지 아니하게	NNP
+시원스레	NNP
+시원시원	NNP
+시원시원하다	NNP
+시원시원한 모양	NNP
+시원시원히	NNP
+시원찮다	NNP
+시원하게	NNP
+시원하고	NNP
+시원하고 말끔하게	NNP
+시원하고 산뜻하게	NNP
+시원하고 재미있다	NNP
+시원하다	NNP
+시원하여	NNP
+시원하여 유쾌하다	NNP
+시원하여 유쾌한	NNP
+시원하여 유쾌함	NNP
+시원하지 못하다	NNP
+시원하지 아니하고	NNP
+시원하지 않다	NNP
+시원한	NNP
+시원한 느낌이	NNP
+시일이 늦어지는	NNP
+시일이 늦어지다	NNP
+시장하거나	NNP
+시장하거나 과음하거나	NNP
+시장한 느낌이	NNP
+시체를	NNP
+시치미를	NNP
+시치미를 떼는	NNP
+시큰거리고	NNP
+시큰둥하다	NNP
+시큰둥한	NNP
+시큰둥한 모양	NNP
+시큰둥한 체하는	NNP
+식견	NNP
+식견과 안목	NNP
+식견이 높고	NNP
+식량이 없어	NNP
+식상	NNP
+식상하다	NNP
+식욕 부진	NNP
+식욕 부진증	NNP
+식욕이 없어지며	NNP
+식욕이 없으며	NNP
+식중독	NNP
+신경 쇠약	NNP
+신경이 마비되거나	NNP
+신경증	NNP
+신경질	NNP
+신경질을 잘	NNP
+신경질쟁이	NNP
+신경질적	NNP
+신경질적으로	NNP
+신경질적인	NNP
+신기하다	NNP
+신나다	NNP
+신령스러운	NNP
+신령스러운 기운이	NNP
+신령하다	NNP
+신령하여	NNP
+신뢰	NNP
+신뢰하다	NNP
+신뢰할 수 없는	NNP
+신뢰할 수 있는	NNP
+신뢰할 수 있음	NNP
+신명	NNP
+신명하다	NNP
+신묘하게	NNP
+신물	NNP
+신바람	NNP
+신박하다	NNP
+신분을 낮추어서	NNP
+신분이 낮은	NNP
+신선하다	NNP
+신선하지 못하고	NNP
+신성한	NNP
+신이 나서	NNP
+신이나 멋	NNP
+신중	NNP
+신중하다	NNP
+신중하지 못하고	NNP
+신중한	NNP
+신중한 언행이나	NNP
+신중히	NNP
+신중히 생각하지 아니하고	NNP
+신체에 상처를	NNP
+신컨	NNP
+신통하다	NNP
+신통하지 않은	NNP
+싣기 불편할	NNP
+실답지 못하게	NNP
+실답지 못하다	NNP
+실답지 못한	NNP
+실랑이를	NNP
+실랑이를 하는	NNP
+실력을 기름	NNP
+실망	NNP
+실망감	NNP
+실망낙담	NNP
+실망낙담하다	NNP
+실망스럽고	NNP
+실망스럽다	NNP
+실망하다	NNP
+실망한	NNP
+실망함	NNP
+실속	NNP
+실속 없는	NNP
+실속 있게	NNP
+실속 있고	NNP
+실속 있도록	NNP
+실속없이	NNP
+실속없이 허황하며	NNP
+실속은 없고	NNP
+실속은 없으면서	NNP
+실속이	NNP
+실속이 없게	NNP
+실속이 없고	NNP
+실속이 없는	NNP
+실속이 없다	NNP
+실속이 있게	NNP
+실속이 있다	NNP
+실수	NNP
+실수가	NNP
+실수나	NNP
+실수나 부주의	NNP
+실수를	NNP
+실수를 저지름	NNP
+실심	NNP
+실심하다	NNP
+실없거나	NNP
+실없고	NNP
+실없는	NNP
+실없는 말로	NNP
+실없는 말이나	NNP
+실없는 사람을	NNP
+실없는 행동이나	NNP
+실없다	NNP
+실없이	NNP
+실없이 건드려	NNP
+실없이 경망스럽게	NNP
+실없이 경솔하게	NNP
+실없이 굴다	NNP
+실없이 까불며	NNP
+실없이 꺼불거리고	NNP
+실없이 놀리다	NNP
+실없이 말하는	NNP
+실없이 말하다	NNP
+실없이 방정맞게	NNP
+실없이 이야기하는	NNP
+실용적	NNP
+실용적이다	NNP
+실용적인	NNP
+실제로 이루다	NNP
+실제로 이루어지다	NNP
+실제보다 낮추어	NNP
+실천적인	NNP
+실패나	NNP
+실패로	NNP
+실패로 돌아가다	NNP
+실패로 돌아감	NNP
+실패하거나	NNP
+실패함을	NNP
+실하게	NNP
+실하게 든든히	NNP
+실하고	NNP
+실하고 야무지다	NNP
+실하다	NNP
+실하지 못하여	NNP
+실하지 못한	NNP
+실행하지 아니함	NNP
+싫거나	NNP
+싫거나 언짢은	NNP
+싫게	NNP
+싫게 떠들썩하다	NNP
+싫게 여기다	NNP
+싫고	NNP
+싫다	NNP
+싫다고	NNP
+싫다는 표시로	NNP
+싫도록	NNP
+싫어나다	NNP
+싫어서	NNP
+싫어지거나	NNP
+싫어지다	NNP
+싫어하고	NNP
+싫어하고 미워하는	NNP
+싫어하고 미워할	NNP
+싫어하고 미워함	NNP
+싫어하는	NNP
+싫어하는 모양	NNP
+싫어하는 태도나	NNP
+싫어하다	NNP
+싫어하여	NNP
+싫어함을	NNP
+싫어해	NNP
+싫은	NNP
+싫은 것이	NNP
+싫은 듯이	NNP
+싫은 생각	NNP
+싫은 소리	NNP
+싫은 일을	NNP
+싫은 체하며	NNP
+싫은 환경에	NNP
+싫을	NNP
+싫을 정도로	NNP
+싫이	NNP
+싫증	NNP
+싫증 남으로	NNP
+싫증이	NNP
+싫증이 나거나	NNP
+싫증이 나다	NNP
+싫증이 나서	NNP
+싫증이 난	NNP
+싫증이나	NNP
+싫증이나 게으름이	NNP
+심각성	NNP
+심각하게	NNP
+심각하게 생각하고	NNP
+심각한	NNP
+심각한 상태를	NNP
+심리적인 충격	NNP
+심술	NNP
+심술궂게	NNP
+심술궂고	NNP
+심술궂다	NNP
+심술궂은	NNP
+심술궂은 행동을	NNP
+심술꾸러기	NNP
+심술부리다	NNP
+심술스럽다	NNP
+심술을	NNP
+심술을 부리는	NNP
+심술을 부리다	NNP
+심술이	NNP
+심술이 매우	NNP
+심술이나	NNP
+심술이나 안타깝게	NNP
+심술이나 화가	NNP
+심술쟁이	NNP
+심신 미약	NNP
+심신 박약	NNP
+심심하고	NNP
+심오하다	NNP
+심오한	NNP
+심장 마비	NNP
+심장 질환	NNP
+심장마비	NNP
+심장병	NNP
+심장병 따위로	NNP
+심쿵	NNP
+심하거나	NNP
+심하거나 지나치다	NNP
+심하게	NNP
+심하게 구박하거나	NNP
+심하게 기울어지는	NNP
+심하게 기울어지며	NNP
+심하게 꾸짖어	NNP
+심하게 놀러	NNP
+심하게 놀리다	NNP
+심하게 당한	NNP
+심하게 되다	NNP
+심하게 따지며	NNP
+심하게 떠는	NNP
+심하게 물크러질	NNP
+심하게 손해를	NNP
+심하게 썩거나	NNP
+심하게 앓는	NNP
+심하게 어지러워지는	NNP
+심하게 얽은	NNP
+심하게 욕하며	NNP
+심하게 울렁거리는	NNP
+심하게 울렁거리다	NNP
+심하게 을러대고	NNP
+심하게 일어나다	NNP
+심하게 짓눌러	NNP
+심하게 트림하는	NNP
+심하게 풍기는	NNP
+심하게 학대하다	NNP
+심하다	NNP
+심하면	NNP
+심하면 아프다	NNP
+심하면 피가	NNP
+심한	NNP
+심한 것을	NNP
+심한 고생이나	NNP
+심한 고통	NNP
+심한 고통이나	NNP
+심한 냄새가	NNP
+심한 복통을	NNP
+심한 상태에	NNP
+심한 아픔	NNP
+심한 압박감을	NNP
+심한 추위를	NNP
+심한 통증	NNP
+심한 통증을	NNP
+심한 혐오감을	NNP
+심해지는 병	NNP
+심히 모자라는	NNP
+심히 아파서	NNP
+싱거운	NNP
+싱거운 데가	NNP
+싱거운 사람을	NNP
+싱겁게	NNP
+싱겁다	NNP
+싱그럽다	NNP
+싱글거리다	NNP
+싱글대다	NNP
+싱글벙글	NNP
+싱글벙글하다	NNP
+싱긋대다	NNP
+싱싱하고	NNP
+싱싱하고 맑은	NNP
+싱싱하고 힘찬	NNP
+싱싱하다	NNP
+싱싱한	NNP
+싱싱한 모양	NNP
+싱싱히	NNP
+싶지 아니한	NNP
+싶지 않았던	NNP
+ㅆ	NNP
+ㅆㅂ	NNP
+싸근싸근히	NNP
+싸글싸글히	NNP
+싸늘한	NNP
+싸늘한 느낌	NNP
+싸늘한 느낌이	NNP
+싸우는 짓	NNP
+싸우다	NNP
+싸움	NNP
+싸움에서 패하고	NNP
+싹싹하고	NNP
+싹싹하고 상냥하게	NNP
+싹싹한	NNP
+싹싹한 데가	NNP
+쌀쌀맞고	NNP
+쌀쌀맞다	NNP
+쌀쌀한	NNP
+쌀쌀한 데가	NNP
+쌓엿던 먼지	NNP
+쌓인 원망과	NNP
+쌓인 원한이나	NNP
+쌓인 은혜	NNP
+쌓인 음기	NNP
+써글써글히	NNP
+썩 좋거나	NNP
+썩 훌륭하거나	NNP
+썩거나	NNP
+썩는	NNP
+썩는 병	NNP
+썩소	NNP
+썩어서	NNP
+썩이다	NNP
+썩임	NNP
+썰렁한	NNP
+썰렁한 모양	NNP
+썸	NNP
+쏘아붙이는	NNP
+쏘아붙이는 소리	NNP
+쑤시고	NNP
+쑤시는	NNP
+쑤시는 것같이	NNP
+쑤시는 것처럼	NNP
+쑤시는 모양	NNP
+쑤시는 짓을	NNP
+쑤시다	NNP
+쑤시듯 아픈	NNP
+쑤시듯이	NNP
+쑤시듯이 아프다	NNP
+쑤시며	NNP
+쑥스럽거나 미안하여	NNP
+쑥스럽다	NNP
+쓰기 좋게	NNP
+쓰라리다	NNP
+쓰라린	NNP
+쓰라린 경험을	NNP
+쓰라린 느낌이	NNP
+쓰라린 아픔을	NNP
+쓰라림	NNP
+쓰라림 따위가	NNP
+쓰러뜨리다	NNP
+쓰러져	NNP
+쓰러지거나	NNP
+쓰러지다	NNP
+쓰러질	NNP
+쓰러질 듯이	NNP
+쓰러질 듯하게	NNP
+쓰러질 듯하고	NNP
+쓰러질 듯하다	NNP
+쓰러질 듯한	NNP
+쓰리고	NNP
+쓰리고 아리다	NNP
+쓰리고 아픈	NNP
+쓰리고 아픔	NNP
+쓰리다	NNP
+쓰리며 아픈	NNP
+쓰며	NNP
+쓰지 못하게	NNP
+쓰지 아니함	NNP
+쓴	NNP
+쓴 맛이	NNP
+쓸 만하게	NNP
+쓸데없거나	NNP
+쓸데없는	NNP
+쓸데없는 것들을	NNP
+쓸데없는 말을	NNP
+쓸데없는 말이나	NNP
+쓸데없는 소리	NNP
+쓸데없는 소리를	NNP
+쓸데없다	NNP
+쓸데없음을	NNP
+쓸데없음을 이르는	NNP
+쓸데없이	NNP
+쓸데없이 나돌아	NNP
+쓸데없이 지루하게	NNP
+쓸데없이 집적거리며	NNP
+쓸데없이 짓궃게	NNP
+쓸모 있게	NNP
+쓸모 있는	NNP
+쓸모가 없는	NNP
+쓸모가 없다	NNP
+쓸모가 없음을	NNP
+쓸모가 없이	NNP
+쓸모없고	NNP
+쓸모없고 하찮은	NNP
+쓸모없다	NNP
+쓸모없이	NNP
+쓸쓸하게	NNP
+쓸쓸하고	NNP
+쓸쓸하고 막막하다	NNP
+쓸쓸하고 외로운	NNP
+쓸쓸하고 외로워	NNP
+쓸쓸하다	NNP
+쓸쓸한	NNP
+쓸쓸한 느낌을	NNP
+쓸쓸한 등불이라는	NNP
+쓸쓸한 밤을	NNP
+쓸쓸함	NNP
+쓸쓸히	NNP
+쓸쓸히 자는	NNP
+씀벅대다	NNP
+씁쓰레	NNP
+씁쓰레하게	NNP
+씁쓰레하다	NNP
+씁쓰름하다	NNP
+씁씁하다	NNP
+씩씩하게	NNP
+씩씩하게 나아감	NNP
+씩씩하고	NNP
+씩씩하고 시원시원한	NNP
+씩씩하고 힘차다	NNP
+씩씩하다	NNP
+씹다	NNP
+씹히는	NNP
+씹히는 모양	NNP
+씻어서 깨끗하게	NNP
+ㅇㄴ	NNP
+ㅇㅅㅇ	NNP
+ㅇㅈ	NNP
+ㅇㅋ	NNP
+ㅇㅎ	NNP
+아기자기하거나	NNP
+아기자기하거나 간드러진	NNP
+아기자기하게	NNP
+아기자기하게 즐겁고	NNP
+아까움	NNP
+아까워서	NNP
+아까워하다	NNP
+아깝게	NNP
+아깝게 생각하다	NNP
+아깝다	NNP
+아끼고	NNP
+아끼고 귀중히	NNP
+아끼고 사랑하는	NNP
+아끼고 소중히	NNP
+아끼고 위하는	NNP
+아끼다	NNP
+아끼어	NNP
+아끼어 친밀하게	NNP
+아낌없이	NNP
+아내를 아끼고	NNP
+아늑한	NNP
+아늑한 곳을	NNP
+아는 것이 깊고	NNP
+아는 것이 없음	NNP
+아는 벗	NNP
+아는 힘	NNP
+아니꼬운	NNP
+아니꼬운 일을	NNP
+아니꼬울 때	NNP
+아니꼽거나	NNP
+아니꼽거나 시샘이	NNP
+아니꼽다	NNP
+아니다	NNP
+아니하고	NNP
+아니하고 가볍다	NNP
+아니하고 걱정스럽다	NNP
+아니하고 괴로움	NNP
+아니하고 괴롭다	NNP
+아니하고 데면데면하게	NNP
+아니하고 데면데면하다	NNP
+아니하고 들어맞다	NNP
+아니하고 조마조마하게	NNP
+아니하고 조마조마하다	NNP
+아니하고 조마조마한	NNP
+아니하고 조마조마함	NNP
+아니하다	NNP
+아니하여 못마땅하게	NNP
+아니하여 섭섭하거나	NNP
+아니하여 싫거나	NNP
+아니한 상태가	NNP
+아니한다고 투덜거리다	NNP
+아담하고	NNP
+아담하고 깨끗한	NNP
+아담하고 말끔하게	NNP
+아담하고 말끔하다	NNP
+아담하고 말끔한	NNP
+아둔하고	NNP
+아둔하고 약빠르지	NNP
+아득하다	NNP
+아랫배가 아픈	NNP
+아량을 베푸는	NNP
+아르엔에이 바이러스	NNP
+아름다우며	NNP
+아름다우며 멋들어지게	NNP
+아름다운	NNP
+아름다운 경지	NNP
+아름다운 경치	NNP
+아름다운 경치를	NNP
+아름다운 글	NNP
+아름다운 글귀	NNP
+아름다운 글귀를	NNP
+아름다운 깃	NNP
+아름다운 뜻	NNP
+아름다운 말과	NNP
+아름다운 말과 글	NNP
+아름다운 말이나	NNP
+아름다운 말이나 글	NNP
+아름다운 문장	NNP
+아름다운 문장이라는	NNP
+아름다운 사람을	NNP
+아름다운 수식이	NNP
+아름다운 여인의	NNP
+아름다운 여자를	NNP
+아름다운 영예	NNP
+아름다운 영예를	NNP
+아름다운 옷	NNP
+아름다운 용모와	NNP
+아름다운 용모와 자태	NNP
+아름다운 이미지로	NNP
+아름다운 일	NNP
+아름다운 장식	NNP
+아름다운 재목	NNP
+아름다운 점	NNP
+아름다운 태가	NNP
+아름다운 태도	NNP
+아름다운 털	NNP
+아름다움	NNP
+아름다움과	NNP
+아름다움을	NNP
+아름다움을 나타내는	NNP
+아름다움을 살펴	NNP
+아름다움을 요구한다	NNP
+아름다움을 추구하는	NNP
+아름다움이나	NNP
+아름다워	NNP
+아름다워 눈으로	NNP
+아름다워서	NNP
+아름다워서 관상용으로	NNP
+아름답거나	NNP
+아름답게	NNP
+아름답게 꾸며져	NNP
+아름답게 꾸미고	NNP
+아름답게 빛나고	NNP
+아름답고	NNP
+아름답고 고운	NNP
+아름답고 고운 빛깔	NNP
+아름답고 부드러운	NNP
+아름답고 섬세하게	NNP
+아름답고 예쁘게	NNP
+아름답고 요염함	NNP
+아름답고 정연하게	NNP
+아름답고 훌륭한	NNP
+아름답다	NNP
+아름답다고 찬양하는	NNP
+아름답다고 찬양함	NNP
+아름답지 못하고	NNP
+아리고	NNP
+아리고 자리다	NNP
+아리다	NNP
+아리땁다	NNP
+아무 값어치나 의의가 없다	NNP
+아무 성과도	NNP
+아무 쓸모가 없음을	NNP
+아무 탈이 없고	NNP
+아무것도 모르면서	NNP
+아무것도 없는	NNP
+아무것도 없다	NNP
+아무것도 없어서	NNP
+아무것도 없으면서	NNP
+아무렇게나	NNP
+아무에게나 함부로	NNP
+아물아물	NNP
+아물아물 돌리는	NNP
+아물아물 돌리다	NNP
+아삭아삭한	NNP
+아삭아삭한 모양	NNP
+아삭하다	NNP
+아수록하다	NNP
+아쉬움	NNP
+아쉬움 없이	NNP
+아쉬워하는	NNP
+아쉬워하는 마음	NNP
+아쉬워하다	NNP
+아쉽거나	NNP
+아쉽거나 섭섭한	NNP
+아쉽다	NNP
+아슬아슬하고	NNP
+아슬아슬하고 위험한	NNP
+아아 슬프도다	NNP
+아오안	NNP
+아웃 오브 안중	NNP
+아주 가깝게	NNP
+아주 가깝다	NNP
+아주 고요해짐	NNP
+아주 고통스럽거나	NNP
+아주 공평하여	NNP
+아주 귀찮게	NNP
+아주 깨끗하다	NNP
+아주 깨끗한	NNP
+아주 꺼리는	NNP
+아주 늘씬한	NNP
+아주 다정하고	NNP
+아주 당당하고	NNP
+아주 더럽게	NNP
+아주 뛰어나고	NNP
+아주 맑고	NNP
+아주 맑아지는	NNP
+아주 망치다	NNP
+아주 매끄럽다	NNP
+아주 맥없이	NNP
+아주 멋지게	NNP
+아주 못된	NNP
+아주 밝고	NNP
+아주 방정맞게	NNP
+아주 보잘것없다	NNP
+아주 보잘것없음	NNP
+아주 부드럽고	NNP
+아주 쉽다	NNP
+아주 시원스럽게	NNP
+아주 심하게	NNP
+아주 심한	NNP
+아주 알맞게	NNP
+아주 야단스럽고	NNP
+아주 야무지고	NNP
+아주 어리석고	NNP
+아주 예사롭게	NNP
+아주 온전한	NNP
+아주 요긴한	NNP
+아주 요란스럽게	NNP
+아주 잘되다	NNP
+아주 잘됨	NNP
+아주 저버리다	NNP
+아주 적절하게	NNP
+아주 적절한	NNP
+아주 좋고	NNP
+아주 좋아서	NNP
+아주 좋은	NNP
+아주 즐겁고	NNP
+아주 지겹도록	NNP
+아주 치사하고	NNP
+아주 친하게	NNP
+아주 친하다	NNP
+아주 탐스러울	NNP
+아주 튼튼하다	NNP
+아주 화목하고	NNP
+아찔하다	NNP
+아찔하여지다	NNP
+아첨을	NNP
+아첨을 떠는	NNP
+아첨을 떨다	NNP
+아첨을 하며	NNP
+아첨하고	NNP
+아첨하는	NNP
+아첨하는 데가	NNP
+아첨하는 모양	NNP
+아첨하다	NNP
+아첨하여	NNP
+아첨하여 따르고	NNP
+아첨함을	NNP
+아파	NNP
+아파 오다	NNP
+아파서	NNP
+아파서 애달프게	NNP
+아파서 얄미울	NNP
+아파서 자꾸	NNP
+아파하는	NNP
+아파하는 일	NNP
+아파하는 증상	NNP
+아파하다	NNP
+아프거나	NNP
+아프거나 무서워서	NNP
+아프게	NNP
+아프게 느껴지다	NNP
+아프게 되는	NNP
+아프게 되다	NNP
+아프게 치다	NNP
+아프고	NNP
+아프고 가엽다	NNP
+아프고 괴롭게	NNP
+아프고 괴롭다	NNP
+아프고 답답하게	NNP
+아프고 답답하다	NNP
+아프고 메스꺼워	NNP
+아프다	NNP
+아프며	NNP
+아프며 약하면	NNP
+아프면서	NNP
+아픈	NNP
+아픈 경우를	NNP
+아픈 느낌	NNP
+아픈 느낌이	NNP
+아픈 데가	NNP
+아픈 듯하면서도	NNP
+아픈 듯한	NNP
+아픈 모양	NNP
+아픈 병	NNP
+아픈 병증	NNP
+아픈 임질	NNP
+아픈 증상	NNP
+아픈 증상이	NNP
+아픈 증세에	NNP
+아플	NNP
+아플 만큼	NNP
+아픔	NNP
+아픔을	NNP
+아픔을 느끼다	NNP
+아픔을 호소하는	NNP
+악당	NNP
+악독하게	NNP
+악독한	NNP
+악독한 방법으로	NNP
+악독한 사람을	NNP
+악마	NNP
+악마에	NNP
+악마에 비유하여	NNP
+악명 높은	NNP
+악명높은	NNP
+악몽	NNP
+악성	NNP
+악순환	NNP
+악업	NNP
+악업을	NNP
+악에	NNP
+악에 받쳐서	NNP
+악연	NNP
+악을 쓰고	NNP
+악의	NNP
+악의의	NNP
+악의적	NNP
+악의적인	NNP
+악인연	NNP
+악지를	NNP
+악지를 부려	NNP
+악취	NNP
+악플	NNP
+악하고	NNP
+악하고 모질게	NNP
+악하고 모질다	NNP
+악하고 모짊	NNP
+악하다	NNP
+악한	NNP
+악한 마음을	NNP
+악한 짓을	NNP
+악한 첩	NNP
+악화되다	NNP
+안 되거나	NNP
+안 되어	NNP
+안 좋은	NNP
+안구 정화	NNP
+안구 테러	NNP
+안궁	NNP
+안달	NNP
+안달복달	NNP
+안달복달하다	NNP
+안달이 나서	NNP
+안도	NNP
+안도감	NNP
+안도하다	NNP
+안되고 애처롭게	NNP
+안락	NNP
+안락하게	NNP
+안락하게 지내는	NNP
+안락하게 지내도록	NNP
+안락하다	NNP
+안목	NNP
+안물	NNP
+안색이 흙빛과	NNP
+안습	NNP
+안심	NNP
+안심감	NNP
+안심이	NNP
+안심이 되는	NNP
+안심찮다	NNP
+안심하다	NNP
+안쓰러워하다	NNP
+안쓰럽다	NNP
+안에서 비정상적으로	NNP
+안장서 죽기만을	NNP
+안전	NNP
+안전하다	NNP
+안전하지 못한	NNP
+안전한	NNP
+안전함	NNP
+안절부절	NNP
+안절부절못하는	NNP
+안절부절못하다	NNP
+안절부절하다	NNP
+안정	NNP
+안정감이 없는	NNP
+안정감이 없다	NNP
+안정되게	NNP
+안정되게 하다	NNP
+안정되지 못하고	NNP
+안정되지 못하여	NNP
+안정되지 못한	NNP
+안정되지 아니함	NNP
+안정을 찾은	NNP
+안정한	NNP
+안정한 곳이라는	NNP
+안존하다	NNP
+안좋은 상황	NNP
+안처하다	NNP
+안타까울	NNP
+안타까울 정도로	NNP
+안타까워	NNP
+안타까워서	NNP
+안타까워하는	NNP
+안타까워하는 모양	NNP
+안타까워하다	NNP
+안타깝거나	NNP
+안타깝거나 쓰라리다	NNP
+안타깝게	NNP
+안타깝게 뉘우쳐져	NNP
+안타깝게 다가오는	NNP
+안타깝게 애쓰며	NNP
+안타깝게 여기다	NNP
+안타깝게 자꾸	NNP
+안타깝게 죄이거나	NNP
+안타깝게 타는	NNP
+안타깝게 타다	NNP
+안타깝게 타들어	NNP
+안타깝고	NNP
+안타깝고 만족스럽지	NNP
+안타깝다	NNP
+않고 대충대충	NNP
+않고 올바르다	NNP
+않고 좀스럽게	NNP
+않아 느슨하다	NNP
+않아 싱겁게	NNP
+않아 언짢은	NNP
+않으나 쓰리다	NNP
+알기 쉽게	NNP
+알기 어렵다	NNP
+알리지 않거나	NNP
+알맞게	NNP
+알맞게 내리는	NNP
+알맞게 노르스름하게	NNP
+알맞게 노르스름하다	NNP
+알맞게 높다	NNP
+알맞게 높아	NNP
+알맞게 되다	NNP
+알맞게 두껍게	NNP
+알맞게 따뜻하다	NNP
+알맞게 뜨뜻하다	NNP
+알맞게 서늘하게	NNP
+알맞게 작으면서도	NNP
+알맞다	NNP
+알못	NNP
+알아듣기 어려울	NNP
+알아듣지 못하도록	NNP
+알아듣지 못한	NNP
+알아듣지 못할	NNP
+알아들을 수 없는	NNP
+알아서 깨달음	NNP
+알아서 스스로	NNP
+알아차리지 못하다	NNP
+알알한	NNP
+알알한 듯하다	NNP
+알알한 모양	NNP
+알지 못하는	NNP
+알지 못하여	NNP
+알지 못함을	NNP
+알짝지근하다	NNP
+알짤지근한	NNP
+알짤지근한 모양	NNP
+알차고	NNP
+알차고 실하게	NNP
+앍은 자국이	NNP
+앓거나	NNP
+앓거나 허약하여져서	NNP
+앓고	NNP
+앓고 난	NNP
+앓는	NNP
+앓는 결핵	NNP
+앓는 모양	NNP
+앓는 병	NNP
+앓는 사람이	NNP
+앓는 상태에	NNP
+앓다	NNP
+앓아도	NNP
+앓아서	NNP
+앓을	NNP
+앓음	NNP
+암담한	NNP
+암담한 상태나	NNP
+암상스러운	NNP
+암상스러운 사람을	NNP
+암상스럽게	NNP
+암상스럽게 불평을	NNP
+암상스럽게 토달거리다	NNP
+암으로	NNP
+암으로 말미암아	NNP
+압도하다	NNP
+압력을 가하여	NNP
+압박감을	NNP
+압박감을 주다	NNP
+압박하여	NNP
+압억되다	NNP
+앙 기모띠	NNP
+앙갚음으로	NNP
+앙갚음하려고	NNP
+앙갚음하려고 하는	NNP
+앙갚음할	NNP
+앙갚음할 마음을	NNP
+앙칼지게	NNP
+앙큼하게	NNP
+앙큼하게 하다	NNP
+앙큼하다	NNP
+앞뒤 생각 없이	NNP
+앞뒤를 가리지 않고	NNP
+앞뒤를 고려하지 않고	NNP
+앞뒤를 헤아리지 아니하고	NNP
+앞뒤를 헤아리지 않고	NNP
+앞선 상태에	NNP
+앞으로 나가지 못하고	NNP
+앞으로 나아가게	NNP
+앞으로 나아가지 못하고	NNP
+앞으로 좋게	NNP
+앞이 막막하게	NNP
+앞잡이	NNP
+앞잡이 노릇	NNP
+앞잡이 노릇을	NNP
+앞질러	NNP
+앞질러 나서는	NNP
+애가 쓰이다	NNP
+애가 자꾸 타는	NNP
+애가 자꾸 타다	NNP
+애가 타는	NNP
+애가 타다	NNP
+애가 타서	NNP
+애가 탐	NNP
+애교가 있어서	NNP
+애달파하는	NNP
+애달파하는 일	NNP
+애달파하다	NNP
+애달프게	NNP
+애달프게 자꾸	NNP
+애달프게 짖는	NNP
+애달프다	NNP
+애도함	NNP
+애를 먹는	NNP
+애를 먹다	NNP
+애를 써	NNP
+애를 써서	NNP
+애를 쓰는	NNP
+애를 쓰다	NNP
+애를 태우다	NNP
+애석	NNP
+애석하다	NNP
+애쓰는	NNP
+애쓰는 모양	NNP
+애쓰다	NNP
+애옥살림하다	NNP
+애절한	NNP
+애절한 그리움	NNP
+애정	NNP
+애정 어린	NNP
+애정이나	NNP
+애정이나 감정을	NNP
+애지석지	NNP
+애지석지하다	NNP
+애지중지	NNP
+애지중지하다	NNP
+애착	NNP
+애착하다	NNP
+애처가	NNP
+애처로이	NNP
+애처롭거나	NNP
+애처롭게	NNP
+애처롭고	NNP
+애처롭고 쓸쓸하다	NNP
+애처롭다	NNP
+애타는	NNP
+애타는 마음	NNP
+애타심	NNP
+애타적	NNP
+애탄	NNP
+애통	NNP
+애통하다	NNP
+애통할	NNP
+애통할 때	NNP
+애통히	NNP
+애틋하게	NNP
+애틋하게 생각하고	NNP
+야금야금 빼앗다	NNP
+야단스러워지는	NNP
+야단스러워지는 모양	NNP
+야단스럽게	NNP
+야단스럽게 떠들어	NNP
+야단스럽게 부르짖으며	NNP
+야단스럽게 울기도	NNP
+야단스럽고	NNP
+야단스럽고 부산하게	NNP
+야들야들하게	NNP
+야들야들하게 보드랍고	NNP
+야들야들한	NNP
+야들야들한 느낌이	NNP
+야멸치게	NNP
+야멸치게 말하다	NNP
+야멸치고	NNP
+야멸치고 인정이	NNP
+야무지게	NNP
+야무지고	NNP
+야무지고 굳세게	NNP
+야무지고 튼튼하게	NNP
+야무지다	NNP
+야무지지 못하고	NNP
+야무지지 못하다	NNP
+야무지지 못하여	NNP
+야무지지 못한	NNP
+야무진	NNP
+야무진 느낌을	NNP
+야물다	NNP
+야물지 못하고	NNP
+야박스럽다	NNP
+야박히	NNP
+야비하다	NNP
+야비한	NNP
+야살스러운	NNP
+야살스러운 데가	NNP
+야살스러움	NNP
+야살스럽게	NNP
+야살스럽게 웃는	NNP
+야속	NNP
+야속스럽다	NNP
+야속스레	NNP
+야속하게	NNP
+야속하게 여겨	NNP
+야속하게 여기는	NNP
+야속하다	NNP
+야속히	NNP
+야위거나	NNP
+야위거나 메말라	NNP
+야위고	NNP
+야위다	NNP
+야위어	NNP
+야윈	NNP
+야윈 데가	NNP
+야윈 모양	NNP
+야유할	NNP
+야유할 때	NNP
+야풍	NNP
+야필패	NNP
+약간 고까워하는	NNP
+약간 곯은	NNP
+약간 다급하게	NNP
+약간 머뭇거리다	NNP
+약간 쉰	NNP
+약간 시들어	NNP
+약간 움츠러드는	NNP
+약간 짓무르고	NNP
+약간 차갑게	NNP
+약빠르고	NNP
+약빠르고 밉다	NNP
+약빠르지	NNP
+약빠르지 못하다	NNP
+약삭빠르다	NNP
+약속을 지키다	NNP
+약속이 성립하다	NNP
+약은 사람	NNP
+약을 올리거나	NNP
+약이 올라	NNP
+약점	NNP
+약점을	NNP
+약점을 잡아	NNP
+약탈하거나	NNP
+약탈하거나 노략질하는	NNP
+약탈하거나 노략질함을	NNP
+약하거나	NNP
+약하고	NNP
+약하다	NNP
+약하면	NNP
+약하면 피는	NNP
+약하여	NNP
+약하여서	NNP
+약하여져서	NNP
+약하여지는	NNP
+약하여지는 병	NNP
+약하여지는 증상	NNP
+약하여진 증상	NNP
+약한	NNP
+약한 상태에	NNP
+약한 자는	NNP
+약해져서	NNP
+약해지다	NNP
+약해진	NNP
+약해진 눈	NNP
+얄망궂고	NNP
+얄망궃고	NNP
+얄망궃고 능청스러운	NNP
+얄미운	NNP
+얄미운 데가	NNP
+얄미운 태도로	NNP
+얄미울	NNP
+얄미울 정도로	NNP
+얄밉게	NNP
+얄밉게 구는	NNP
+얄밉게 넘어다보는	NNP
+얄밉게 놀기만	NNP
+얄밉게 빈정거리며	NNP
+얄밉게 우는	NNP
+얄밉게 이죽이죽하면서	NNP
+얄밉게 흔들리거나	NNP
+얄밉고	NNP
+얄밉다	NNP
+얌전하고	NNP
+얌전하지 않아	NNP
+얌치없이	NNP
+얌치없이 태연하다	NNP
+양기가 부족하여	NNP
+양기가 허하여	NNP
+양득	NNP
+양보하지 아니하다	NNP
+양보하지 않고	NNP
+양심에 거리끼어	NNP
+양심에 벗어나는	NNP
+양심을 속이다	NNP
+얕보다	NNP
+얕잡거나	NNP
+얕잡거나 업신여기다	NNP
+얕잡아	NNP
+얕잡아 보다	NNP
+얕잡아 봄	NNP
+어그러뜨리다	NNP
+어그러지고	NNP
+어그러지고 사나운	NNP
+어그러지다	NNP
+어긋나	NNP
+어긋나 나쁘다	NNP
+어긋나 있게	NNP
+어긋나 있다	NNP
+어긋나게	NNP
+어긋나고	NNP
+어긋나고 비뚤어져서	NNP
+어긋나는	NNP
+어긋나는 데가	NNP
+어긋나는 생각	NNP
+어긋나는 생각을	NNP
+어긋나다	NNP
+어긋나지 아니하게	NNP
+어긋나지 아니하고	NNP
+어긋나지 않고	NNP
+어긋남에도 불구하고	NNP
+어긋남이 없는	NNP
+어긋남이 없다	NNP
+어긋남이 없이	NNP
+어기다	NNP
+어두운 빛을	NNP
+어두운 상태	NNP
+어두침침하게	NNP
+어두침침하게 까무스름하다	NNP
+어두침침하고	NNP
+어두침침하고 쓸쓸하다	NNP
+어둑하다	NNP
+어둡거나	NNP
+어둡거나 험하여	NNP
+어둡고	NNP
+어둡고 침침하다	NNP
+어둡다	NNP
+어떤 두려움으로	NNP
+어떤 병이	NNP
+어떤 병이나	NNP
+어떤 약점을	NNP
+어려우며	NNP
+어려운	NNP
+어려운 고비를	NNP
+어려운 대목에서	NNP
+어려운 데가	NNP
+어려운 모양	NNP
+어려운 버릇	NNP
+어려운 병	NNP
+어려운 상태가	NNP
+어려운 상태이다	NNP
+어려운 상황을	NNP
+어려운 일에	NNP
+어려운 일을	NNP
+어려운 일이나	NNP
+어려운 지경에	NNP
+어려운 지경에서	NNP
+어려운 처지나	NNP
+어려운 처지에	NNP
+어려운 형편에	NNP
+어려울	NNP
+어려울 정도로	NNP
+어려움	NNP
+어려움 없이	NNP
+어려움에	NNP
+어려움을 극복하다	NNP
+어려워	NNP
+어려워서	NNP
+어려워서 애를 먹는	NNP
+어려워하는	NNP
+어려워하는 모양	NNP
+어려워하다	NNP
+어렴풋하다	NNP
+어렵거나	NNP
+어렵거나 곤란하게	NNP
+어렵거나 곤란하다	NNP
+어렵거나 부끄럽다	NNP
+어렵게	NNP
+어렵게 살아가는	NNP
+어렵게 여기다	NNP
+어렵게 힘들여	NNP
+어렵고	NNP
+어렵고 쪼들린	NNP
+어렵다	NNP
+어렵지 않게	NNP
+어른 같은	NNP
+어름어름	NNP
+어름어름 넘기는	NNP
+어름어름 넘기다	NNP
+어리둥절하여	NNP
+어리벙	NNP
+어리벙벙	NNP
+어리벙벙하게	NNP
+어리벙벙하다	NNP
+어리벙벙하여	NNP
+어리빙빙하다	NNP
+어리삥삥하다	NNP
+어리석게	NNP
+어리석게 구는	NNP
+어리석고	NNP
+어리석고 둔한	NNP
+어리석고 못된	NNP
+어리석다	NNP
+어리석어	NNP
+어리석어 보이는	NNP
+어리석어서	NNP
+어리석으며	NNP
+어리석은	NNP
+어리석은 데가	NNP
+어리석은 듯하다	NNP
+어리석은 말이나	NNP
+어리석은 사람	NNP
+어리석은 사람을	NNP
+어리석은 사람의	NNP
+어리석은 사람이라는	NNP
+어리석은 질문에	NNP
+어리석은 짓	NNP
+어리석은 행동	NNP
+어리석음	NNP
+어리숙하다	NNP
+어린아이가 영리하고	NNP
+어물어물	NNP
+어물어물 망설이기만	NNP
+어물어물하다	NNP
+어색스럽다	NNP
+어색하거나	NNP
+어색하거나 거북하거나	NNP
+어색하고	NNP
+어색하고 부자연스럽게	NNP
+어색하고 쑥스럽다	NNP
+어색하다	NNP
+어색한	NNP
+어색한 느낌	NNP
+어색한 느낌이	NNP
+어색한 데가	NNP
+어설프게	NNP
+어설프고	NNP
+어설프다	NNP
+어설프며	NNP
+어설픈	NNP
+어설픈 데가	NNP
+어설픈 듯하다	NNP
+어설피	NNP
+어수룩하고	NNP
+어수룩하고 만만한	NNP
+어수룩한	NNP
+어수룩한 데가	NNP
+어수선하거나	NNP
+어수선하거나 다보록하다	NNP
+어수선하게	NNP
+어수선하게 들떠	NNP
+어수선하게 들뜨는	NNP
+어수선하게 떠드는	NNP
+어수선하게 떠들다	NNP
+어수선하게 생각함	NNP
+어수선하게 소란이	NNP
+어수선하게 움직이며	NNP
+어수선하게 이야기하다	NNP
+어수선하게 흩어져	NNP
+어수선하고	NNP
+어수선하고 소란스러운	NNP
+어수선하고 소란스러움	NNP
+어수선하고 소란스럽다	NNP
+어수선하고 소홀하게	NNP
+어수선하고 소홀하다	NNP
+어수선하고 엉성하다	NNP
+어수선하다	NNP
+어수선하여	NNP
+어수선한	NNP
+어수선한 모양	NNP
+어수선함	NNP
+어여뿌다	NNP
+어여쁘다	NNP
+어울려	NNP
+어울리게	NNP
+어울리게 알맞다	NNP
+어울리고	NNP
+어울리는	NNP
+어울리다	NNP
+어울리어	NNP
+어울리어 친하다	NNP
+어울리어 호화스럽다	NNP
+어울리지 아니하고	NNP
+어울리지 아니한	NNP
+어울리지 않거나	NNP
+어울리지 않게	NNP
+어울리지 않고	NNP
+어울리지 않다	NNP
+어울리지 않아	NNP
+어울린 맛과 세련됨이 없이	NNP
+어이가 없거나	NNP
+어이없다	NNP
+어이없을	NNP
+어이없을 때	NNP
+어이없이	NNP
+어정쩡히	NNP
+어줍거나	NNP
+어줍잖다	NNP
+어중간한	NNP
+어중간한 모양	NNP
+어중간한 사람	NNP
+어중간한 태도	NNP
+어지간하게	NNP
+어지간히 보잘것없고	NNP
+어지간히 시들어	NNP
+어지러우며	NNP
+어지러운	NNP
+어지러운 기운이	NNP
+어지러운 느낌	NNP
+어지러운 데가	NNP
+어지러운 모양	NNP
+어지러운 상태로	NNP
+어지러운 상태에	NNP
+어지러운 일을	NNP
+어지러운 자리	NNP
+어지러울 정도로	NNP
+어지러워	NNP
+어지러워 까무러칠	NNP
+어지러워서	NNP
+어지러워지는	NNP
+어지러워지는 모양	NNP
+어지럼증	NNP
+어지럽거나	NNP
+어지럽게	NNP
+어지럽게 늘어져	NNP
+어지럽게 뒤섞여	NNP
+어지럽게 일어나	NNP
+어지럽게 하는	NNP
+어지럽게 하다	NNP
+어지럽게 흔들거리는	NNP
+어지럽게 흔들거리다	NNP
+어지럽게 흩어져	NNP
+어지럽게 흩어지거나	NNP
+어지럽게 흩어지다	NNP
+어지럽고	NNP
+어지럽고 메스꺼워	NNP
+어지럽고 아프며	NNP
+어지럽다	NNP
+어지럽도록	NNP
+어지럽지 아니하다	NNP
+어지르다	NNP
+어진	NNP
+어진 마음으로	NNP
+어진 사람	NNP
+어진 선비를	NNP
+어질고	NNP
+어질고 지혜로우며	NNP
+어질다	NNP
+어집럽게 일어나거나	NNP
+어쭙잖다	NNP
+어찌할 바를 모르는	NNP
+어찌할 바를 모르다	NNP
+어찌할 바를 몰라	NNP
+어찌할 줄 몰라서	NNP
+어찌할 줄을 몰라	NNP
+어찔어찔하다	NNP
+어찔어찔한	NNP
+어찔어찔한 모양	NNP
+어처구니없는	NNP
+어처구니없는 짓	NNP
+어처구니없다	NNP
+어처구니없다고	NNP
+어처구니없이	NNP
+어필하다	NNP
+억누루는 짓	NNP
+억누루는 짓을	NNP
+억누르거나	NNP
+억누르거나 참다	NNP
+억누르고	NNP
+억누르는	NNP
+억누르다	NNP
+억누름	NNP
+억눌러	NNP
+억눌러 못	NNP
+억눌리다	NNP
+억세다	NNP
+억세어	NNP
+억세지 아니하고	NNP
+억압	NNP
+억압되다	NNP
+억울하거나	NNP
+억울하거나 원통하여	NNP
+억울하게	NNP
+억울하게 여겨	NNP
+억울하다	NNP
+억울하여	NNP
+억울한	NNP
+억울한 일을	NNP
+억울한 죄에	NNP
+억울함	NNP
+억제하며	NNP
+억지	NNP
+억지가	NNP
+억지가 세어서	NNP
+억지감	NNP
+억지로	NNP
+억지로 가로막아서	NNP
+억지로 나오게	NNP
+억지로 들이밀어	NNP
+억지로 만들다	NNP
+억지로 빼앗기	NNP
+억지로 빼앗다	NNP
+억지로 빼앗아	NNP
+억지로 쑤시고	NNP
+억지로 억누르다	NNP
+억지로 억누름	NNP
+억지로 억눌리다	NNP
+억지로 입다	NNP
+억지로 차지하다	NNP
+억지로 참거나	NNP
+억지로 참는	NNP
+억지로 하는	NNP
+억지를	NNP
+억지를 부리거나	NNP
+억지를 쓰며	NNP
+억지스러운	NNP
+억지스러운 느낌	NNP
+억지스럽다	NNP
+억척스럽고	NNP
+억척스럽고 세차다	NNP
+억척스럽다	NNP
+언짢거나	NNP
+언짢거나 못마땅하여	NNP
+언짢거나 못마땅하여서	NNP
+언짢거나 못마땅한	NNP
+언짢거나 불쾌한	NNP
+언짢거나 울려고	NNP
+언짢거나 징그럽다	NNP
+언짢게	NNP
+언짢게 되다	NNP
+언짢게 말썽을	NNP
+언짢고	NNP
+언짢고 가엾게	NNP
+언짢고 서운하게	NNP
+언짢고 아프다	NNP
+언짢다	NNP
+언짢아서	NNP
+언짢아서 성이	NNP
+언짢아서 어이없다	NNP
+언짢아지다	NNP
+언짢아하다	NNP
+언짢았던	NNP
+언짢았던 감정이	NNP
+언짢은	NNP
+언짢은 감정	NNP
+언짢은 기분	NNP
+언짢은 기분으로	NNP
+언짢은 기분이	NNP
+언짢은 기색이	NNP
+언짢은 느낌	NNP
+언짢은 느낌이	NNP
+언짢은 데가	NNP
+언짢은 마음에	NNP
+언짢은 생각이	NNP
+언짢은 일을	NNP
+언짢을	NNP
+언짢음	NNP
+언짢이	NNP
+언행이 옹골차고	NNP
+언행이 의젓하고	NNP
+언행이 허황하고	NNP
+얻는 은혜나	NNP
+얻어 내다	NNP
+얻어 냄	NNP
+얻어맞을	NNP
+얻어맞을 때	NNP
+얻지 못하거나	NNP
+얻지 못하여	NNP
+얼굴빛이 누르렀다	NNP
+얼굴이 곱고	NNP
+얼굴이 깨끗하여	NNP
+얼굴이 꺼칠하고	NNP
+얼굴이 말쑥하고	NNP
+얼굴이 붉으락푸르락하여지며	NNP
+얼굴이 붉으락푸르락해지며	NNP
+얼굴이 야위고	NNP
+얼굴이 창백하고	NNP
+얼굴이 창백하여지고	NNP
+얼기설기하다	NNP
+얼떨떨하다	NNP
+얼떨떨하여	NNP
+얼떨떨한	NNP
+얼떨떨한 정신	NNP
+얼떨떨해지다	NNP
+얼떨떨해하다	NNP
+얼렁뚱땅하는	NNP
+얼렁뚱땅하는 수단을	NNP
+얼렁뚱땅하여	NNP
+얼룩덜룩하게 된	NNP
+얼버무리다	NNP
+얼빠져	NNP
+얼빠져 보이는	NNP
+얼빠진	NNP
+얼빠진 사람처럼	NNP
+얼얼하다	NNP
+얼얼한	NNP
+얼이 빠지다	NNP
+얼이 빠짐	NNP
+얽매여서	NNP
+얽매이지 아니하고	NNP
+얽은	NNP
+얽은 것이나	NNP
+얽은 자국이	NNP
+얽히거나	NNP
+엄격하게 나무라다	NNP
+엄격하여	NNP
+엄살을	NNP
+엄살을 부리는	NNP
+엄살을 부리며	NNP
+엄친아	NNP
+엄하다	NNP
+업귀	NNP
+업신여겨	NNP
+업신여겨 얕보다	NNP
+업신여겨 하찮게	NNP
+업신여겨지거나	NNP
+업신여기거나	NNP
+업신여기거나 하찮게	NNP
+업신여기고	NNP
+업신여기는	NNP
+업신여기는 모양	NNP
+업신여기는 태도로	NNP
+업신여기다	NNP
+업신여기어	NNP
+업신여기어지거나	NNP
+업신여기어지거나 하찮게	NNP
+업신여김	NNP
+업신여김을	NNP
+업신여김을 받음	NNP
+업적	NNP
+업적을	NNP
+업적이나	NNP
+없거나 모자라서	NNP
+없고 멀건	NNP
+없고 편하게	NNP
+없다	NNP
+없애 버리는	NNP
+없애 버리다	NNP
+없애 버림	NNP
+없애다	NNP
+없어서	NNP
+없어져	NNP
+없어지다	NNP
+없어진	NNP
+없어짐	NNP
+없으면서	NNP
+없음을	NNP
+없이 가볍게	NNP
+없이 멋쩍고	NNP
+없이 순수한	NNP
+엇서며	NNP
+엇서며 대들다	NNP
+엉너리로	NNP
+엉뚱하게	NNP
+엉뚱하고	NNP
+엉뚱한	NNP
+엉뚱한 느낌을	NNP
+엉뚱한 욕심을	NNP
+엉뚱한 짓을	NNP
+엉성하고	NNP
+엉성하고 거친	NNP
+엉성하고 조잡하다	NNP
+엉성하다	NNP
+엉성한	NNP
+엉성한 모양	NNP
+엉성한 물건이	NNP
+엉큼하게	NNP
+엉큼하고	NNP
+엉큼한	NNP
+엉큼한 마음을	NNP
+엉터리	NNP
+엎어지게	NNP
+엎어지게 하다	NNP
+엎어지는	NNP
+엎어지는 모양	NNP
+에게 굽실거리다	NNP
+에게 굽실하다	NNP
+엘리트	NNP
+엘리트하다	NNP
+엘리트한	NNP
+여겨 깔보다	NNP
+여겨져 무시당하다	NNP
+여겨져 언짢다	NNP
+여겨져 언짢은	NNP
+여기거나 즐기는	NNP
+여기거나 즐기다	NNP
+여기고 아끼다	NNP
+여기고 아낌	NNP
+여기어 탓하거나	NNP
+여리다	NNP
+여물지 아니한	NNP
+여병추	NNP
+여옥기인	NNP
+여위거나	NNP
+여위게 된다	NNP
+여위게 하다	NNP
+여위고	NNP
+여위고 쇠약해지는	NNP
+여위어	NNP
+여위우다	NNP
+여윈	NNP
+여윈 모습을	NNP
+여윈 사람을	NNP
+여유	NNP
+여유 없이	NNP
+여유 잇고	NNP
+여유 있는	NNP
+여유가 생기다	NNP
+여유가 없다	NNP
+여유가 없어	NNP
+여유가 없이	NNP
+여유가 있게	NNP
+여유가 있다	NNP
+여유로운	NNP
+여유로운 모양	NNP
+여유롭다	NNP
+여유를	NNP
+여유를 두고	NNP
+여자를 속되게	NNP
+여자를 욕하여	NNP
+역겹다	NNP
+역겹도록	NNP
+역겹도록 구리게	NNP
+역경	NNP
+역사적인	NNP
+역전패	NNP
+역전패하다	NNP
+역전하다	NNP
+역정	NNP
+역정을	NNP
+역정을 내는	NNP
+역정이	NNP
+역정이 나거나	NNP
+역증	NNP
+역투하다	NNP
+역한	NNP
+역한 냄새가	NNP
+연덕	NNP
+연민	NNP
+연민스럽다	NNP
+연민이나	NNP
+연민이나 쓰라림	NNP
+연민하다	NNP
+연애	NNP
+연애를	NNP
+연애를 하거나	NNP
+연약하게 되다	NNP
+연줄이 끊어져	NNP
+연하게	NNP
+연하고	NNP
+연하고 보드라운	NNP
+연하고 보드랍다	NNP
+연하고 부드러운	NNP
+열공	NNP
+열광	NNP
+열광하다	NNP
+열렬한 사랑	NNP
+열렬히	NNP
+열렬히 좋아하는	NNP
+열매를 맺다	NNP
+열받다	NNP
+열병이나	NNP
+열성병	NNP
+열성이	NNP
+열성이 생겨	NNP
+열심히	NNP
+열심히 하는	NNP
+열심히 하지 아니하는	NNP
+열심히 하지 아니하다	NNP
+열없다	NNP
+열없이	NNP
+열이 나고	NNP
+열이 나는	NNP
+열이 나며	NNP
+열이 높고	NNP
+열이 높아지는	NNP
+열이 심하거나	NNP
+열이 심하게	NNP
+열이 심하게 나고	NNP
+열이 자꾸 나며	NNP
+열정	NNP
+열중하는	NNP
+열중하는 마음	NNP
+열중하다	NNP
+열증	NNP
+열폭	NNP
+염려가	NNP
+염려가 되어	NNP
+염려가 없이	NNP
+염모	NNP
+염모하다	NNP
+염증	NNP
+염증이 생겨	NNP
+염증이 생기는	NNP
+염치 없이	NNP
+염치가 없다	NNP
+염치가 없어	NNP
+염치없이	NNP
+염치없이 굴다	NNP
+염치없이 슬그머니	NNP
+염치없이 태연하게	NNP
+염탐을 잘못함	NNP
+엿보거나	NNP
+영감을 얻다	NNP
+영광	NNP
+영광스럽고	NNP
+영광스럽고 훌륭하게	NNP
+영광스럽고 훌륭하다	NNP
+영광스럽다	NNP
+영롱하다	NNP
+영리하게	NNP
+영리하고	NNP
+영리하고 지혜롭다	NNP
+영리하다	NNP
+영리한	NNP
+영리해서	NNP
+영악한	NNP
+영악한 데가	NNP
+영양 부족이나	NNP
+영양 실조	NNP
+영양가 높은	NNP
+영양가가 높은	NNP
+영양분이 풍부한	NNP
+영양실조로	NNP
+영양을 보충하다	NNP
+영양이 적고	NNP
+영영 끊어지다	NNP
+영영 끊어짐	NNP
+영예	NNP
+영예로운	NNP
+영웅	NNP
+영정	NNP
+영특하고	NNP
+옆구리가 켕기고	NNP
+예리하지 못하다	NNP
+예민하거나	NNP
+예민하거나 섬약하여	NNP
+예방	NNP
+예방하다	NNP
+예뻐지다	NNP
+예쁘게	NNP
+예쁘게 벌리고	NNP
+예쁘게 벌리며	NNP
+예쁘고	NNP
+예쁘고 곱거나	NNP
+예쁘다	NNP
+예쁘다를	NNP
+예쁘다를 예스럽게	NNP
+예쁜	NNP
+예쁜 데가	NNP
+예사롭게	NNP
+예술적	NNP
+예술적인	NNP
+예술적인 아름다움이나	NNP
+예스러운	NNP
+예스러운 표현으로	NNP
+예의	NNP
+예의 바르다	NNP
+예의 바른	NNP
+예의를	NNP
+예의를 갖추기	NNP
+예의를 갖추어	NNP
+예의를 차리다	NNP
+예의범절에 어긋나게	NNP
+예의범절에 어긋나는	NNP
+예의에 벗어나다	NNP
+예의와	NNP
+예의와 도리	NNP
+예절을 모르는	NNP
+예절을 지키는	NNP
+오그라들다	NNP
+오는 위기적	NNP
+오답	NNP
+오도	NNP
+오도되다	NNP
+오도하다	NNP
+오래 앓다	NNP
+오래되거나	NNP
+오랜 병으로	NNP
+오르지 못하던	NNP
+오붓하게	NNP
+오붓하게 오순도순	NNP
+오순도순	NNP
+오스스 소름이	NNP
+오슬오슬하다	NNP
+오싹	NNP
+오싹거리다	NNP
+오싹대다	NNP
+오싹오싹하다	NNP
+오싹하다	NNP
+오염	NNP
+오염되다	NNP
+오염된	NNP
+오염된 식품을	NNP
+오용	NNP
+오용하다	NNP
+오점	NNP
+오크	NNP
+오한	NNP
+오한과	NNP
+오한이	NNP
+오한이 난다	NNP
+오한이 생기거나	NNP
+오해	NNP
+오해의 소지가 있는	NNP
+오해하다	NNP
+옥신각신하며	NNP
+옥신각신하며 다투는	NNP
+옥신각신하며 다투다	NNP
+옥처럼 아름다운	NNP
+온 정성을	NNP
+온 힘을	NNP
+온갖 요망한	NNP
+온갖 정성을	NNP
+온갖 험한	NNP
+온당치 않고	NNP
+온당하지 아니하게	NNP
+온당하지 않게	NNP
+온도가 알맞게	NNP
+온몸이 노곤하여	NNP
+온몸이 붓고	NNP
+온순하게	NNP
+온순하다	NNP
+온순하지 못하고	NNP
+온순하지 못하여	NNP
+온순한	NNP
+온순한 마음	NNP
+온순한 마음으로	NNP
+온순한 태도로	NNP
+온전하게	NNP
+온전하다	NNP
+온전한	NNP
+온전한 상태로	NNP
+온통 소란해지거나	NNP
+온하다	NNP
+온화하게	NNP
+온화하게 웃다	NNP
+온화하고	NNP
+온화하고 공손하게	NNP
+온화하고 기품이	NNP
+온화하고 부드러우며	NNP
+온화하다	NNP
+온화한	NNP
+온화한 기색이나	NNP
+온환하게	NNP
+올곧지 아니하여	NNP
+올바로	NNP
+올바로 볼	NNP
+올바르게	NNP
+올바르게 이어받은	NNP
+올바르게 있어	NNP
+올바르고	NNP
+올바르고 착하여	NNP
+올바르다	NNP
+올바르지 못하고	NNP
+올바르지 않거나	NNP
+올바른	NNP
+올바른 격식이나	NNP
+올바른 길	NNP
+올바른 깨달음	NNP
+올바른 데가	NNP
+올바른 도리	NNP
+올바른 도리에	NNP
+올바른 이치에	NNP
+올바른 지혜로	NNP
+올바른 품성을	NNP
+올바름	NNP
+올ㅋ	NNP
+옭아 묶다	NNP
+옭아 묶음	NNP
+옮아	NNP
+옳거나	NNP
+옳거나 좋다고	NNP
+옳게	NNP
+옳고	NNP
+옳고 바르다	NNP
+옳고 정당하게	NNP
+옳다	NNP
+옳은	NNP
+옳은 말로	NNP
+옳은 일	NNP
+옳지 못하게	NNP
+옳지 못한	NNP
+옳지 못함을	NNP
+옳지 아니하다고	NNP
+옳지 않다	NNP
+옳지 않은	NNP
+옹골차고	NNP
+옹골차고 야무지다	NNP
+옹골차다	NNP
+옹골차지 못하고	NNP
+옹졸하고	NNP
+옹졸하다	NNP
+옹졸한	NNP
+옹졸한 데가	NNP
+옹졸한 모양	NNP
+와해하거나	NNP
+완벽하다	NNP
+완벽한	NNP
+완성	NNP
+완성 단계에	NNP
+완성된	NNP
+완성품으로	NNP
+완성하다	NNP
+완성하지 못하다	NNP
+완소	NNP
+완전무결한	NNP
+완전무결한 일을	NNP
+완전하게	NNP
+완전하게 하다	NNP
+완전하고	NNP
+완전하고 원만하게	NNP
+완전하다	NNP
+완전하지 못하고	NNP
+완전하지 못하여	NNP
+완전한 조화를	NNP
+완전한 지혜를	NNP
+완전히 이기다	NNP
+왕성하게	NNP
+왕성하게 일어서다	NNP
+왕성하게 젊다	NNP
+왕성하다	NNP
+왕성해지는	NNP
+왕성해지는 기운	NNP
+외로운	NNP
+외로운 감정	NNP
+외로운 베개라는	NNP
+외로운 베개와	NNP
+외로운 잠자리를	NNP
+외로워	NNP
+외로워 슬퍼지다	NNP
+외로워 슬프게	NNP
+외로워 슬프다	NNP
+외로워하다	NNP
+외로이	NNP
+외롭거나	NNP
+외롭거나 쓸쓸하게	NNP
+외롭다	NNP
+외설스러운	NNP
+요긴한	NNP
+요란스러운	NNP
+요란스러운 모양	NNP
+요란스럽게	NNP
+요란스럽게 닦달하거나	NNP
+요란스럽게 떠드는	NNP
+요란스럽게 울리는	NNP
+요란스럽게 터지는	NNP
+요란하게	NNP
+요란하게 떠들고	NNP
+요란하게 울리는	NNP
+요란하고	NNP
+요란하고 사납던	NNP
+요란하다	NNP
+요란하지 않고	NNP
+요량 없이 경솔하다	NNP
+요량 없이 경솔한	NNP
+요령이	NNP
+요령이 있다	NNP
+요리조리 빼면서	NNP
+요망스러운	NNP
+요망스러운 데가	NNP
+요망스러움	NNP
+요망스럽게	NNP
+요망한	NNP
+요망한 짓과	NNP
+요사스러운	NNP
+요사한	NNP
+요사한 술법으로	NNP
+요염하다	NNP
+요염함	NNP
+욕	NNP
+욕구가 충족되어	NNP
+욕구가 충족되었을	NNP
+욕되게	NNP
+욕되게 함	NNP
+욕되고	NNP
+욕되고 수치스러운	NNP
+욕망이 억눌리다	NNP
+욕설	NNP
+욕설을	NNP
+욕설을 하거나	NNP
+욕설을 하다	NNP
+욕설을 함	NNP
+욕심	NNP
+욕심 따위가	NNP
+욕심껏	NNP
+욕심껏 먹어	NNP
+욕심껏 탐내어	NNP
+욕심꾸러기	NNP
+욕심부리다	NNP
+욕심스럽다	NNP
+욕심에 사로잡히다	NNP
+욕심에 사로잡힌	NNP
+욕심을	NNP
+욕심을 부려	NNP
+욕심을 품고	NNP
+욕심이	NNP
+욕심이 나서	NNP
+욕심이 드러나는	NNP
+욕심이 많고	NNP
+욕심이 많은	NNP
+욕심쟁이	NNP
+욕으로	NNP
+욕으로 이르는	NNP
+욕으로 하는	NNP
+욕을	NNP
+욕을 당하게	NNP
+욕을 보이다	NNP
+욕을 보임	NNP
+욕을 하다	NNP
+욕을 하며	NNP
+욕을 함	NNP
+욕지기가 나서	NNP
+욕하거나	NNP
+욕하다	NNP
+욕하며	NNP
+욕하여	NNP
+욕하여 이르는	NNP
+욕함	NNP
+용감	NNP
+용감하게	NNP
+용감하고	NNP
+용감하고 씩씩하게	NNP
+용감하다	NNP
+용감한	NNP
+용감함	NNP
+용감히	NNP
+용기	NNP
+용기가	NNP
+용기가 뛰어나고	NNP
+용기를	NNP
+용기를 가진	NNP
+용기를 주다	NNP
+용기와	NNP
+용기와 기상이	NNP
+용납하지 못하게	NNP
+용납할 수 없는	NNP
+용납함	NNP
+용도대로 쓰이지 못하고	NNP
+용렬하게	NNP
+용렬하게 굴다	NNP
+용서되다	NNP
+용서하다	NNP
+용서함	NNP
+용이하다	NNP
+용이한	NNP
+용이함	NNP
+용자	NNP
+용하다	NNP
+용한	NNP
+우격다짐으로	NNP
+우그러져	NNP
+우그러지게	NNP
+우그러지게 하다	NNP
+우그러지고	NNP
+우그러지고 쭈그러들게	NNP
+우그러지고 쭈그러듦	NNP
+우기거나	NNP
+우기는	NNP
+우기는 모양	NNP
+우기다	NNP
+우는	NNP
+우는 모양	NNP
+우는 소리	NNP
+우는 소리가	NNP
+우대를 받다	NNP
+우락부락하고 거칠거나	NNP
+우러러	NNP
+우러러 받들고	NNP
+우렁우렁	NNP
+우렁우렁 힘차다	NNP
+우렁차고	NNP
+우렁차다	NNP
+우려스럽다	NNP
+우려하다	NNP
+우물거리며	NNP
+우물거림	NNP
+우물우물하며	NNP
+우물우물하며 넘기려고	NNP
+우물쭈물하는	NNP
+우물쭈물하는 모양	NNP
+우물쭈물하다	NNP
+우수	NNP
+우수하다	NNP
+우수한	NNP
+우스꽝스럽다	NNP
+우스꽝스레	NNP
+우스운	NNP
+우스운 데가	NNP
+우스운 말이나	NNP
+우습게	NNP
+우습고	NNP
+우습고 싱거운	NNP
+우습다	NNP
+우아하게	NNP
+우아하고	NNP
+우아하다	NNP
+우아한	NNP
+우아함	NNP
+우악스러운	NNP
+우악스러운 데가	NNP
+우악스러운 모양	NNP
+우악스러움	NNP
+우악스럽게	NNP
+우악스럽게 내놓는	NNP
+우악스럽게 하는	NNP
+우악스럽게 하다	NNP
+우악스럽다	NNP
+우울	NNP
+우울증	NNP
+우울증의	NNP
+우울증의 하나	NNP
+우울하게	NNP
+우울하다	NNP
+우울하여	NNP
+우울하여지기	NNP
+우울하여지기 쉽고	NNP
+우울한	NNP
+우월성	NNP
+우월하다	NNP
+우유부단하다	NNP
+우중충하다	NNP
+우중충히	NNP
+우직스럽게	NNP
+우직스럽게 계속	NNP
+우직하고	NNP
+우쭐	NNP
+우쭐거리는	NNP
+우쭐거리는 모양	NNP
+우쭐거리다	NNP
+우쭐거리다 또는	NNP
+우쭐대다	NNP
+우쭐우쭐하여지는 기운	NNP
+우쭐하는	NNP
+우쭐하는 모양	NNP
+우쭐하다	NNP
+우쭐하다 또는	NNP
+우쭐해하다	NNP
+우쭐해하다 또는	NNP
+우치	NNP
+우호적	NNP
+운	NNP
+운동 장애가	NNP
+운명이 박복함	NNP
+운수가 나빠서	NNP
+운이 사납거나	NNP
+운이 좋게	NNP
+운이 좋은	NNP
+운치가 없다	NNP
+운치가 없음	NNP
+울거나	NNP
+울거나 흐느낄	NNP
+울걱	NNP
+울걱거리다	NNP
+울걱대다	NNP
+울걱울걱	NNP
+울걱하다	NNP
+울고	NNP
+울고 다니는	NNP
+울고 싶다	NNP
+울꺽대다	NNP
+울다	NNP
+울렁거리는	NNP
+울렁거리는 모양	NNP
+울렁거리다	NNP
+울렁대다	NNP
+울려고	NNP
+울려고 할	NNP
+울리는 힘이	NNP
+울보	NNP
+울부짖음 또는	NNP
+울분	NNP
+울분하다	NNP
+울상이	NNP
+울상이 되어	NNP
+울음	NNP
+울음소리	NNP
+울음이	NNP
+울음이 터져	NNP
+울컥대다	NNP
+울컥하다	NNP
+울화	NNP
+울화로	NNP
+움직이지 못하는	NNP
+움직일 수 없는	NNP
+움질대다	NNP
+움츠러드는	NNP
+움츠러드는 데가	NNP
+움츠러드는 모양	NNP
+움츠러들거나	NNP
+움츠러들거나 소름이	NNP
+움츠리는	NNP
+움츠리는 모양	NNP
+움츠리다	NNP
+움츠린다는	NNP
+움츠린다는 뜻으로	NNP
+움츠림을	NNP
+움츠림을 비유적으로	NNP
+웃기는	NNP
+웃기는 우스운	NNP
+웃기려고	NNP
+웃기려고 일부러	NNP
+웃는	NNP
+웃는 모양	NNP
+웃는 소리	NNP
+웃다	NNP
+웃다성글대다	NNP
+웃어른을 존경하는	NNP
+웃으며	NNP
+웃으면서	NNP
+웃으면서 재미있게	NNP
+웃을	NNP
+웃을 만하다	NNP
+웃음거리로 만들다	NNP
+웃음바다	NNP
+웅장하고	NNP
+웅장하고 시원스럽게	NNP
+웅장한	NNP
+웅장한 맛이	NNP
+원고를 겸손하게	NNP
+원기 왕성하게	NNP
+원기 왕성한	NNP
+원대하다	NNP
+원동력	NNP
+원만하거나	NNP
+원만하거나 선하다	NNP
+원만하게	NNP
+원만하고	NNP
+원만하고 즐겁게	NNP
+원만하다	NNP
+원만하지 않고	NNP
+원만한	NNP
+원만한 모양	NNP
+원망	NNP
+원망과	NNP
+원망스럽게	NNP
+원망스럽게 생각하다	NNP
+원망스럽게 종알종알	NNP
+원망스럽게 중얼중얼	NNP
+원망스럽고	NNP
+원망스럽다	NNP
+원망이나	NNP
+원망하는	NNP
+원망하는 것	NNP
+원망하다	NNP
+원망하듯	NNP
+원인 불명의	NNP
+원치 않은	NNP
+원통	NNP
+원통하거나	NNP
+원통하게	NNP
+원통하고	NNP
+원통하고 슬프게	NNP
+원통하고 슬프다	NNP
+원통하고 슬픔이	NNP
+원통하고 슬핌이	NNP
+원통하다	NNP
+원통하여	NNP
+원통하여 원망스럽게	NNP
+원통한	NNP
+원통한 마음을	NNP
+원통한 일에	NNP
+원통한 일을	NNP
+원하는 것을 가지지 못하여	NNP
+원하는 대로	NNP
+원하다	NNP
+원하지 않는	NNP
+원한	NNP
+원한을 사다	NNP
+원한을 품고	NNP
+원한이	NNP
+원한이 맺혀서	NNP
+원한이나	NNP
+원활하여	NNP
+원활하지 않게	NNP
+월등히	NNP
+월등히 훌륭하거나	NNP
+웬만하여	NNP
+웰빙	NNP
+위급한	NNP
+위급한 증상	NNP
+위기	NNP
+위기적	NNP
+위기적 의식	NNP
+위꼴사	NNP
+위대하다	NNP
+위대한	NNP
+위대한 것	NNP
+위대한 사람	NNP
+위반되어	NNP
+위반한	NNP
+위반한 자를	NNP
+위배하다	NNP
+위법	NNP
+위법 행위	NNP
+위엄 있고	NNP
+위엄 있는	NNP
+위엄을	NNP
+위엄을 보이거나	NNP
+위엄이 있고	NNP
+위엄이 있다	NNP
+위엄있는	NNP
+위장염의	NNP
+위조	NNP
+위조하거나	NNP
+위조하다	NNP
+위조함으로써	NNP
+위축	NNP
+위축감	NNP
+위축되다	NNP
+위태로운	NNP
+위태로운 모양	NNP
+위태로움	NNP
+위태로움을	NNP
+위태로움을 느껴	NNP
+위태롭거나	NNP
+위태롭거나 치사하고	NNP
+위태롭게	NNP
+위태롭게 매달려	NNP
+위태롭다	NNP
+위태하여	NNP
+위트	NNP
+위하는	NNP
+위하는 마음을	NNP
+위하는 마음이	NNP
+위한 의기가	NNP
+위험이	NNP
+위험이 생기거나	NNP
+위험하다	NNP
+위험한	NNP
+위험한 일을	NNP
+위협에	NNP
+위협을	NNP
+위협적이거나	NNP
+위협적이거나 압도하는	NNP
+위협하거나	NNP
+위협하기	NNP
+위협하는	NNP
+위협하는 말	NNP
+위협하는 모양	NNP
+위협하는 태도나	NNP
+위협하다	NNP
+위협하여	NNP
+윗사람에게 고자질함	NNP
+윗사람을 농락하여	NNP
+윗사람을 비판함	NNP
+유감	NNP
+유감스러운	NNP
+유감스럽다	NNP
+유능하다	NNP
+유능한	NNP
+유능한 인재를	NNP
+유달리 특별하다	NNP
+유달리 특별한	NNP
+유들유들한	NNP
+유들유들한 모양	NNP
+유리하다	NNP
+유리하도록	NNP
+유리한	NNP
+유명하다	NNP
+유명한	NNP
+유명한 사람	NNP
+유명해지다	NNP
+유요함을	NNP
+유용하다	NNP
+유용한	NNP
+유용한 구석	NNP
+유익하다	NNP
+유익한	NNP
+유익한 교훈	NNP
+유죄	NNP
+유지하지 못하게	NNP
+유지함	NNP
+유창하게	NNP
+유창하다	NNP
+유창한	NNP
+유치하다	NNP
+유쾌감	NNP
+유쾌하게	NNP
+유쾌하게 웃는	NNP
+유쾌하게 웃다	NNP
+유쾌하고	NNP
+유쾌하고 즐거운	NNP
+유쾌하다	NNP
+유쾌하지 못하게	NNP
+유쾌하지 못한	NNP
+유쾌한	NNP
+유쾌한 기분	NNP
+유쾌한 기분이나	NNP
+유쾌한 느낌	NNP
+유쾌한 느낌이	NNP
+유쾌함	NNP
+유쾌히	NNP
+육중하고 무디다	NNP
+윤기	NNP
+윤기 없이	NNP
+윤기가	NNP
+윤기가 나거나	NNP
+윤기가 나고	NNP
+윤기가 돌고	NNP
+윤기가 번드르르	NNP
+윤기가 없고	NNP
+윤기가 없어	NNP
+윤기가 없이	NNP
+윤기가 있고	NNP
+윤기가 흐르고	NNP
+윤리적인	NNP
+윤이 나고	NNP
+윤이 나는	NNP
+윤이 날	NNP
+윤택하게	NNP
+융통성	NNP
+융통성 있게	NNP
+융통하거나	NNP
+융통하거나 해결할	NNP
+으름장을	NNP
+으름장을 놓거나	NNP
+으스스	NNP
+으시시	NNP
+으쓱	NNP
+으쓱거리다	NNP
+으쓱으쓱	NNP
+으쓱으쓱하다	NNP
+으쓱이다	NNP
+으쓱하다	NNP
+윽박	NNP
+윽박다	NNP
+윽박지르다	NNP
+윽박질	NNP
+윽박질하다	NNP
+윽윽거리다	NNP
+윽윽대다	NNP
+윽윽하다	NNP
+은근히 귀찮게	NNP
+은근히 허전하고	NNP
+은총	NNP
+은혜	NNP
+은혜나	NNP
+은혜나 행복	NNP
+은혜도 모르는	NNP
+은혜로운	NNP
+은혜롭다	NNP
+은혜를	NNP
+은혜를 갚거나	NNP
+은혜를 거듭함	NNP
+은혜를 모르는	NNP
+은혜를 배풂	NNP
+은혜를 베풀	NNP
+은혜를 베풀다	NNP
+은혜를 베풀어	NNP
+은혜를 베풀어서	NNP
+은혜를 베풂	NNP
+은혜를 입음	NNP
+은혜에	NNP
+은혜에 보답하는	NNP
+은혜와	NNP
+을 굽실거리다	NNP
+을 굽실하다	NNP
+을 낮잡아	NNP
+을 낮잡아 이르는	NNP
+을 마음대로 다루면서 데리고 놀다	NNP
+을러대고	NNP
+을러대고 짓눌러	NNP
+을러대어	NNP
+을러대어 몹시	NNP
+음기	NNP
+음란하고	NNP
+음란하다	NNP
+음란한	NNP
+음모	NNP
+음미하고 즐김	NNP
+음산하고	NNP
+음식을 맛있게	NNP
+음식이 변하거나	NNP
+음식이 체하여	NNP
+음침하다	NNP
+음침한	NNP
+음침함	NNP
+음흉하고	NNP
+음흉하고 허망한	NNP
+음흉하다	NNP
+음흉한	NNP
+음흉한 데가	NNP
+음흉한 목적을	NNP
+음흉한 방법으로	NNP
+음흉한 사람	NNP
+음흉한 손길	NNP
+응석을	NNP
+응석을 부리며	NNP
+응어리진	NNP
+응어리진 마음	NNP
+응하지 아니하고	NNP
+의가 좋다	NNP
+의가 좋음을	NNP
+의기가	NNP
+의기가 있다	NNP
+의기소침	NNP
+의기소침하다	NNP
+의기양양	NNP
+의기양양하게	NNP
+의기양양하다	NNP
+의기양양하여	NNP
+의기양양하여 자꾸	NNP
+의기저상	NNP
+의기저상하다	NNP
+의도에서 벗어나	NNP
+의도적으로 꼬집거나	NNP
+의로운	NNP
+의로운 마음	NNP
+의로운 일	NNP
+의롭다	NNP
+의사와 관계없이	NNP
+의식 불명	NNP
+의식을 잃고	NNP
+의심	NNP
+의심나다	NNP
+의심되다	NNP
+의심스러운	NNP
+의심스럽거나	NNP
+의심스럽고	NNP
+의심스럽고 이상하게	NNP
+의심스럽고 이상하다	NNP
+의심스럽다	NNP
+의심쩍다	NNP
+의심하는	NNP
+의심하는 마음이	NNP
+의심하다	NNP
+의아스러운	NNP
+의아스러운 일을	NNP
+의아심	NNP
+의아하다	NNP
+의욕	NNP
+의욕이나	NNP
+의욕이나 정열	NNP
+의인	NNP
+의젓하거나	NNP
+의젓하거나 여유가	NNP
+의젓하고	NNP
+의젓하고 고상한	NNP
+의젓하고 신중하다	NNP
+의젓하고 신중한	NNP
+의젓하고 점잖게	NNP
+의젓하고 점잖다	NNP
+의젓하다	NNP
+의젓한	NNP
+의젓한 모양	NNP
+의젓한 태도로	NNP
+의존성이	NNP
+의존성이 생겨	NNP
+의좋게	NNP
+의좋게 지내는	NNP
+의지가 굳세고	NNP
+의지가 없이	NNP
+의지를 가다듬고	NNP
+의지하다	NNP
+의지할 곳도 없음	NNP
+의지할 곳이 없다	NNP
+의지할 곳이 없어	NNP
+의지할 곳이 없어진	NNP
+의지할 곳이 없이	NNP
+의지할 곳조차 없다	NNP
+의합하다	NNP
+의회	NNP
+의회하다	NNP
+이 섭섭하고 언짢다	NNP
+이간질하다	NNP
+이겨 내다	NNP
+이겨 냄	NNP
+이기거나	NNP
+이기다	NNP
+이기적	NNP
+이기적인	NNP
+이기적인 사상이나	NNP
+이기지 못하고	NNP
+이끌리는	NNP
+이끌리는 마음	NNP
+이득	NNP
+이득을	NNP
+이득이 없이	NNP
+이득이나	NNP
+이듬해에 풍년이	NNP
+이랬다저랬다	NNP
+이러저리 기울어지며	NNP
+이러저리 자꾸	NNP
+이러지도 저러지도 못하고	NNP
+이로우며	NNP
+이롭거나	NNP
+이롭게	NNP
+이롭게 쓰다	NNP
+이롭게 쓰이다	NNP
+이롭게 하는	NNP
+이롭게 하려고	NNP
+이루거나	NNP
+이루다	NNP
+이루어	NNP
+이루어 만족한	NNP
+이루어지다	NNP
+이루어지도록	NNP
+이루어지도록 하다	NNP
+이루지 못하다	NNP
+이루지 못함	NNP
+이룩하다	NNP
+이룩함	NNP
+이룬 화음	NNP
+이룸	NNP
+이르지 못하거나	NNP
+이르지 못하다	NNP
+이르지 못함을	NNP
+이를 갈다	NNP
+이름을 떨침	NNP
+이리저리 궁리만	NNP
+이리저리 망설이는	NNP
+이리저리 어지럽게	NNP
+이리저리 얽혀서	NNP
+이리저리 자꾸	NNP
+이리저리 트집을	NNP
+이리저리 헛디디는	NNP
+이리저리 헛디디다	NNP
+이리저리 헤매는	NNP
+이리저리 휩쓸리는	NNP
+이리저리로 빈정거리다	NNP
+이뭐병	NNP
+이바지하다	NNP
+이벤트	NNP
+이별하다	NNP
+이쁘다	NNP
+이쁘장스럽다	NNP
+이쁜	NNP
+이상의 수준이다	NNP
+이상의 수준이어서	NNP
+이상이 생겨	NNP
+이상이나 장애로	NNP
+이상하게	NNP
+이상하게 여기는	NNP
+이상하다	NNP
+이상함이 없다	NNP
+이성적	NNP
+이성적인	NNP
+이야기하다	NNP
+이용하기 쉬움	NNP
+이용하기 쉽다	NNP
+이용하기 좋은	NNP
+이용하는 짓을	NNP
+이이없다	NNP
+이익	NNP
+이익을	NNP
+이익을 보는	NNP
+이익을 얻는	NNP
+이익을 얻다	NNP
+이익을 얻음	NNP
+이익이	NNP
+이익이 되지 아니하고	NNP
+이익이 될	NNP
+이익이 될만한	NNP
+이죽이죽하면서	NNP
+이죽이죽하면서 느물거리는	NNP
+이쪽저쪽으로 귀엽게	NNP
+이치가 깊고	NNP
+이치를 깨닫거나	NNP
+이치를 깨닫다	NNP
+이치를 깨달아	NNP
+이치를 아는	NNP
+이치에 닿지 않다	NNP
+이치에 맞게	NNP
+이치에 밝다	NNP
+이치에 밝아서	NNP
+이치에 어긋나	NNP
+이타적인	NNP
+이해의 대립으로	NNP
+이해하거나	NNP
+이해하거나 배우는	NNP
+이해하고	NNP
+이해하고 돕는	NNP
+이해하고 돕다	NNP
+이해하기 어려운	NNP
+이해하는	NNP
+이해하는 마음	NNP
+이해하지 못하는	NNP
+이혼을	NNP
+이혼을 하고	NNP
+익살 소설	NNP
+익살궂다	NNP
+익살극	NNP
+익살맞다	NNP
+익살바르다	NNP
+익살배기	NNP
+익살스럽게	NNP
+익살스럽게 꾸민	NNP
+익살스럽게 대답함	NNP
+익살스럽다	NNP
+익살스레	NNP
+익살을	NNP
+익살을 많이	NNP
+익살을 부리는	NNP
+익살쟁이	NNP
+익숙지 못하고	NNP
+익숙하고	NNP
+익숙하도록	NNP
+익숙하도록 되풀이하여	NNP
+익숙하지 못하고	NNP
+익숙하지 못하여	NNP
+익숙한	NNP
+익숙한 솜씨	NNP
+익숙해짐	NNP
+익지 아니하다	NNP
+익지 아니하여서	NNP
+익혀지지 못하다	NNP
+익히게	NNP
+익히게 하다	NNP
+익히지 못하다	NNP
+익히지 못한	NNP
+익히지 못한 사람	NNP
+익히지 못함	NNP
+인간애를	NNP
+인간에게 좋은	NNP
+인격 파괴와	NNP
+인격을 길러	NNP
+인기	NNP
+인기가 있다	NNP
+인기를 얻게	NNP
+인기있는	NNP
+인기있다	NNP
+인덕으로	NNP
+인망을 깎아내려	NNP
+인물을 낮잡아	NNP
+인사불성이	NNP
+인사불성이 되는	NNP
+인상적이다	NNP
+인색하게	NNP
+인색하다	NNP
+인색한	NNP
+인색한 모양	NNP
+인색한 사람	NNP
+인색한 사람을	NNP
+인색한 여자를	NNP
+인심을 달래어	NNP
+인연이	NNP
+인연이 맺어지다	NNP
+인재를	NNP
+인정	NNP
+인정 받다	NNP
+인정되거나	NNP
+인정되거나 합격하다	NNP
+인정머리 없고	NNP
+인정받는	NNP
+인정받다	NNP
+인정을 받다	NNP
+인정이 두텁다	NNP
+인정이 많고	NNP
+인정이 많다	NNP
+인정이 없게	NNP
+인정이 없는	NNP
+인정이 없이	NNP
+인정있는	NNP
+인정있다	NNP
+인정하는 부분	NNP
+인정하다	NNP
+인정하여	NNP
+인정하여 내세우다	NNP
+인정하지 않고	NNP
+인품이 고결	NNP
+일깨워	NNP
+일깨워 주는	NNP
+일러바치다	NNP
+일류	NNP
+일방적으로	NNP
+일부러	NNP
+일부러 우스운	NNP
+일부를 다치다	NNP
+일부를 빼앗아	NNP
+일솜씨가 뛰어나거나	NNP
+일어나는 화	NNP
+일에 매여	NNP
+일에 실패하거나	NNP
+일에 훼방을	NNP
+일에 흉하다고	NNP
+일을 간섭하고	NNP
+일을 긍정할	NNP
+일을 대강대강	NNP
+일을 무리하게	NNP
+일을 방해하는	NNP
+일을 방해하다	NNP
+일을 방해함	NNP
+일을 이루거나	NNP
+일을 잘못하여	NNP
+일을 해결하거나	NNP
+일을 해내다	NNP
+일을 해낼	NNP
+일을 훼방	NNP
+일이 꼬이거나	NNP
+일이 나쁘거나	NNP
+일이 난처하거나	NNP
+일이 못마땅할	NNP
+일이 물리거나	NNP
+일이 밝혀지거나	NNP
+일이 순조롭게	NNP
+일이 어그러지다	NNP
+일이 잘되게	NNP
+일이 잘되도록	NNP
+일이 잘되어	NNP
+일이 잘못되어	NNP
+일이 잘못되었거나	NNP
+일진	NNP
+일찍 죽다	NNP
+일치하지 않다	NNP
+일품이다	NNP
+일하기를 꺼리어	NNP
+일하기를 싫어하는	NNP
+일하기를 싫어하여	NNP
+잃거나	NNP
+잃거나 없애다	NNP
+잃게	NNP
+잃게 하거나	NNP
+잃게 하다	NNP
+잃다	NNP
+잃어 섭섭하거나	NNP
+잃어 스러져	NNP
+잃어버리다	NNP
+잃었다	NNP
+잃은	NNP
+잃은 느낌	NNP
+잃은 상태로	NNP
+잃을	NNP
+잃을 정도로	NNP
+임신구토	NNP
+임질	NNP
+입 안이 마르고	NNP
+입가에 웃음이	NNP
+입담 좋게	NNP
+입맛을 잃다	NNP
+입맛이 떨어지고	NNP
+입맛이 없다	NNP
+입맛이 없어지고	NNP
+입맛이 없으며	NNP
+입속으로 지껄이다	NNP
+입을 가볍게	NNP
+입을 경망스럽게	NNP
+입을 나불거리며	NNP
+입을 너불거리며	NNP
+입을 방정맞게	NNP
+입을 삐쭉이는	NNP
+입을 삐쭉이다	NNP
+입을 예쁘게	NNP
+입을 함부로	NNP
+입이 쓰며	NNP
+입힌 손상이나	NNP
+잇따라 게우는	NNP
+잇따라 귀찮게	NNP
+잇따라 맥없이	NNP
+잇따라 쑤시다	NNP
+잇따라 우쭐거리다	NNP
+잇따라 울다	NNP
+잇따라 지껄이다	NNP
+잇따라 힘없이	NNP
+잇몸이 붓고	NNP
+잇지 못할	NNP
+잉여	NNP
+ㅈㄹ	NNP
+ㅈㅅ	NNP
+자격을 박탈하여	NNP
+자격을 얻다	NNP
+자격이 박탈되어	NNP
+자격이 없는	NNP
+자괴	NNP
+자괴감	NNP
+자궁 탈출증	NNP
+자긍	NNP
+자긍심	NNP
+자기에게 유리하도록	NNP
+자기의 병을	NNP
+자기중심적	NNP
+자기편을 배신하여	NNP
+자기하다	NNP
+자꾸 가쁘고	NNP
+자꾸 가치작거리는	NNP
+자꾸 간섭하거나	NNP
+자꾸 거만하게	NNP
+자꾸 거북하다	NNP
+자꾸 거북한	NNP
+자꾸 거슬리거나	NNP
+자꾸 건성으로	NNP
+자꾸 걸리다	NNP
+자꾸 경망스럽게	NNP
+자꾸 경솔하게	NNP
+자꾸 군소리를	NNP
+자꾸 굼뜨게	NNP
+자꾸 귀엽게	NNP
+자꾸 귀찮게	NNP
+자꾸 근질근질하다	NNP
+자꾸 까다롭게	NNP
+자꾸 까다롭고	NNP
+자꾸 까부는	NNP
+자꾸 까불거나	NNP
+자꾸 까불다	NNP
+자꾸 까불며	NNP
+자꾸 까불어	NNP
+자꾸 꼬물거리는	NNP
+자꾸 꾀거나	NNP
+자꾸 너불거리며	NNP
+자꾸 놀라는	NNP
+자꾸 놀리는	NNP
+자꾸 놀리다	NNP
+자꾸 능글맞게	NNP
+자꾸 능청스럽게	NNP
+자꾸 다투거나	NNP
+자꾸 다투는	NNP
+자꾸 다투다	NNP
+자꾸 덤비다	NNP
+자꾸 되지못한	NNP
+자꾸 들볶거나	NNP
+자꾸 따끔하게	NNP
+자꾸 떠드는	NNP
+자꾸 떠들거나	NNP
+자꾸 떠들다	NNP
+자꾸 떠들어	NNP
+자꾸 뜨끔하게	NNP
+자꾸 마지못하여	NNP
+자꾸 막히다	NNP
+자꾸 말대꾸하다	NNP
+자꾸 망설이는	NNP
+자꾸 망설이며	NNP
+자꾸 맥없이	NNP
+자꾸 머뭇거리게	NNP
+자꾸 머뭇거리는	NNP
+자꾸 머뭇거리다	NNP
+자꾸 머뭇거리며	NNP
+자꾸 머뭇머뭇하는	NNP
+자꾸 머뭇하다	NNP
+자꾸 무섭고	NNP
+자꾸 미루거나	NNP
+자꾸 방정맞게	NNP
+자꾸 방해가	NNP
+자꾸 버릇없게	NNP
+자꾸 버릇없이	NNP
+자꾸 보채거나	NNP
+자꾸 볼품없이	NNP
+자꾸 불만스럽게	NNP
+자꾸 불안하게	NNP
+자꾸 불평을	NNP
+자꾸 불평하는	NNP
+자꾸 불평하다	NNP
+자꾸 비굴하게	NNP
+자꾸 비틀거리는	NNP
+자꾸 빈둥거리는	NNP
+자꾸 빈정거리다	NNP
+자꾸 빤빤스럽게	NNP
+자꾸 뻔뻔스럽게	NNP
+자꾸 뽐내다	NNP
+자꾸 설레다	NNP
+자꾸 성가시게	NNP
+자꾸 성을	NNP
+자꾸 시근시근하다	NNP
+자꾸 시끄럽게	NNP
+자꾸 시름시름	NNP
+자꾸 시큰둥한	NNP
+자꾸 신경질적으로	NNP
+자꾸 쑤시는	NNP
+자꾸 쑤시다	NNP
+자꾸 쓰러지거나	NNP
+자꾸 쓰러질	NNP
+자꾸 아프다	NNP
+자꾸 앓는	NNP
+자꾸 앓다	NNP
+자꾸 애쓰는	NNP
+자꾸 애쓰다	NNP
+자꾸 얄미울	NNP
+자꾸 얄밉게	NNP
+자꾸 어색하다	NNP
+자꾸 어수선하게	NNP
+자꾸 어지럽게	NNP
+자꾸 얻어맞을	NNP
+자꾸 엿보거나	NNP
+자꾸 요란스럽게	NNP
+자꾸 우기거나	NNP
+자꾸 우기는	NNP
+자꾸 우는	NNP
+자꾸 우물쭈물하다	NNP
+자꾸 우쭐거리다	NNP
+자꾸 울거나	NNP
+자꾸 울다	NNP
+자꾸 울음이	NNP
+자꾸 움직이는	NNP
+자꾸 움직이다	NNP
+자꾸 웃는	NNP
+자꾸 웃다	NNP
+자꾸 자린	NNP
+자꾸 자빠지다	NNP
+자꾸 저는	NNP
+자꾸 저리다	NNP
+자꾸 저린	NNP
+자꾸 절다	NNP
+자꾸 조르거나	NNP
+자꾸 좀스럽게	NNP
+자꾸 좀스럽고	NNP
+자꾸 주저주저하거나	NNP
+자꾸 주저주저하며	NNP
+자꾸 주책없이	NNP
+자꾸 지껄이는	NNP
+자꾸 지껄이다	NNP
+자꾸 짓궂은	NNP
+자꾸 짖궂게	NNP
+자꾸 짜증을	NNP
+자꾸 쩔쩔매거나	NNP
+자꾸 참견하다	NNP
+자꾸 처지는	NNP
+자꾸 치밀어	NNP
+자꾸 치사하고	NNP
+자꾸 토하려고	NNP
+자꾸 토할	NNP
+자꾸 피하는	NNP
+자꾸 헤매다	NNP
+자꾸 헷갈리어	NNP
+자꾸 화를	NNP
+자꾸 흐려지다	NNP
+자꾸 흔들리다	NNP
+자꾸 흘리다	NNP
+자꾸 흡족하게	NNP
+자꾸 힘없이	NNP
+자라지 못하고	NNP
+자랑스런	NNP
+자랑스럽다	NNP
+자랑자랑하다	NNP
+자랑하다	NNP
+자리다	NNP
+자리자라한	NNP
+자리자리한	NNP
+자리자리한 느낌	NNP
+자리자리한 느낌이	NNP
+자린	NNP
+자린 느낌	NNP
+자린 느낌이	NNP
+자린 듯하다	NNP
+자린 듯한	NNP
+자린한 느낌	NNP
+자릿자릿하다	NNP
+자릿한	NNP
+자릿한 느낌	NNP
+자부하다	NNP
+자비	NNP
+자비가 넓고	NNP
+자비로써	NNP
+자비로운	NNP
+자비로운 교훈	NNP
+자비로움을	NNP
+자비로움을 나타낸	NNP
+자비를	NNP
+자비를 베풀어	NNP
+자비심으로	NNP
+자비심이	NNP
+자비심이 많아	NNP
+자비의	NNP
+자비의 마음으로	NNP
+자빠지거나	NNP
+자빠지는	NNP
+자빠지는 모양	NNP
+자빠지다	NNP
+자상하게	NNP
+자상하다	NNP
+자세하고 정확하게	NNP
+자세히	NNP
+자세히 살피다	NNP
+자세히 살핌	NNP
+자송	NNP
+자송하다	NNP
+자신 있게	NNP
+자신감	NNP
+자신에게 해가	NNP
+자신을 옭아 묶다	NNP
+자신을 옭아 묶음	NNP
+자신을 책망하다	NNP
+자신을 책망함	NNP
+자신의 결함이나	NNP
+자신의 이익만을	NNP
+자신의 재능을	NNP
+자신하다	NNP
+자애로	NNP
+자애를	NNP
+자애를 베푸는	NNP
+자연 그대로	NNP
+자연스럽게	NNP
+자연스럽게 보이다	NNP
+자연스럽다	NNP
+자연스럽지 못하게	NNP
+자연스럽지 아니하게	NNP
+자연스럽지 아니하다	NNP
+자연스럽지 않다	NNP
+자연의 아름다운	NNP
+자유가 제한되거나	NNP
+자유로운	NNP
+자유로운 상태가	NNP
+자유롭게	NNP
+자유롭게 함	NNP
+자유를 침해함으로써	NNP
+자제력을 잃다	NNP
+자제력을 잃어	NNP
+자주 사용되다	NNP
+자주 앓다	NNP
+자주 하다	NNP
+자증을 내며	NNP
+자지 못하는	NNP
+자지러지게	NNP
+자지러지도록	NNP
+자지러지도록 꼴로	NNP
+자지러질	NNP
+자질	NNP
+자질구레한	NNP
+자질구레한 것까지	NNP
+자질을 겸손하게	NNP
+자책	NNP
+자책하다	NNP
+자폐하다	NNP
+자포자기	NNP
+자포자기하다	NNP
+자포하다	NNP
+자해	NNP
+자해하다	NNP
+작고 귀여운	NNP
+작붕	NNP
+작품이 사랑받고	NNP
+잔꾀로	NNP
+잔뜩 벼르다	NNP
+잔부끄러움	NNP
+잔소리	NNP
+잔소리나	NNP
+잔소리나 푸념을	NNP
+잔소리를	NNP
+잔소리를 하거나	NNP
+잔인하다	NNP
+잔인한	NNP
+잔인한 모양	NNP
+잔인한 사람을	NNP
+잔인한 형벌에	NNP
+잗달고	NNP
+잘	NNP
+잘 가다듬어	NNP
+잘 간직하여	NNP
+잘 다듬어져	NNP
+잘 다스려	NNP
+잘 다스리는	NNP
+잘 다스림	NNP
+잘 다투는	NNP
+잘 다투다	NNP
+잘 대우하다	NNP
+잘 대우하여	NNP
+잘 들다	NNP
+잘 떠벌리다	NNP
+잘 먹거나	NNP
+잘 먹거나 마시다	NNP
+잘 먹다	NNP
+잘 먹음으로써	NNP
+잘 모르거나	NNP
+잘 몰라서	NNP
+잘 못하거나	NNP
+잘 받아	NNP
+잘 보살펴	NNP
+잘 사귀는	NNP
+잘 살려	NNP
+잘 살핌	NNP
+잘 싸우다	NNP
+잘 싸움	NNP
+잘 아는	NNP
+잘 안될까	NNP
+잘 알다	NNP
+잘 알아	NNP
+잘 알아서	NNP
+잘 어울려	NNP
+잘 어울리는	NNP
+잘 어울리다	NNP
+잘 어울리어	NNP
+잘 어울림	NNP
+잘 여문	NNP
+잘 여물다	NNP
+잘 이끌어	NNP
+잘 익거나	NNP
+잘 익다	NNP
+잘 있는	NNP
+잘 자라게	NNP
+잘 정돈되어	NNP
+잘 조화되어	NNP
+잘 지내거나	NNP
+잘 지켜	NNP
+잘 진행되다	NNP
+잘 진행되어	NNP
+잘 짓는	NNP
+잘 처리되다	NNP
+잘 처리하다	NNP
+잘 팔리다	NNP
+잘 해낼	NNP
+잘난 체	NNP
+잘난 체하거나	NNP
+잘난 체하고	NNP
+잘난 체하는	NNP
+잘난 체하다	NNP
+잘난 체하며	NNP
+잘난 체하여	NNP
+잘되고	NNP
+잘되다	NNP
+잘되어	NNP
+잘되어 가게	NNP
+잘되어 가는	NNP
+잘되어 가다	NNP
+잘되지 못하도록	NNP
+잘되지 아니하고	NNP
+잘된	NNP
+잘된 것을	NNP
+잘된 작품	NNP
+잘될	NNP
+잘될 가능성이	NNP
+잘됨	NNP
+잘망스럽게	NNP
+잘먹다	NNP
+잘못	NNP
+잘못 기입함	NNP
+잘못 생각하다	NNP
+잘못 써서	NNP
+잘못 판단하거나	NNP
+잘못되기를 바라면서	NNP
+잘못되는	NNP
+잘못되는 것을	NNP
+잘못되어	NNP
+잘못되었거나	NNP
+잘못되었을	NNP
+잘못되었을 때도	NNP
+잘못되지 아니하도록	NNP
+잘못된	NNP
+잘못된 것을	NNP
+잘못된 것이 없이	NNP
+잘못된 견해	NNP
+잘못된 대답을	NNP
+잘못된 염탐	NNP
+잘못된 일이	NNP
+잘못된 허물을	NNP
+잘못에	NNP
+잘못에 대하여	NNP
+잘못을	NNP
+잘못을 고쳐	NNP
+잘못을 깨치고	NNP
+잘못을 꾸짖거나	NNP
+잘못을 꾸짖다	NNP
+잘못을 꾸짖음	NNP
+잘못을 뉘우치고	NNP
+잘못을 용서함	NNP
+잘못을 인정하고	NNP
+잘못을 저지른	NNP
+잘못을 지적받거나	NNP
+잘못이	NNP
+잘못이 생겨나게	NNP
+잘못이나	NNP
+잘못이나 결함을	NNP
+잘못하거나	NNP
+잘못하다	NNP
+잘못하다가는 꼴로	NNP
+잘못하면 꼴로	NNP
+잘못하여	NNP
+잘못함	NNP
+잘빠진	NNP
+잘생겨	NNP
+잘생겨 보기에	NNP
+잘생기다	NNP
+잘생긴	NNP
+잘아지고	NNP
+잘하는	NNP
+잘하는 것이	NNP
+잘하는 능력이	NNP
+잘하다	NNP
+잘하지 못하는	NNP
+잘하지 못하여	NNP
+잘한	NNP
+잘한 일을	NNP
+잘해	NNP
+잘해 나가다	NNP
+잘해 내는	NNP
+잘해 내지 못하는	NNP
+잡념을 없애고	NNP
+잡되고	NNP
+잡되고 상스럽다	NNP
+잡스러운	NNP
+잡스러운 느낌이	NNP
+잡스럽게	NNP
+잡스럽게 굴다	NNP
+잡스럽다	NNP
+잡아 뜯거나	NNP
+잡지 못하게	NNP
+잡지 못하는 상태로	NNP
+잡지 못하다	NNP
+장난삼아	NNP
+장난삼아 하는	NNP
+장난스럽게	NNP
+장난이 심하고	NNP
+장애	NNP
+장애가	NNP
+장애가 따르고	NNP
+장애가 있어	NNP
+장애로	NNP
+장애를	NNP
+장애를 만나	NNP
+장애를 받거나	NNP
+장애를 받아	NNP
+장애물을	NNP
+장애물을 헤치다	NNP
+장애인	NNP
+장엄한	NNP
+장엄한 상	NNP
+장점	NNP
+장점을	NNP
+장점을 인정하거나	NNP
+장점을 취하여	NNP
+장점이다	NNP
+장하다	NNP
+장학금	NNP
+재난	NNP
+재난을	NNP
+재난을 이르는	NNP
+재능	NNP
+재능을	NNP
+재능을 가진	NNP
+재능을 겸손하게	NNP
+재능을 알고	NNP
+재능이라는	NNP
+재능이라는 뜻으로	NNP
+재물에 인색한	NNP
+재물을 가로채서	NNP
+재물을 탐내어	NNP
+재물을 탐하는	NNP
+재물이 넉넉하거나	NNP
+재미	NNP
+재미가	NNP
+재미가 없게	NNP
+재미가 없다	NNP
+재미가 있어	NNP
+재미를 붙여	NNP
+재미없다	NNP
+재미있게	NNP
+재미있는	NNP
+재미있는 국면	NNP
+재미있는 말을	NNP
+재미있는 일을	NNP
+재미있다	NNP
+재밌는	NNP
+재발하거나	NNP
+재산 범죄	NNP
+재산이 넉넉하다	NNP
+재수 없게	NNP
+재앙	NNP
+재앙이	NNP
+재앙이나	NNP
+재주	NNP
+재주가 뛰어나고	NNP
+재주가 뛰어나다	NNP
+재주가 뛰어난	NNP
+재주가 뛰어남	NNP
+재주가 무디다	NNP
+재주가 있고	NNP
+재주를	NNP
+재주를 가진	NNP
+재주와 지혜가	NNP
+재질이 뛰어나고	NNP
+재촉하다	NNP
+재촉하여	NNP
+재촉하여 몰아대다	NNP
+재치	NNP
+재치 있고	NNP
+재치가 있고	NNP
+재치가 있다	NNP
+재치있다	NNP
+재해를 소멸시키다	NNP
+재해를 입은	NNP
+재해와	NNP
+재해와 돌림병을	NNP
+잴뚝대다	NNP
+저급	NNP
+저급하다	NNP
+저급한	NNP
+저는	NNP
+저는 모양	NNP
+저렴하다	NNP
+저리거나	NNP
+저리거나 아픈	NNP
+저리고	NNP
+저리다	NNP
+저린	NNP
+저린 느낌	NNP
+저린 느낌이	NNP
+저린 듯하다	NNP
+저린 듯한	NNP
+저릿한	NNP
+저릿한 느낌	NNP
+저버리다	NNP
+저절로 무너짐	NNP
+저주	NNP
+저주의	NNP
+저주의 뜻으로	NNP
+저주하는	NNP
+저주하는 말	NNP
+저주하는 말을	NNP
+저주하여	NNP
+저지른	NNP
+저지른 일	NNP
+저지른 잘못에	NNP
+저지른 죄과나	NNP
+저질러진 범죄	NNP
+저품질	NNP
+저하되다	NNP
+저하시키다	NNP
+적극	NNP
+적극 찾아서	NNP
+적극적으로	NNP
+적극적으로 다가가	NNP
+적극적이다	NNP
+적극적인	NNP
+적극적인 마음	NNP
+적당하게	NNP
+적당하게 맞추어	NNP
+적당하다	NNP
+적당하지 아니하게	NNP
+적당한	NNP
+적당히 좋아하는	NNP
+적대적으로	NNP
+적대적으로 대하다	NNP
+적수를 미워하다	NNP
+적용하기에 어려운	NNP
+적의 앞잡이	NNP
+적절치 아니하다	NNP
+적절하게	NNP
+적절하게 이어져	NNP
+적절하게 처리하는	NNP
+적절한	NNP
+적절한 예	NNP
+적절히	NNP
+적합하다	NNP
+적합하도록	NNP
+적합하도록 만들어지다	NNP
+적확한	NNP
+적확한 견해	NNP
+전문가	NNP
+전문적 지식	NNP
+전부 게워	NNP
+전성	NNP
+전염되는 병	NNP
+전염병	NNP
+전전긍긍	NNP
+전전긍긍하다	NNP
+전혀 모르거나	NNP
+전혀 없는	NNP
+절개가 굳은	NNP
+절거나	NNP
+절다	NNP
+절도질	NNP
+절망	NNP
+절망스럽다	NNP
+절망에	NNP
+절망에 빠져	NNP
+절망으로	NNP
+절망적이다	NNP
+절망하다	NNP
+절며	NNP
+절며 걷는	NNP
+절며 걷다	NNP
+절면서	NNP
+절면서 걷는	NNP
+절면서 걷다	NNP
+절박하다	NNP
+절실하게	NNP
+절실하다	NNP
+절절매다	NNP
+절친	NNP
+젊고	NNP
+젊고 건강하여	NNP
+젊다	NNP
+젊은	NNP
+점잖게	NNP
+점잖고	NNP
+점잖고 엄숙하게	NNP
+점잖다	NNP
+점잖은	NNP
+점잖은 사람	NNP
+점잖이	NNP
+점잖이 아니하게	NNP
+점잖지 못하거나	NNP
+점잖지 못하게	NNP
+점잖지 못하고	NNP
+점잖지 못한	NNP
+점잖지 아니하게	NNP
+점잖지 아니하여	NNP
+점잖지 않다	NNP
+점점 긴장되다	NNP
+접대하다	NNP
+접대함	NNP
+정	NNP
+정결히	NNP
+정겹고	NNP
+정겹고 고분고분하게	NNP
+정겹고 고분고분하다	NNP
+정겹다	NNP
+정교하고	NNP
+정교하고 아름답다	NNP
+정교한	NNP
+정기가 없이	NNP
+정다운	NNP
+정다운 맛이 없고	NNP
+정다운 이야기	NNP
+정답게	NNP
+정답게 안는	NNP
+정답게 웃는	NNP
+정답게 웃다	NNP
+정답게 이르거나	NNP
+정답게 이르는	NNP
+정답게 이야기하거나	NNP
+정답게 자꾸	NNP
+정답게 주고받다	NNP
+정답게 지내는	NNP
+정답게 지저귀다	NNP
+정답게 지저귐	NNP
+정답게 흘러가는	NNP
+정답고	NNP
+정답고 귀엽게	NNP
+정답고 포근하게	NNP
+정답고 환하게	NNP
+정답다	NNP
+정답지 않고	NNP
+정당하게	NNP
+정당하지 못한	NNP
+정당하지 않은	NNP
+정당한	NNP
+정당한 길	NNP
+정당한 도리	NNP
+정도가 높다	NNP
+정도가 심하거나	NNP
+정도가 심하게	NNP
+정도가 지나쳐서	NNP
+정도가 지나친	NNP
+정도에 넘침	NNP
+정돈되어	NNP
+정돈되어 말끔하게	NNP
+정돈되어 말끔하다	NNP
+정돈되어 시원스럽게	NNP
+정돈되지 아니하여	NNP
+정돈이 되지 아니하여	NNP
+정돈하다	NNP
+정밀하고	NNP
+정밀하고 미세함	NNP
+정밀하지 못하고	NNP
+정밀한	NNP
+정분이	NNP
+정분이 나서	NNP
+정분이 두텁게	NNP
+정분이 두텁다	NNP
+정상	NNP
+정상을 벗어난	NNP
+정성껏	NNP
+정성스럽다	NNP
+정성스레	NNP
+정성스레 대하거나	NNP
+정성으로	NNP
+정성을	NNP
+정성을 겸손하게	NNP
+정성을 기울이다	NNP
+정성을 나타내다	NNP
+정성을 다하여	NNP
+정성을 다함	NNP
+정성을 들인	NNP
+정성이	NNP
+정성이 미치는	NNP
+정성이나	NNP
+정성이나 노력	NNP
+정성이나 성의가	NNP
+정신 분열병	NNP
+정신 분열병과	NNP
+정신 질환	NNP
+정신병	NNP
+정신병 환자	NNP
+정신없다	NNP
+정신없이	NNP
+정신을 못 차리고	NNP
+정신을 어지럽게	NNP
+정신을 잃고	NNP
+정신을 잃는	NNP
+정신을 잃는다	NNP
+정신을 잃을	NNP
+정신을 차리지 못하고	NNP
+정신의 이상이나	NNP
+정신이 까무러질	NNP
+정신이 나가거나	NNP
+정신이 나간 것처럼	NNP
+정신이 멀쩡하다	NNP
+정신이 멍하고	NNP
+정신이 아득하고	NNP
+정신이 아찔하여	NNP
+정신이 어리벙벙하여	NNP
+정신이 어지럽게	NNP
+정신이 어지럽다	NNP
+정신이 어지럽도록	NNP
+정신이 얼떨떨하여	NNP
+정신이 없고	NNP
+정신이 혼미해지고	NNP
+정신이 흐려서	NNP
+정신이 흐려져	NNP
+정신이 흐려지고	NNP
+정신이 흐려진다	NNP
+정신이 흐리고	NNP
+정신이 흐릿하여	NNP
+정신적 고통이	NNP
+정신적으로 보탬이	NNP
+정신적으로 편안하고	NNP
+정신질환	NNP
+정연하게	NNP
+정열	NNP
+정을 끊고	NNP
+정을 통하다	NNP
+정의롭다	NNP
+정의를	NNP
+정의를 위한	NNP
+정이 깊게	NNP
+정이 넘칠	NNP
+정이 두텁고	NNP
+정이 두텁다	NNP
+정이 들어	NNP
+정이 많게	NNP
+정이 맺어지다	NNP
+정이 맺어짐	NNP
+정이 버성기어	NNP
+정이 없고	NNP
+정이 없이	NNP
+정정당당하다	NNP
+정정당당한	NNP
+정정당당한 태도로	NNP
+정조가 굳고	NNP
+정조를 빼앗겨	NNP
+정조를 지키지 아니하다	NNP
+정중하게	NNP
+정중하다	NNP
+정중한	NNP
+정중한 부탁이나	NNP
+정중히	NNP
+정직하지 못한	NNP
+정처 없이	NNP
+정치를 잘하다	NNP
+정하다	NNP
+정함이 없이	NNP
+정해지지 못하고	NNP
+정확하게	NNP
+정확하고	NNP
+정확한	NNP
+제 마음대로	NNP
+제 분수를 잊어버리고	NNP
+제격에 맞지 않고	NNP
+제대로	NNP
+제대로 되지 않아	NNP
+제대로 이루어지다	NNP
+제대로 하지 못하고	NNP
+제대로 하지 아니하는	NNP
+제대로 하지 아니하다	NNP
+제때에	NNP
+제때에 내리는	NNP
+제맛이 나지 아니하고	NNP
+제맛이 나지 않고	NNP
+제멋대로	NNP
+제멋대로 날아가다	NNP
+제멋대로 내버려지다	NNP
+제멋대로 움직이거나	NNP
+제법 예쁜	NNP
+제일 잘하다	NNP
+제정신을 잃고	NNP
+제정신을 차리지 못하게	NNP
+제쳐 놓고	NNP
+제한되거나	NNP
+제한적	NNP
+제한적인	NNP
+제힘에 겨운	NNP
+제힘에 겨운 일에	NNP
+져서	NNP
+조건에 맞아	NNP
+조건에 어울리게	NNP
+조건을 개선하고	NNP
+조걸위악하다	NNP
+조금 거만스럽게	NNP
+조금 거북하다	NNP
+조금 거추장스러워서	NNP
+조금 거추장스럽게	NNP
+조금 괴롭게	NNP
+조금 굼뜨고	NNP
+조금 까다롭게	NNP
+조금 까불며	NNP
+조금 깨끗하고	NNP
+조금 나빠진	NNP
+조금 다침	NNP
+조금 답답할	NNP
+조금 되바라지게	NNP
+조금 떠들썩하게	NNP
+조금 머뭇거리거나	NNP
+조금 머뭇머뭇하거나	NNP
+조금 멋없게	NNP
+조금 멋없이	NNP
+조금 모자란	NNP
+조금 못마땅하게	NNP
+조금 밉살스럽고	NNP
+조금 방해가	NNP
+조금 비뚤어져	NNP
+조금 설레는	NNP
+조금 성가실	NNP
+조금 소란스럽게	NNP
+조금 수선스럽게	NNP
+조금 수선스럽다	NNP
+조금 시들하다	NNP
+조금 시원스럽게	NNP
+조금 싫증이	NNP
+조금 쓴	NNP
+조금 아둔하고	NNP
+조금 안타깝게	NNP
+조금 암상스럽게	NNP
+조금 약빠르고	NNP
+조금 어지러운	NNP
+조금 어지럽게	NNP
+조금 언짢거나	NNP
+조금 언짢고	NNP
+조금 염치없이	NNP
+조금 요란하게	NNP
+조금 우그러져	NNP
+조금 우악스럽게	NNP
+조금 우직하고	NNP
+조금 위태롭게	NNP
+조금 자린	NNP
+조금 짖궂은	NNP
+조금 천박하게	NNP
+조금 치사하고	NNP
+조금 타분하다	NNP
+조금 투덜거리는	NNP
+조금 투덜거리다	NNP
+조금 틀어진	NNP
+조금 푸근하게	NNP
+조금 훤하게	NNP
+조금 희미해져서	NNP
+조금 힘없이	NNP
+조금만 앓아도	NNP
+조금씩 쓰리며	NNP
+조급하게	NNP
+조급하게 구는	NNP
+조급하게 볶아치는	NNP
+조급하게 볶아치다	NNP
+조급하여	NNP
+조급한	NNP
+조급한 마음으로	NNP
+조급해지고	NNP
+조롱하거나	NNP
+조롱하다	NNP
+조롱할 때	NNP
+조르거나	NNP
+조르는	NNP
+조르는 데가	NNP
+조르는 모양	NNP
+조리 없는	NNP
+조리 없이	NNP
+조리 있게	NNP
+조리가 있고	NNP
+조리에 맞지 아니하는	NNP
+조마조마하게	NNP
+조마조마하게 지내다	NNP
+조마조마하다	NNP
+조마조마하여	NNP
+조마조마한	NNP
+조마조마한 느낌	NNP
+조마조마한 모양	NNP
+조마조마함	NNP
+조바심	NNP
+조바심이	NNP
+조바심이 나거나	NNP
+조바심이 나다	NNP
+조바심이 나서	NNP
+조바심하며	NNP
+조바심하며 자는	NNP
+조바심하며 자다	NNP
+조상을 욕되게	NNP
+조심성 없이	NNP
+조심성이 없고	NNP
+조심스러움	NNP
+조심스럽게	NNP
+조심스럽지 못하고	NNP
+조심스럽지 아니하고	NNP
+조심스럽지 않은	NNP
+조심하다	NNP
+조심함	NNP
+조여들다	NNP
+조용하며 찬찬하다	NNP
+조용하며 찬찬한	NNP
+조용한 느낌이	NNP
+조용히 우는	NNP
+조잡하다	NNP
+조잡한	NNP
+조직의 괴사가	NNP
+조직이 썩는	NNP
+조직이나 기구 따위가 무너지거나 흔들리지 아니하는 상태로	NNP
+조촐하지 못하여	NNP
+조화	NNP
+조화되어	NNP
+조화된	NNP
+조화된 자세를	NNP
+조화로운	NNP
+조화로움	NNP
+조화롭고	NNP
+조화롭고 포괄적인	NNP
+조화롭다	NNP
+조화를	NNP
+조화를 이루다	NNP
+조화를 이루도록	NNP
+조화시키고	NNP
+조화시키고 창조하는	NNP
+족치는	NNP
+족치는 일	NNP
+존경	NNP
+존경받는	NNP
+존경받는 벗	NNP
+존경받다	NNP
+존경스럽거나	NNP
+존경스럽거나 사랑스러운	NNP
+존경의	NNP
+존경의 뜻을	NNP
+존경하는	NNP
+존경하는 마음으로	NNP
+존경하는 사람	NNP
+존경하다	NNP
+존경할 만한	NNP
+존귀하고	NNP
+존귀한	NNP
+존귀한 사람이라는	NNP
+존귀한 성과	NNP
+존대를	NNP
+존망	NNP
+존멸	NNP
+존멸하다	NNP
+존못	NNP
+존속하다	NNP
+존예	NNP
+존잘	NNP
+존중	NNP
+존중하다	NNP
+존중할 만하다	NNP
+졸도	NNP
+졸아들고	NNP
+졸이는 마음	NNP
+졸임	NNP
+좀 거친	NNP
+좀 고까워하는	NNP
+좀 괴이쩍게	NNP
+좀 답답하거나	NNP
+좀 뚝뚝하고	NNP
+좀 막히는	NNP
+좀 막히다	NNP
+좀 보드랍고	NNP
+좀 볼품없이	NNP
+좀 부드럽고	NNP
+좀 불평스럽게	NNP
+좀 성기게	NNP
+좀 안타깝거나	NNP
+좀 어색하고	NNP
+좀 천박하게	NNP
+좀 천하다	NNP
+좀도둑	NNP
+좀스러워	NNP
+좀스럽게	NNP
+좀스럽게 계속	NNP
+좀스럽게 구는	NNP
+좀스럽게 굴다	NNP
+좀스럽게 꼬물거리는	NNP
+좀스럽게 꾸물거리다	NNP
+좀스럽게 눈치를	NNP
+좀스럽게 말하다	NNP
+좀스럽게 못된	NNP
+좀스럽게 부산을	NNP
+좀스럽게 생긴	NNP
+좀스럽게 움직이는	NNP
+좀스럽게 움직이다	NNP
+좀스럽게 자꾸	NNP
+좀스럽게 지껄이는	NNP
+좀스럽게 짓궃은	NNP
+좀스럽게 짖궂은	NNP
+좀스럽게 충동질을	NNP
+좀스럽게 하다	NNP
+좀스럽게 혼잣말로	NNP
+좀스럽고	NNP
+좀스럽고 까다롭다	NNP
+좀스럽고 비굴하게	NNP
+좀스럽다	NNP
+좀이 생긴	NNP
+좁고 옹졸한	NNP
+좁은 소견으로	NNP
+종기가	NNP
+종기가 나는	NNP
+종말	NNP
+종알거리거나	NNP
+종알종알 군소리를	NNP
+종이 되다	NNP
+종횡무진	NNP
+좆같다	NNP
+좆같이	NNP
+좆다	NNP
+좆심	NNP
+좇다	NNP
+좋거나	NNP
+좋거나 아름답다고	NNP
+좋거나 훌륭하다	NNP
+좋게	NNP
+좋게 고치기	NNP
+좋게 고치다	NNP
+좋게 꼴로	NNP
+좋게 나서서	NNP
+좋게 나아가다	NNP
+좋게 되다	NNP
+좋게 만들다	NNP
+좋게 만들어지다	NNP
+좋게 발전할	NNP
+좋게 생각하여	NNP
+좋게 여기는	NNP
+좋게 여기다	NNP
+좋게 여김	NNP
+좋게 탐스러운	NNP
+좋게 탐스럽다	NNP
+좋게 퍼져서	NNP
+좋게 평가하여	NNP
+좋게 하다	NNP
+좋고	NNP
+좋고 굉장하게	NNP
+좋고 옳은	NNP
+좋다	NNP
+좋다고	NNP
+좋다고 판단하여	NNP
+좋도록 주선하는	NNP
+좋도록 주선하다	NNP
+좋아	NNP
+좋아 보이거나	NNP
+좋아서	NNP
+좋아서 탐스러운	NNP
+좋아지내다	NNP
+좋아지다	NNP
+좋아하거나	NNP
+좋아하거나 즐기다	NNP
+좋아하고	NNP
+좋아하는	NNP
+좋아하는 것	NNP
+좋아하는 기운	NNP
+좋아하는 대상	NNP
+좋아하는 마음	NNP
+좋아하는 마음이	NNP
+좋아하다	NNP
+좋아하여	NNP
+좋아하여 애착을	NNP
+좋아함	NNP
+좋아해	NNP
+좋으면	NNP
+좋은	NNP
+좋은 결과나	NNP
+좋은 경치	NNP
+좋은 경치를	NNP
+좋은 곳	NNP
+좋은 곳을	NNP
+좋은 과보	NNP
+좋은 기회나	NNP
+좋은 기회를	NNP
+좋은 길로	NNP
+좋은 내용을	NNP
+좋은 냄새와	NNP
+좋은 느낌	NNP
+좋은 느낌을	NNP
+좋은 대책과	NNP
+좋은 대책을	NNP
+좋은 데가	NNP
+좋은 말글	NNP
+좋은 맛	NNP
+좋은 반응이	NNP
+좋은 복장	NNP
+좋은 사람	NNP
+좋은 산과	NNP
+좋은 상태로	NNP
+좋은 생각이	NNP
+좋은 석탄을	NNP
+좋은 성과를	NNP
+좋은 시절	NNP
+좋은 옷을	NNP
+좋은 운수	NNP
+좋은 운수를	NNP
+좋은 유전	NNP
+좋은 음식	NNP
+좋은 음식을	NNP
+좋은 일	NNP
+좋은 일을	NNP
+좋은 일이	NNP
+좋은 점이나	NNP
+좋은 특성	NNP
+좋은 풍채	NNP
+좋은 풍채를	NNP
+좋은 향기가	NNP
+좋은 황금을	NNP
+좋은가봉가	NNP
+좋은일하기운동	NNP
+좋을	NNP
+좋을 정도라서	NNP
+좋을 정도로	NNP
+좋음	NNP
+좋음을	NNP
+좋음을 이르는	NNP
+좋지 못하여	NNP
+좋지 못한	NNP
+좋지 못한 상황에	NNP
+좋지 아니하거나	NNP
+좋지 아니하게	NNP
+좋지 아니하다	NNP
+좋지 아니한	NNP
+좋지 않거나	NNP
+좋지 않게	NNP
+좋지 않다	NNP
+좋지 않아서	NNP
+좋지 않은	NNP
+좌빨	NNP
+좌욕	NNP
+좌절	NNP
+좌절하다	NNP
+좌좀	NNP
+죄	NNP
+죄 있는	NNP
+죄가	NNP
+죄가 될	NNP
+죄가 없음을	NNP
+죄가 있는	NNP
+죄과나 잘못에	NNP
+죄를	NNP
+죄를 고백하고	NNP
+죄를 다시	NNP
+죄를 도리어	NNP
+죄를 저지르다	NNP
+죄를 저지름	NNP
+죄를 주던	NNP
+죄를 지어	NNP
+죄를 지은	NNP
+죄를 짓거나	NNP
+죄범	NNP
+죄송히	NNP
+죄수	NNP
+죄스러울	NNP
+죄스러울 정도로	NNP
+죄스럽다	NNP
+죄악 망상	NNP
+죄악감	NNP
+죄악관영	NNP
+죄악관영하다	NNP
+죄악만을	NNP
+죄악만을 남긴	NNP
+죄악만을 남긴 악정	NNP
+죄악사	NNP
+죄악상	NNP
+죄악스럽다	NNP
+죄악스레	NNP
+죄악시	NNP
+죄악시되다	NNP
+죄악시하다	NNP
+죄악에	NNP
+죄악에 차	NNP
+죄악으로	NNP
+죄악으로 가득	NNP
+죄악으로 가득 차	NNP
+죄악으로 보거나	NNP
+죄악으로 여겨지다	NNP
+죄악을	NNP
+죄악을 지어	NNP
+죄악이	NNP
+죄악이 되는	NNP
+죄악이라고	NNP
+죄악이라고 느끼는	NNP
+죄어 오그라들다	NNP
+죄어들거나	NNP
+죄어들다	NNP
+죄어서	NNP
+죄어서 몰아치다	NNP
+죄어치다	NNP
+죄업	NNP
+죄업 망상	NNP
+죄에	NNP
+죄에 빠지게	NNP
+죄의 앙갚음으로	NNP
+죄의식	NNP
+죄이거나	NNP
+죄이거나 타들어	NNP
+죄인의	NNP
+죄인의 머리를	NNP
+죄인이	NNP
+죄인임을 반성하고	NNP
+죄지은	NNP
+죄지은 듯하여	NNP
+주견이 없이	NNP
+주눅 들게	NNP
+주눅이 들다	NNP
+주로 잘못하다가는	NNP
+주로 잘못하면	NNP
+주름이 쭈글쭈글	NNP
+주무르기 좋게	NNP
+주색에 빠져	NNP
+주의하게	NNP
+주의하게 함	NNP
+주의하지 아니하고	NNP
+주작	NNP
+주저앉거나	NNP
+주저앉거나 자빠지는	NNP
+주저앉다	NNP
+주저주저하거나	NNP
+주저주저하는	NNP
+주저주저하는 모양	NNP
+주저주저하다	NNP
+주저하는	NNP
+주저하는 모양	NNP
+주저하다	NNP
+주저하며 머뭇거리다	NNP
+주제넘게	NNP
+주제넘고	NNP
+주제넘고 건방지다	NNP
+주제넘다	NNP
+주책없는	NNP
+주책없는 짓이나	NNP
+주책없다	NNP
+주책없이	NNP
+주책없이 능청맞고	NNP
+주책없이 달랑거리며	NNP
+주체스럽게	NNP
+주춤	NNP
+주춤거리다	NNP
+주춤대다	NNP
+주춤병	NNP
+주춤주춤	NNP
+죽게	NNP
+죽게 된다	NNP
+죽게 될	NNP
+죽게 하다	NNP
+죽고 싶다	NNP
+죽기로	NNP
+죽기로 결심하고	NNP
+죽기를 바라는	NNP
+죽기만을	NNP
+죽기만을 기다린다는	NNP
+죽는	NNP
+죽는 일	NNP
+죽는 일이	NNP
+죽는 현상	NNP
+죽는다는 뜻으로	NNP
+죽다	NNP
+죽어서	NNP
+죽었을	NNP
+죽었을 때의	NNP
+죽여서	NNP
+죽여서 묻음	NNP
+죽은	NNP
+죽은 모양	NNP
+죽은 상태이다	NNP
+죽은 피	NNP
+죽을맛	NNP
+죽음	NNP
+죽음에	NNP
+죽음에 이르게	NNP
+죽음을	NNP
+죽음을 이르는	NNP
+죽음의	NNP
+죽이는	NNP
+죽이는 일	NNP
+죽이는 짓을	NNP
+죽이다	NNP
+죽임	NNP
+죽임을	NNP
+죽임을 당하거나	NNP
+죽임을 당하다	NNP
+줄 만하다	NNP
+줄어들거나	NNP
+줄어들거나 닳아	NNP
+줏대 없이	NNP
+중간에서 어그러뜨리다	NNP
+중간에서 화해하거나	NNP
+중단하다	NNP
+중대한	NNP
+중대한 태도로	NNP
+중독	NNP
+중병이	NNP
+중병이 재발하거나	NNP
+중상	NNP
+중생을 구제하기	NNP
+중생을 이롭게	NNP
+중심을 잃고	NNP
+중얼거리는	NNP
+중얼거리는 모양	NNP
+중요하게	NNP
+중요하게 여겨	NNP
+중요하고	NNP
+중요하다	NNP
+중요한	NNP
+중요한 대목	NNP
+중요한 물건이나	NNP
+중풍	NNP
+중풍과	NNP
+중풍으로	NNP
+중한 병	NNP
+중한 병을	NNP
+중히 여기는	NNP
+즐거운	NNP
+즐거운 감정	NNP
+즐거운 감정을	NNP
+즐거운 느낌이나	NNP
+즐거운 일	NNP
+즐거운 일을	NNP
+즐거운 표정으로	NNP
+즐거움	NNP
+즐거움과	NNP
+즐거움과 만족을	NNP
+즐거움과 행복을	NNP
+즐거움을	NNP
+즐거움을 나누다	NNP
+즐거움을 주는	NNP
+즐거움이	NNP
+즐거움이 큼을	NNP
+즐거워	NNP
+즐거워하다	NNP
+즐거워하지 아니하다	NNP
+즐거워하지 아니함	NNP
+즐거워한다는	NNP
+즐거워한다는 뜻으로	NNP
+즐거워함	NNP
+즐거음을 주는	NNP
+즐겁게	NNP
+즐겁게 누리거나	NNP
+즐겁게 여기다	NNP
+즐겁게 웃는	NNP
+즐겁게 지내다	NNP
+즐겁게 하거나	NNP
+즐겁게 하는	NNP
+즐겁게 하다	NNP
+즐겁게 함	NNP
+즐겁고	NNP
+즐겁고 기쁘게	NNP
+즐겁고 기쁘다	NNP
+즐겁고 기쁜	NNP
+즐겁고 상쾌하게	NNP
+즐겁고 상쾌한	NNP
+즐겁고 시원하여	NNP
+즐겁고 유쾌한	NNP
+즐겁고 좋은	NNP
+즐겁고 평화로움	NNP
+즐겁다	NNP
+즐겨	NNP
+즐겨 부를	NNP
+즐기고	NNP
+즐기기	NNP
+즐기기 위하여	NNP
+즐기는	NNP
+즐기는 마음	NNP
+즐기는 사람	NNP
+즐기는 생활	NNP
+즐기는 성향이	NNP
+즐기는 자리	NNP
+즐기다	NNP
+즐기며	NNP
+즐기며 놀리거나	NNP
+즐김	NNP
+증상을 치료하는	NNP
+증세가 나빠지도록	NNP
+증오	NNP
+증오감	NNP
+증오심	NNP
+증오하다	NNP
+증오해	NNP
+지겨워하다	NNP
+지겹게	NNP
+지겹게 여기다	NNP
+지겹다	NNP
+지겹도록	NNP
+지경	NNP
+지극한 정성으로	NNP
+지극한 효자나	NNP
+지극할 정도로	NNP
+지근대다	NNP
+지긋지긋하고	NNP
+지긋지긋하고 진절머리	NNP
+지껄이는	NNP
+지껄이는 말을	NNP
+지껄이는 모양	NNP
+지껄이는 소리	NNP
+지껄이다	NNP
+지껄이며	NNP
+지나치거나	NNP
+지나치게	NNP
+지나치게 더럽고	NNP
+지나치게 똑똑하다	NNP
+지나치게 민감하다	NNP
+지나치게 벗어나다	NNP
+지나치게 손상되어	NNP
+지나치게 시기하다	NNP
+지나치게 시기함	NNP
+지나치게 심하다	NNP
+지나치게 탐하는	NNP
+지나치다	NNP
+지나친	NNP
+지나친 데가	NNP
+지나친 성생활	NNP
+지능이 부족하여	NNP
+지다	NNP
+지독하다	NNP
+지독한	NNP
+지루	NNP
+지루하게	NNP
+지루하고	NNP
+지루하고 싫다	NNP
+지루하다	NNP
+지루하여	NNP
+지루한	NNP
+지루한 시합이나	NNP
+지루해져서	NNP
+지르는 고함	NNP
+지못미	NNP
+지방의 불량배가	NNP
+지속되지 아니하고	NNP
+지식과 경험을	NNP
+지식이 많고	NNP
+지옥	NNP
+지위가 낮아지거나	NNP
+지위가 낮은	NNP
+지위가 높고	NNP
+지위를 얻지 못하다	NNP
+지위를 얻지 못함	NNP
+지위를 잃다	NNP
+지저분하게	NNP
+지저분하게 널려	NNP
+지저분하게 늘어져	NNP
+지저분하고	NNP
+지저분하고 더럽다	NNP
+지저분하다	NNP
+지저분한	NNP
+지저분한 모양	NNP
+지저분함이 없이	NNP
+지적이고	NNP
+지적이다	NNP
+지적인	NNP
+지지	NNP
+지지 아니하고	NNP
+지쳐	NNP
+지쳐 있음을	NNP
+지쳐 피곤하다	NNP
+지쳐 피곤함	NNP
+지쳐 힘들다	NNP
+지쳐서	NNP
+지치거나	NNP
+지치고	NNP
+지친	NNP
+지켜야 할 도리	NNP
+지켜지지 않고	NNP
+지키지 못하고	NNP
+지키지 못하여	NNP
+지키지 않고	NNP
+지키지 않은	NNP
+지혜	NNP
+지혜가	NNP
+지혜가 계발되고	NNP
+지혜가 뛰어나다	NNP
+지혜가 뛰어남	NNP
+지혜가 많은	NNP
+지혜가 밝다	NNP
+지혜로	NNP
+지혜로부터	NNP
+지혜로써	NNP
+지혜로우며	NNP
+지혜로우며 점잖은	NNP
+지혜로운	NNP
+지혜롭고	NNP
+지혜롭고 밝은	NNP
+지혜롭다	NNP
+지혜를	NNP
+지혜를 성취함	NNP
+지혜를 아울러	NNP
+지혜를 얻어	NNP
+지혜와	NNP
+지혜의	NNP
+지혜의 힘	NNP
+지혜이다	NNP
+진국이다	NNP
+진귀하고	NNP
+진귀하고 맛있는	NNP
+진득하기 못하게	NNP
+진득하지 못하게	NNP
+진득하지 못하다	NNP
+진리	NNP
+진리를	NNP
+진리를 깨닫고자	NNP
+진리를 깨닫는	NNP
+진리를 깨달아	NNP
+진리를 깨달은	NNP
+진리를 밝힘	NNP
+진리를 증득	NNP
+진리와	NNP
+진리와 아름다움	NNP
+진물	NNP
+진물 따위가	NNP
+진물이	NNP
+진물이 괴어	NNP
+진물이 나오면서	NNP
+진물이 나와	NNP
+진물이 많이 나오면서	NNP
+진실	NNP
+진실된	NNP
+진실을	NNP
+진실하고	NNP
+진실하고 올바른	NNP
+진실하여	NNP
+진실한	NNP
+진실한 가르침	NNP
+진실한 도리	NNP
+진실한 마음으로	NNP
+진실한 의의	NNP
+진저리	NNP
+진저리가	NNP
+진저리가 나도록	NNP
+진저리가 날	NNP
+진절머리	NNP
+진절머리 나는	NNP
+진정되어	NNP
+진정하다	NNP
+진중하지 못한	NNP
+진지충	NNP
+진집을	NNP
+진집을 내는	NNP
+진집을 내다	NNP
+진취적	NNP
+진취적이다	NNP
+진취적인	NNP
+진행되는 병	NNP
+질겁	NNP
+질겁하다	NNP
+질기다	NNP
+질리다	NNP
+질림	NNP
+질병	NNP
+질병을	NNP
+질병을 앓을	NNP
+질병이	NNP
+질병이 남아	NNP
+질색	NNP
+질색하다	NNP
+질서 없이	NNP
+질서가 없는	NNP
+질서가 없다	NNP
+질식시키거나	NNP
+질이 나쁘고	NNP
+질질 끌다	NNP
+질질 울고	NNP
+질질거리다	NNP
+질투	NNP
+질투로	NNP
+질투심	NNP
+질투하다	NNP
+질환	NNP
+질환의	NNP
+질환의 하나	NNP
+짐	NNP
+짐승을 죽이다	NNP
+집도 없음을	NNP
+집이 허술하여서	NNP
+집적거려	NNP
+집적거리거나	NNP
+집적집적	NNP
+집적집적하다	NNP
+집착을 버린	NNP
+짓궂게	NNP
+짓궂게 굴거나	NNP
+짓궂게 굴다	NNP
+짓궂다	NNP
+짓궂은	NNP
+짓궂은 말이나	NNP
+짓궃게	NNP
+짓궃게 구는	NNP
+짓궃게 굴거나	NNP
+짓궃게 빈정거리는	NNP
+짓궃게 빈정거리다	NNP
+짓궃고	NNP
+짓궃고 밉살스럽게	NNP
+짓궃은	NNP
+짓궃은 데가	NNP
+짓궃은 말이나	NNP
+짓눌러	NNP
+짓눌러서	NNP
+짓무르고	NNP
+짓무르다	NNP
+짓물러	NNP
+짓물러 아픈	NNP
+짓밟는	NNP
+짓밟는 모양	NNP
+짓밟다	NNP
+징그러운	NNP
+징그러울	NNP
+징그러울 때	NNP
+징그럽다	NNP
+징얼거리다	NNP
+징얼징얼	NNP
+징얼징얼하다	NNP
+징징거리다	NNP
+징징대다	NNP
+징징하다	NNP
+짖궂게	NNP
+짖궂게 건드리는	NNP
+짖궂게 건드리다	NNP
+짖궂게 달라붙어	NNP
+짖궂게 빈정거리는	NNP
+짖궂게 빈정거리다	NNP
+짖궂은	NNP
+짖궂은 데가	NNP
+짖궂은 말이나	NNP
+짖궂은 행동이나	NNP
+ㅉㅉ	NNP
+짜그라트리다	NNP
+짜르르대다	NNP
+짜릿하다	NNP
+짜이지 못하고	NNP
+짜증	NNP
+짜증나는	NNP
+짜증나다	NNP
+짜증난	NNP
+짜증내다	NNP
+짜증니 나는	NNP
+짜증스럽다	NNP
+짜증을	NNP
+짜증을 내는	NNP
+짜증을 내다	NNP
+짜증을 내며	NNP
+짜증이	NNP
+짜증이 나거나	NNP
+짜증이 나는	NNP
+짜증이 날 때	NNP
+짜지다	NNP
+짝남	NNP
+짝녀	NNP
+짤뚜룩대다	NNP
+짧다	NNP
+짭짭대다	NNP
+쩔쩔매거나	NNP
+쩔쩔매는	NNP
+쩔쩔매는 모양	NNP
+쩔쩔맴을	NNP
+쩝쩝대다	NNP
+쪼들려서	NNP
+쪼들리게	NNP
+쪼들리게 살림을	NNP
+쪼들린	NNP
+쪼들린 탓으로	NNP
+쭈그러들게	NNP
+쭈그러들게 되다	NNP
+쭈그러들다	NNP
+쭈그러듦	NNP
+쭈그러져	NNP
+쭈그러져 볼품없이	NNP
+쭈그러져 작아지다	NNP
+쭈그렁이	NNP
+쭈글쭈글한	NNP
+쭈글쭈글한 늙은이를	NNP
+찌그러져	NNP
+찌그러트리다	NNP
+찌꺼기	NNP
+찌꺼기 따위가	NNP
+찌들고	NNP
+찌르듯이	NNP
+찌푸리는	NNP
+찌푸리는 모양	NNP
+찐따	NNP
+찔찔대다	NNP
+찝쩍대다	NNP
+찝찝하다	NNP
+찡그리다	NNP
+찡찡대다	NNP
+찡찡이	NNP
+찡찡한	NNP
+찡찡한 사람을	NNP
+찢어져	NNP
+찢어져 어지럽게	NNP
+찢어진	NNP
+찢어진 곳을	NNP
+ㅊㅋ	NNP
+차가운 듯하다	NNP
+차가움을	NNP
+차가움을 느낄	NNP
+차거나 싫은	NNP
+차도남	NNP
+차도녀	NNP
+차리지 못하고	NNP
+차마	NNP
+차별 없이	NNP
+차분하지 못하고	NNP
+차분하지 못하여	NNP
+차분하지 않은	NNP
+차지 아니하여	NNP
+차지 아니하여서	NNP
+차지 않아	NNP
+착실하다	NNP
+착실하지 못하게	NNP
+착실하지 못하고	NNP
+착실하지 못하다	NNP
+착실하지 못하며	NNP
+착실하지 못하여	NNP
+착실하지 않아	NNP
+착실한	NNP
+착실한 맛	NNP
+착잡하거나	NNP
+착잡하거나 언짢은	NNP
+착착 달라붙을	NNP
+착취하여	NNP
+착하고	NNP
+착하고 평등한	NNP
+착하고 훌륭한	NNP
+착하다	NNP
+착하여	NNP
+착하여 도덕적	NNP
+착하지 못함을	NNP
+착하지 않음을	NNP
+착한	NNP
+착한 마음을	NNP
+착한 벗이	NNP
+착한 사람을	NNP
+착한 체함을	NNP
+착한 행실을	NNP
+착함을 좋아하는	NNP
+찬 기운과	NNP
+찬 느낌이	NNP
+찬 태도로	NNP
+찬란하거나	NNP
+찬란하거나 화려하다	NNP
+찬란하거나 화려함	NNP
+찬란하다	NNP
+찬미하는	NNP
+찬미하는 노래	NNP
+찬미한	NNP
+찬미한 글	NNP
+찬사	NNP
+찬양	NNP
+찬양하는	NNP
+찬양하는 뜻으로	NNP
+찬양하다	NNP
+찬양함	NNP
+찬찬하고	NNP
+찬찬하다	NNP
+찬찬하며	NNP
+찬찬하며 실하게	NNP
+찬찬하지 못하거나	NNP
+찬찬하지 못하고	NNP
+찬찬한	NNP
+찬찬한 모양	NNP
+찬칭하다	NNP
+찬탄하고	NNP
+찬탄하는	NNP
+찬탄하는 노래	NNP
+찬탄하는 의미로	NNP
+찬탄하여	NNP
+찬탄한	NNP
+찬탄한 글	NNP
+찬한 사람의	NNP
+참거나	NNP
+참견하는	NNP
+참견하는 모양	NNP
+참견하는 짓을	NNP
+참견하다	NNP
+참견하여	NNP
+참견하여 나서다	NNP
+참고 견디다	NNP
+참기 어려울	NNP
+참다못한	NNP
+참다못해	NNP
+참다운	NNP
+참다운 경지	NNP
+참다운 지혜로	NNP
+참담하다	NNP
+참담한	NNP
+참담한 형편이나	NNP
+참답게	NNP
+참되고	NNP
+참되고 성실한	NNP
+참되고 순결한	NNP
+참되고 올바르다	NNP
+참되고 지극할	NNP
+참되고 착실하다	NNP
+참된	NNP
+참된 가르침	NNP
+참된 도리	NNP
+참된 뜻에	NNP
+참된 마음	NNP
+참된 모습을	NNP
+참된 인간	NNP
+참된 증거	NNP
+참된 지혜로부터	NNP
+참신하다	NNP
+참신한	NNP
+참실하다	NNP
+참으로	NNP
+참으로 진짜	NNP
+참을 수 없다	NNP
+참을 수가 없어서	NNP
+참을성이 없어	NNP
+참지 못하고	NNP
+참형에	NNP
+참형에 처한	NNP
+참혹하게	NNP
+참혹하기	NNP
+참혹하기 짝이 없고	NNP
+참혹하다	NNP
+참혹하여	NNP
+참혹한	NNP
+참혹한 모습이나	NNP
+참혹함을	NNP
+참혹함을 느끼어	NNP
+참회의 공덕으로	NNP
+창녀	NNP
+창렬	NNP
+창렬스러운	NNP
+창렬이네	NNP
+창백한	NNP
+창백한 얼굴을	NNP
+창의적	NNP
+창의적이다	NNP
+창의적인	NNP
+창조성이 없이	NNP
+창조적인	NNP
+창피	NNP
+창피스럽다	NNP
+창피스레	NNP
+창피하게	NNP
+창피하게 생각하여	NNP
+창피하다	NNP
+창피하여	NNP
+창피한	NNP
+창피한 느낌	NNP
+창황하다	NNP
+채신없이	NNP
+채신없이 거볍게	NNP
+채신없이 행동하는	NNP
+채신없이 행동하다	NNP
+책망	NNP
+책망하거나	NNP
+책망하다	NNP
+책망함	NNP
+책임 죄를	NNP
+책임감	NNP
+책임감 있는	NNP
+책임감있는	NNP
+책임을 회피하려고	NNP
+책임지고	NNP
+처량하고	NNP
+처량하고 슬프게	NNP
+처량하고 슬프다	NNP
+처량히	NNP
+처리를 못하고	NNP
+처리하기 어려움	NNP
+처리하기 어려워서	NNP
+처리하기 어렵다	NNP
+처리하는 재주	NNP
+처리하지 못하고	NNP
+처리하지 않고	NNP
+처벌을	NNP
+처벌하여	NNP
+처연하다	NNP
+처지가 나빠지다	NNP
+처지가 안되고	NNP
+처지는	NNP
+처지는 모양	NNP
+처참하게	NNP
+처참하다	NNP
+처참히	NNP
+천박	NNP
+천박하게	NNP
+천박하게 까무스름하다	NNP
+천박하고	NNP
+천박하고 못된	NNP
+천박하다	NNP
+천박한	NNP
+천사	NNP
+천식	NNP
+천식 따위로	NNP
+천진하게	NNP
+천진하게 웃는	NNP
+천천히 부자연스럽게	NNP
+천하고	NNP
+천하다	NNP
+천하의 폭군을	NNP
+천한	NNP
+천한 사람	NNP
+천한 사람을	NNP
+천한 사람이나	NNP
+천한 일을	NNP
+철없는	NNP
+철없는 아이가	NNP
+철저하고	NNP
+철저하고 바르다	NNP
+철저하다	NNP
+철저하지 못하게	NNP
+철저하지 못하다	NNP
+철컹철컹	NNP
+청결하다	NNP
+청결한	NNP
+청정하며	NNP
+체면이 깍이는	NNP
+체면이 깎이는	NNP
+체면이 깎일	NNP
+체하며 시치미를	NNP
+체하여	NNP
+체한 채로	NNP
+쳐들어가거나	NNP
+쳐들어오다	NNP
+쳐들어옴	NNP
+쳐부수는	NNP
+쳐부수는 일	NNP
+초라하고	NNP
+초라하고 가엾게	NNP
+초라하다	NNP
+초라한	NNP
+초라한 데가	NNP
+초라한 집을	NNP
+초상이	NNP
+초상이 나다	NNP
+초월	NNP
+초월한	NNP
+초조	NNP
+초조하고	NNP
+초조하고 불안하다	NNP
+초조하고 불안하여	NNP
+초조하고 안타깝다	NNP
+초조하다	NNP
+초조한	NNP
+초조한 모양	NNP
+초조해지고	NNP
+촌스러운	NNP
+촌스럽고	NNP
+촌스럽다	NNP
+촐랑거리며	NNP
+촐싹대다	NNP
+총명하고	NNP
+최고	NNP
+최고 품질	NNP
+최고급	NNP
+최고의	NNP
+최고의 경지에	NNP
+최고의 아름다움	NNP
+최상	NNP
+최상급	NNP
+최상의	NNP
+최상의 것	NNP
+최악	NNP
+최악의	NNP
+최저가	NNP
+최적의	NNP
+최적화	NNP
+최적화하다	NNP
+최절	NNP
+최좌	NNP
+추궁을	NNP
+추근대다	NNP
+추악해지다	NNP
+추운	NNP
+추운 듯하다	NNP
+추워서	NNP
+추워서 갑자기	NNP
+추위	NNP
+추잡하다	NNP
+추잡한	NNP
+추잡한 데가	NNP
+추저분하게	NNP
+추저분하다	NNP
+추저분한	NNP
+추진하다	NNP
+추천하다	NNP
+추하고	NNP
+추하다	NNP
+축 늘어져	NNP
+축 처지거나	NNP
+축냄	NNP
+축복	NNP
+축복받다	NNP
+축복하다	NNP
+축하	NNP
+축하하거나	NNP
+축하하거나 기리는	NNP
+축하하거나 찬양하는	NNP
+축하하다	NNP
+축하함	NNP
+출려	NNP
+출세시켜	NNP
+출세시켜 준	NNP
+출세하여	NNP
+출혈	NNP
+출혈 때에	NNP
+출혈이 심하여	NNP
+출혈하기 쉬운	NNP
+춤을	NNP
+춤을 추다	NNP
+춥거나	NNP
+춥거나 무섭거나	NNP
+춥지 아니하고	NNP
+충격	NNP
+충격 따위가	NNP
+충격으로	NNP
+충격을	NNP
+충격을 받아	NNP
+충격을 받아서	NNP
+충격을 받았을	NNP
+충격이 커서	NNP
+충공깽	NNP
+충동적	NNP
+충분하게	NNP
+충분하고	NNP
+충분하고 넉넉하게	NNP
+충분하다	NNP
+충분하지 못하다	NNP
+충분하지 아니하다	NNP
+충분한 만족	NNP
+충분한 만족과	NNP
+충분해서	NNP
+충분히	NNP
+충분히 마련되다	NNP
+충분히 만족스럽다	NNP
+충분히 익히다	NNP
+충성	NNP
+충성스러운	NNP
+충성을	NNP
+충성을 겸손하게	NNP
+충성이라는	NNP
+충성이라는 뜻으로	NNP
+충성하다	NNP
+충실하지 않고	NNP
+충족되어	NNP
+충치가	NNP
+충치가 되는	NNP
+취약하다	NNP
+취약한	NNP
+취존	NNP
+취직하다	NNP
+취향을 저격하다	NNP
+측은	NNP
+측은스럽다	NNP
+측은지심	NNP
+측은하다	NNP
+치료가 잘못되었을	NNP
+치료하는	NNP
+치료하다	NNP
+치매가	NNP
+치미는 모양	NNP
+치밀어	NNP
+치밀어 오르는	NNP
+치밀어 오르다	NNP
+치밀하지 못하여	NNP
+치사하고	NNP
+치사하고 더러워	NNP
+치사하여	NNP
+치욕	NNP
+치욕스럽다	NNP
+치우치게	NNP
+치우치게 사랑함	NNP
+치우침이 없음	NNP
+치우침이 없이	NNP
+치우침지 아니하다	NNP
+치적이 좋지 못한	NNP
+치통	NNP
+칙칙하다	NNP
+칙칙한	NNP
+칙칙함	NNP
+친구	NNP
+친근하고	NNP
+친근하고 존경스럽거나	NNP
+친근하다	NNP
+친밀하게	NNP
+친밀하게 여기거나	NNP
+친밀하게 지내는	NNP
+친밀하게 하다	NNP
+친밀하다	NNP
+친밀한	NNP
+친밀한 관계를	NNP
+친밀한 사이를	NNP
+친밀함	NNP
+친밀히	NNP
+친밀히 사랑하다	NNP
+친밀히 사랑함	NNP
+친숙해지다	NNP
+친애	NNP
+친애롭다	NNP
+친애하다	NNP
+친절	NNP
+친절하게	NNP
+친절하다	NNP
+친절한	NNP
+친절한 마음씨	NNP
+친하게	NNP
+친하게 지내는	NNP
+친하게 지내다	NNP
+친하다	NNP
+친하지 아니하여	NNP
+친한	NNP
+친한 사람	NNP
+친한 체하면서	NNP
+친화적인	NNP
+칠칠하지 못하다	NNP
+칠칠한	NNP
+침울하고	NNP
+침울하고 무겁다	NNP
+침을 뱉듯이	NNP
+침을 뱉어	NNP
+침착하지 못하거나	NNP
+침착하지 못하게	NNP
+침착하지 못하고	NNP
+침착하지 못하여	NNP
+침체되다	NNP
+침침하다	NNP
+침침한	NNP
+침침한 모양	NNP
+침침해지다	NNP
+침해당거나	NNP
+침해당한	NNP
+침해당한 사람이	NNP
+침해당할	NNP
+침해당할 염려가	NNP
+침해한	NNP
+칭미하다	NNP
+칭송하는	NNP
+칭송하는 말	NNP
+칭송할	NNP
+칭송할 때	NNP
+칭송함	NNP
+칭양하다	NNP
+칭예하다	NNP
+칭찬	NNP
+칭찬받다	NNP
+칭찬을	NNP
+칭찬을 받을	NNP
+칭찬하고	NNP
+칭찬하는	NNP
+칭찬하는 말	NNP
+칭찬하다	NNP
+칭찬하여	NNP
+칭찬하여 말하다	NNP
+칭찬하여 말함	NNP
+칭찬할 만한	NNP
+칭찬함	NNP
+칭찬해	NNP
+칭찬해 줄	NNP
+ㅋㄷ	NNP
+칼빵	NNP
+캄캄한	NNP
+캄캄한 방에서	NNP
+캐리	NNP
+캣맘	NNP
+컴컴하다	NNP
+컹스	NNP
+케미	NNP
+코를 골다	NNP
+코에 종기가	NNP
+코와이네	NNP
+콜록콜록하는	NNP
+쾌감	NNP
+쾌조	NNP
+쾌활하게	NNP
+쾌활하게 웃다	NNP
+쾌활하다	NNP
+쾌활한	NNP
+쿨룩대다	NNP
+쿨룽대다	NNP
+크거나 무겁거나	NNP
+크게 감동이	NNP
+크게 감동하는	NNP
+크게 감동하다	NNP
+크게 감동함	NNP
+크게 감탄할	NNP
+크게 노함	NNP
+크게 실망하다	NNP
+크게 실망함	NNP
+크게 우는	NNP
+크게 움츠러드는	NNP
+크게 웃는	NNP
+크게 위태로움을	NNP
+크게 칭찬하여	NNP
+크게 칭찬함	NNP
+크고 너그럽다	NNP
+크고 아름답다	NNP
+크고 웅장한	NNP
+크고 튼튼하여	NNP
+크고 힘차게	NNP
+크고 힘차다	NNP
+크다	NNP
+큰 결함	NNP
+큰 공덕이	NNP
+큰 덕	NNP
+큰 불행을	NNP
+큰 성과가	NNP
+큰 수익을	NNP
+큰 재주	NNP
+큰 칭찬	NNP
+큰 타격을	NNP
+클라스	NNP
+키가 커서	NNP
+킹왕짱	NNP
+타격을	NNP
+타격을 받아	NNP
+타격을 입어	NNP
+타당하다	NNP
+타당한	NNP
+타들어	NNP
+타들어 가는	NNP
+타륵	NNP
+타분하다	NNP
+타협점을 찾아	NNP
+탁 트여	NNP
+탁 트이고	NNP
+탁 트이다	NNP
+탁월하다	NNP
+탁월한	NNP
+탁하다	NNP
+탄력 있게	NNP
+탄력 있고	NNP
+탄력이	NNP
+탄력이 있게	NNP
+탄력이 있는	NNP
+탄력이 있다	NNP
+탄력이 있으며	NNP
+탄복하다	NNP
+탄복할	NNP
+탄복할 만하다	NNP
+탄복함	NNP
+탄식	NNP
+탄식 따위를	NNP
+탄식하다	NNP
+탄식하여	NNP
+탄식할	NNP
+탄식할 만하게	NNP
+탄식할 만한	NNP
+탄식함	NNP
+탄탄하다	NNP
+탈	NNP
+탈 따위가	NNP
+탈 없이	NNP
+탈영	NNP
+탈음증	NNP
+탈이	NNP
+탈이 나서	NNP
+탈이 생겨서	NNP
+탈이 생기다	NNP
+탈이 없다	NNP
+탈이 없이	NNP
+탈진	NNP
+탈진하다	NNP
+탐관오리가	NNP
+탐내거나	NNP
+탐내는	NNP
+탐내는 마음으로	NNP
+탐내어	NNP
+탐내어 가지려고	NNP
+탐묵	NNP
+탐묵하다	NNP
+탐스러운	NNP
+탐스러운 데가	NNP
+탐스러운 모양	NNP
+탐스러울	NNP
+탐스러울 정도로	NNP
+탐스럽게	NNP
+탐스럽게 웃다	NNP
+탐스럽게 쥐거나	NNP
+탐스럽게 피어나는	NNP
+탐스럽고 귀엽게	NNP
+탐스럽고 복스러운	NNP
+탐스럽다	NNP
+탐욕스러운	NNP
+탐욕스러운 사람을	NNP
+탐욕스러워진다는	NNP
+탐욕이	NNP
+탐욕이 많아서	NNP
+탐탁지 아니하게	NNP
+탐탁하지 아니하고	NNP
+탐하는	NNP
+탐하는 마음	NNP
+탐하는 마음을	NNP
+탐하는 일	NNP
+탐하는 짓	NNP
+탐하다	NNP
+탐하여	NNP
+탓하거나	NNP
+탓하거나 불평을	NNP
+탓하다	NNP
+탕진잼	NNP
+탕평	NNP
+탕평하다	NNP
+태도가 거만하고	NNP
+태도가 괴상하고	NNP
+태도가 떳떳하다	NNP
+태도가 부드럽고	NNP
+태도가 상냥하고	NNP
+태도가 의젓하고	NNP
+태도나 버릇	NNP
+태도를 본받아	NNP
+태업	NNP
+태우다	NNP
+태우며 조급하게	NNP
+태움	NNP
+태평하게	NNP
+태평하게 사는	NNP
+태평한	NNP
+태평한 세상	NNP
+터무니없거나	NNP
+터무니없거나 어처구니없다고	NNP
+터무니없는	NNP
+터무니없는 고집을	NNP
+터무니없이	NNP
+터무니없이 없어지거나	NNP
+텁텁하게	NNP
+텁텁하다	NNP
+텁텁하여	NNP
+텁텁한	NNP
+텁텁한 모양	NNP
+토끼다	NNP
+토달거리는	NNP
+토달거리는 모양	NNP
+토달거리다	NNP
+토라져	NNP
+토라져 있다	NNP
+토라져서	NNP
+토라지는	NNP
+토라지는 사람을	NNP
+토라지다	NNP
+토역질하다	NNP
+토하고	NNP
+토하고 싶은	NNP
+토하는	NNP
+토하는 증상	NNP
+토하는 증세	NNP
+토하다	NNP
+토하려고	NNP
+토하려고 하다	NNP
+토할	NNP
+토할 것	NNP
+토할 듯한	NNP
+토할 때	NNP
+톨톨대다	NNP
+통과되다	NNP
+통달하고	NNP
+통달하는	NNP
+통달하는 일	NNP
+통달하여	NNP
+통달한	NNP
+통원하다	NNP
+통증	NNP
+통증을	NNP
+통증을 느끼는	NNP
+통쾌	NNP
+통쾌감	NNP
+통쾌하다	NNP
+통탄하다	NNP
+통하다	NNP
+통하지 못하게	NNP
+통하지 못하여	NNP
+통하지 못한	NNP
+통하지 아니하다	NNP
+통하지 않고	NNP
+투덜거리는	NNP
+투덜거리는 모양	NNP
+투덜거리다	NNP
+투덜대는	NNP
+투덜대는 모양	NNP
+투덜대다	NNP
+투박하다	NNP
+투박한	NNP
+투박한 모양	NNP
+퉁명스러운	NNP
+퉁명스러운 데가	NNP
+퉁퉁하게	NNP
+퉁퉁하게 살이	NNP
+퉁퉁하다	NNP
+트렌디하다	NNP
+트롤	NNP
+트인 맛이	NNP
+트집 잡다	NNP
+트집을	NNP
+트집을 잡다	NNP
+트집을 잡아	NNP
+트집을 잡으며	NNP
+트집을 잡히어	NNP
+트집이나	NNP
+특권	NNP
+특별하다	NNP
+특별하지 아니하다	NNP
+특별한	NNP
+특별한 마음가짐이나	NNP
+특별한 사랑과	NNP
+특별히 뛰어나다	NNP
+특이하다	NNP
+특이하여 우습게	NNP
+특이하여 우습다	NNP
+특출하게	NNP
+특출하게 뛰어나다	NNP
+튼튼하게	NNP
+튼튼하게 지탱하다	NNP
+튼튼하게 하다	NNP
+튼튼하다	NNP
+튼튼하여	NNP
+튼튼하지 못하고	NNP
+튼튼하지 못하다	NNP
+튼튼하지 못하여	NNP
+튼튼히	NNP
+틀딱	NNP
+틀딱충	NNP
+틀리거나	NNP
+틀리거나 그릇되게	NNP
+틀리다	NNP
+틀린	NNP
+틀림이 없이	NNP
+틀어지게 하다	NNP
+틀어지다	NNP
+틀어진	NNP
+틀어진 마음으로	NNP
+티 없이	NNP
+티가 없다	NNP
+티격태격하는	NNP
+티격태격하는 것을	NNP
+파괴	NNP
+파괴 행위	NNP
+파괴되어	NNP
+파괴되어 멸망되다	NNP
+파괴되어 멸망함	NNP
+파괴와	NNP
+파괴하다	NNP
+파괴하여	NNP
+파괴하여 멸망시키다	NNP
+파오후	NNP
+파오후 쿰척쿰척	NNP
+파울	NNP
+파출하다	NNP
+판단력을 잃다	NNP
+판단이 정확하고	NNP
+판단하여 수긍하다	NNP
+판단하지 못하는	NNP
+팔다리가 붓고	NNP
+팔다리가 쑤시고	NNP
+팔자 사나운	NNP
+팔팔 뛰는	NNP
+팔팔 뛰다	NNP
+팔팔하다	NNP
+팔한 지옥의	NNP
+패가망신한다는	NNP
+패배	NNP
+패배 따위의	NNP
+패배를 거듭한다는	NNP
+패배하다	NNP
+패하고	NNP
+패하고 난	NNP
+패하다	NNP
+팽개치다	NNP
+퍼져서 흥하다	NNP
+퍽 옹골차고	NNP
+펄펄 뛰는	NNP
+페널티	NNP
+펴지 못하거나	NNP
+펴지 못하게	NNP
+펴지 못하는	NNP
+펴지 못하다	NNP
+펴지 못함	NNP
+펴지지 못하고	NNP
+편견	NNP
+편두통	NNP
+편리	NNP
+편리성	NNP
+편리하게	NNP
+편리하게 이용할	NNP
+편리하고	NNP
+편리하다	NNP
+편리하지 않은	NNP
+편안	NNP
+편안하게	NNP
+편안하게 다스림	NNP
+편안하고	NNP
+편안하고 고요하게	NNP
+편안하고 고요함	NNP
+편안하고 조용한	NNP
+편안하고 한가하게	NNP
+편안하다	NNP
+편안하지 못하다	NNP
+편안하지 못하여	NNP
+편안하지 아니하게	NNP
+편안하지 아니하다	NNP
+편안하지 아니하여서	NNP
+편안하지 아니함	NNP
+편안하지 않다는	NNP
+편안한	NNP
+편안한 느낌	NNP
+편안한 느낌이	NNP
+편안한 삶을	NNP
+편안한 세월	NNP
+편안히	NNP
+편안히 잔다는	NNP
+편안히 지냄을	NNP
+편안히 하다	NNP
+편애	NNP
+편애하다	NNP
+편치 못하고	NNP
+편하게	NNP
+편하게 되다	NNP
+편하게 하다	NNP
+편하고	NNP
+편하고 순조롭게	NNP
+편하고 이로우며	NNP
+편하다	NNP
+편하지 못하다	NNP
+편하지 못한	NNP
+편하지 아니하고	NNP
+편하지 아니하다	NNP
+편하지 아니함	NNP
+편하지 않고	NNP
+편하지 않은	NNP
+편하지 않음	NNP
+편한	NNP
+편한 마음으로	NNP
+편히	NNP
+편히 가지다	NNP
+편히 가짐	NNP
+평등하다	NNP
+평등하다는	NNP
+평등한	NNP
+평등한 천성	NNP
+평등함을	NNP
+평안하다	NNP
+평안하여	NNP
+평안한	NNP
+평안한 마음으로	NNP
+평안함	NNP
+평안히	NNP
+평안히 지내다	NNP
+평안히 지냄	NNP
+평온	NNP
+평온무사	NNP
+평온무사하다	NNP
+평온하다	NNP
+평온하지 못하고	NNP
+평온히	NNP
+평탄하다	NNP
+평화로운	NNP
+평화로운 상태가	NNP
+평화로움	NNP
+평화롭게	NNP
+평화롭게 지내자고	NNP
+평화롭다	NNP
+평화를	NNP
+평화를 주장하는	NNP
+폐가 상하여	NNP
+폐결핵	NNP
+폐렴	NNP
+폐를 끼쳐서	NNP
+폐를 끼쳤을	NNP
+포괄적인 경험	NNP
+포근하게	NNP
+포근하게 따뜻이	NNP
+포근하고	NNP
+포근하고 아늑한	NNP
+포근하다	NNP
+포근한	NNP
+포근한 느낌	NNP
+포근한 모양	NNP
+포기	NNP
+포기하고	NNP
+포기하고 돌아보지	NNP
+포기하다	NNP
+포살되다	NNP
+포악하다	NNP
+포악하며	NNP
+포악하며 드센	NNP
+포악한	NNP
+포악한 성격	NNP
+포악한 성격을	NNP
+포악한 성질	NNP
+포학한	NNP
+폭 주저앉다	NNP
+폭군	NNP
+폭군을	NNP
+폭력	NNP
+폭력으로	NNP
+폭력을	NNP
+폭력을 써서	NNP
+폭력을 쓰면서	NNP
+폭력적	NNP
+폭발적이다	NNP
+폭이 넓고	NNP
+폭행	NNP
+폭행이나	NNP
+폭행이나 위협을	NNP
+폭행하다	NNP
+표리부동한	NNP
+표리부동한 사람을	NNP
+표정을 꾸며서	NNP
+표정이 환하다	NNP
+표현이 진실하여	NNP
+푸근푸근히	NNP
+푸근하게	NNP
+푸근하게 부드럽고	NNP
+푸근하고	NNP
+푸근하고 흐뭇하게	NNP
+푸념을	NNP
+푸지다	NNP
+푸짐하다	NNP
+푹 쓰러져	NNP
+푹 주저앉는	NNP
+풀기가 빠져	NNP
+풀리어 거뜬하다	NNP
+풀리어 흐뭇하고	NNP
+풀리지 않다	NNP
+풀리지 않아	NNP
+풀어지지 아니하여서	NNP
+풀이 꺾이거나	NNP
+풀이 죽게	NNP
+풀이 죽은	NNP
+풀이 죽음	NNP
+품격	NNP
+품격과 도리	NNP
+품격을	NNP
+품격을 갖추는	NNP
+품고 미워하다	NNP
+품에 안다	NNP
+품위	NNP
+품위가 있거나	NNP
+품위가 있다	NNP
+품절남	NNP
+품절녀	NNP
+품질이 우수한	NNP
+품질이 좋고	NNP
+품질이 좋은	NNP
+품행이 단정하지 못하고	NNP
+품행이 뛰어난	NNP
+품행이 천박하고	NNP
+풍년이	NNP
+풍년이 들	NNP
+풍모가 있게	NNP
+풍미있는	NNP
+풍부하다	NNP
+풍성풍성히	NNP
+풍성하게	NNP
+풍성하고	NNP
+풍성하고 아름답게	NNP
+풍성하고 아름답다	NNP
+풍요로워지다	NNP
+풍요롭다	NNP
+풍자하였다	NNP
+풍채가 훤하여	NNP
+풍치가 있고	NNP
+피	NNP
+피가	NNP
+피가 나고	NNP
+피가 부족한	NNP
+피가 섞인	NNP
+피고름이	NNP
+피곤을	NNP
+피곤을 느끼는	NNP
+피곤이나	NNP
+피곤하거나	NNP
+피곤하다	NNP
+피곤함	NNP
+피꺼솟	NNP
+피난함	NNP
+피눈물	NNP
+피로	NNP
+피로 따위가	NNP
+피로감	NNP
+피로를	NNP
+피로를 느끼고	NNP
+피로하여	NNP
+피부병	NNP
+피부병 증상	NNP
+피부병을 앓아	NNP
+피부염	NNP
+피어나지 못하고	NNP
+피핍하다	NNP
+피하거나	NNP
+피하거나 싫어하다	NNP
+피하는	NNP
+피하는 모양	NNP
+피해	NNP
+핀잔	NNP
+핀잔 따위를	NNP
+핀잔을	NNP
+핀잔을 주거나	NNP
+핀잔을 주는	NNP
+필수	NNP
+필요 없이	NNP
+필요가 없이	NNP
+필요하거나 아쉽다	NNP
+필요하고	NNP
+필요하고 절실하게	NNP
+필요하고 절실하다	NNP
+필요한 상태에	NNP
+핏기가 없고	NNP
+핏기가 없는	NNP
+핏기가 없다	NNP
+핏기가 없이	NNP
+ㅎㅎ	NNP
+하기가 까다로워	NNP
+하기가 어렵다	NNP
+하기를	NNP
+하기를 바라는	NNP
+하기를 바람	NNP
+하나하나 어수선하게	NNP
+하는 둥	NNP
+하는 둥 마는 둥	NNP
+하는 지경	NNP
+하늘하늘하다	NNP
+하드캐리	NNP
+하등으로 깎아내리다	NNP
+하릴없이 굶는	NNP
+하소연이나	NNP
+하소연하는	NNP
+하소연하는 것	NNP
+하소연하다	NNP
+하잘것없다	NNP
+하지 못하게	NNP
+하지 못하고	NNP
+하지 못하는	NNP
+하지 못하다	NNP
+하지 못하여	NNP
+하지 아니하다	NNP
+하지 않고	NNP
+하지 않는	NNP
+하지 않다	NNP
+하찮게	NNP
+하찮게 내버려지거나	NNP
+하찮게 대하다	NNP
+하찮게 대함	NNP
+하찮게 여겨	NNP
+하찮게 여기다	NNP
+하찮고	NNP
+하찮고 보잘것없다	NNP
+하찮다	NNP
+하찮은	NNP
+하찮은 목숨	NNP
+하찮은 사람	NNP
+하찮은 사람들이	NNP
+하찮은 사람이나	NNP
+하찮은 일	NNP
+하찮은 일로	NNP
+하찮은 일에도	NNP
+하찮은 일을	NNP
+하찮은 처지에	NNP
+학대받다	NNP
+학대하는	NNP
+학대하다	NNP
+학문이	NNP
+학문이 뛰어난	NNP
+학식이 뛰어나	NNP
+학식이 많고	NNP
+학식이 아주 뛰어나고	NNP
+한가하게	NNP
+한가하게 지냄을	NNP
+한가하고	NNP
+한가하고 태평하게	NNP
+한결같다	NNP
+한결같은	NNP
+한결같은 사랑으로	NNP
+한결같이	NNP
+한결같이 부지런하고	NNP
+한계	NNP
+한뜻	NNP
+한마디로 거절하거나	NNP
+한마음	NNP
+한마음 한뜻	NNP
+한숨	NNP
+한숨 따위를	NNP
+한숨 쉬며	NNP
+한숨을	NNP
+한숨을 쉬거나	NNP
+한숨을 쉬다	NNP
+한숨을 쉬며	NNP
+한숨을 쉼	NNP
+한숨이나	NNP
+한숨짓다	NNP
+한스럽게	NNP
+한스럽게 여기다	NNP
+한스럽다	NNP
+한심하다	NNP
+한심한	NNP
+한이 되는	NNP
+한증	NNP
+한쪽만을 치우치게	NNP
+한쪽으로 귀엽게	NNP
+한쪽으로 기울어지거나	NNP
+한창 왕성하다	NNP
+한탄	NNP
+한탄스러울	NNP
+한탄스러울 때	NNP
+한탄스럽다	NNP
+한탄스레	NNP
+한탄하다	NNP
+한탄하여	NNP
+한탄하여 한숨을	NNP
+한탄함	NNP
+한평생 같이	NNP
+할딱대다	NNP
+할인	NNP
+할인되다	NNP
+할인하다	NNP
+함께	NNP
+함께 기뻐하는	NNP
+함께 늙음	NNP
+함께 일하다	NNP
+함부로	NNP
+함부로 간섭하거나	NNP
+함부로 거만하게	NNP
+함부로 고기는	NNP
+함부로 고기다	NNP
+함부로 구는	NNP
+함부로 굴다	NNP
+함부로 까불거나	NNP
+함부로 꼬집거나	NNP
+함부로 날뛰다	NNP
+함부로 날뜀	NNP
+함부로 낳다	NNP
+함부로 놀리는	NNP
+함부로 놀리다	NNP
+함부로 대답함	NNP
+함부로 덤비거나	NNP
+함부로 들부수어	NNP
+함부로 들추거나	NNP
+함부로 들추어	NNP
+함부로 때리는	NNP
+함부로 마구	NNP
+함부로 말을 하다	NNP
+함부로 말하는	NNP
+함부로 발길질을	NNP
+함부로 버려지다	NNP
+함부로 빼앗아	NNP
+함부로 사격함	NNP
+함부로 손대거나	NNP
+함부로 스다	NNP
+함부로 써서	NNP
+함부로 쓰거나	NNP
+함부로 쓰는	NNP
+함부로 쓰다	NNP
+함부로 씀	NNP
+함부로 우악스럽게	NNP
+함부로 자꾸	NNP
+함부로 잡아다거	NNP
+함부로 젓거나	NNP
+함부로 죽임	NNP
+함부로 지껄이다	NNP
+함부로 참혹하게	NNP
+함부로 캐는	NNP
+함부로 캐다	NNP
+함부로 파내다	NNP
+함부로 풀다	NNP
+함부로 하는	NNP
+함부로 하다	NNP
+함부로 행동하는	NNP
+함부로 행동하다	NNP
+함부로 행동하여	NNP
+함정	NNP
+함정에	NNP
+함정에 빠지게	NNP
+합격하다	NNP
+합당치 못한	NNP
+합리적	NNP
+합리적으로	NNP
+합리적이다	NNP
+합리적인	NNP
+합리적인 경향의	NNP
+항거를	NNP
+항거를 함	NNP
+항문이 간지럽고	NNP
+항의하여	NNP
+항의하여 나서다	NNP
+해	NNP
+해가	NNP
+해가 되는	NNP
+해가 될까	NNP
+해결되다	NNP
+해결되어	NNP
+해결되어 마음이	NNP
+해결하거나	NNP
+해결하거나 처리하다	NNP
+해결해	NNP
+해결해 주다	NNP
+해고하다	NNP
+해내다	NNP
+해낼	NNP
+해낼 수	NNP
+해로운	NNP
+해로운 일이	NNP
+해로운 현상	NNP
+해로움이나	NNP
+해로움이나 손실이	NNP
+해롭다	NNP
+해롱대다	NNP
+해를 끼치는	NNP
+해를 끼치다	NNP
+해를 끼침	NNP
+해를 받다	NNP
+해를 입다	NNP
+해를 입음	NNP
+해어져서	NNP
+해어지게	NNP
+해어지게 하여	NNP
+해지거나	NNP
+해지거나 찢어져	NNP
+해지거나 찢어지다	NNP
+해지고	NNP
+해지고 찢어진	NNP
+해지어	NNP
+해쳐서	NNP
+해쳐서 말하다	NNP
+해치거나	NNP
+해치거나 죽이는	NNP
+해치다	NNP
+해치려고	NNP
+해치려다가	NNP
+해칠	NNP
+해침	NNP
+해학	NNP
+해학 소설	NNP
+해학적인	NNP
+해학적인 내용으로	NNP
+햇볕이 따뜻하고	NNP
+햇볕이 잘	NNP
+햇빛이 밝다	NNP
+행동으로 위협하다	NNP
+행동을 꾸며	NNP
+행동을 밉살스럽게	NNP
+행동을 비웃거나	NNP
+행동을 비웃는	NNP
+행동을 시원스럽게	NNP
+행동을 터무니없거나	NNP
+행동의 아름다움	NNP
+행동이 가량맞고	NNP
+행동이 건방져	NNP
+행동이 겸손하고	NNP
+행동이 까불까불하고	NNP
+행동이 껄렁껄렁한	NNP
+행동이 느리고	NNP
+행동이 못된	NNP
+행동이 반듯하고	NNP
+행동이 발라서	NNP
+행동이 번듯하고	NNP
+행동이 상스럽고	NNP
+행동이 시원스럽다	NNP
+행동이 실없거나	NNP
+행동이 실없고	NNP
+행동이 씩씩하고	NNP
+행동이 억척스럽고	NNP
+행동이 우악스러운	NNP
+행동이 우악스럽다	NNP
+행동이 점잖은	NNP
+행동이 주제넘고	NNP
+행동이 활달하고	NNP
+행동하기가	NNP
+행동하기가 조심스럽고	NNP
+행동하는	NNP
+행동하지 못하고	NNP
+행동하지 못하도록	NNP
+행방불명	NNP
+행복	NNP
+행복감	NNP
+행복스럽다	NNP
+행복을	NNP
+행복을 함께	NNP
+행복하다	NNP
+행복하지 아니한	NNP
+행복한	NNP
+행복한 생활을	NNP
+행복한 처지나	NNP
+행불	NNP
+행사가 침해당거나	NNP
+행실이 곧고	NNP
+행실이 깨끗하게	NNP
+행실이 나쁘거나	NNP
+행실이 추저분하게	NNP
+행실이 추저분하다	NNP
+행실이 추저분한	NNP
+행실이 추저분한 사람	NNP
+행우하다	NNP
+행운을	NNP
+행운을 누림	NNP
+행운의	NNP
+행위를 죄악이라고	NNP
+행패를 부리고	NNP
+행하던 형벌	NNP
+향기가	NNP
+향기가 있다	NNP
+향기가 좋고	NNP
+향기로운	NNP
+향상	NNP
+향상시키다	NNP
+허기가 져서	NNP
+허는	NNP
+허는 증상	NNP
+허덕이다	NNP
+허둥거리는	NNP
+허둥거리며	NNP
+허둥대어	NNP
+허둥지둥하다	NNP
+허락도 없이	NNP
+허락되다	NNP
+허락하여	NNP
+허락하여 베풀어	NNP
+허락하지 아니함	NNP
+허랑방탕한	NNP
+허랑방탕한 생활을	NNP
+허름하고	NNP
+허름하고 잡스러운	NNP
+허름하고 잡스럽다	NNP
+허리가 아픈	NNP
+허망한	NNP
+허무	NNP
+허무감	NNP
+허무에서	NNP
+허무에서 오는	NNP
+허무하다	NNP
+허무한	NNP
+허무한 느낌	NNP
+허물없이 사귀다	NNP
+허물을	NNP
+허물을 너그럽게	NNP
+허물이 없이	NNP
+허물이 있어	NNP
+허물이나	NNP
+허병	NNP
+허비하는	NNP
+허비하는 짓	NNP
+허사가	NNP
+허사가 되어	NNP
+허섭쓰레기	NNP
+허세를	NNP
+허세를 부리다	NNP
+허세를 부림	NNP
+허술하여서	NNP
+허술한	NNP
+허술한 데가	NNP
+허술한 점	NNP
+허실 없이	NNP
+허약하다	NNP
+허약하여	NNP
+허약하여져서	NNP
+허약하여진	NNP
+허약한	NNP
+허약한 사람	NNP
+허약한 증상이	NNP
+허약할	NNP
+허약할 때	NNP
+허약해져서	NNP
+허약해지다	NNP
+허약해진	NNP
+허용하지 아니함	NNP
+허전하거나	NNP
+허전하고	NNP
+허전하고 쓸쓸함	NNP
+허전하다	NNP
+허전한	NNP
+허전한 느낌	NNP
+허전한 느낌이	NNP
+허접	NNP
+허접스럽다	NNP
+허접쓰레기	NNP
+허접하다	NNP
+허찮은 일로	NNP
+허탕이	NNP
+허탕이 되어	NNP
+허탕하다	NNP
+허풍을	NNP
+허풍을 치는	NNP
+허풍을 치다	NNP
+허풍을 치며	NNP
+허하여	NNP
+허황되게	NNP
+허황되게 행동하다	NNP
+허황되다	NNP
+허황된	NNP
+허황된 모양	NNP
+허황하고	NNP
+허황하며	NNP
+허황한	NNP
+허황한 것을	NNP
+헉헉대다	NNP
+헌데가 곪느라고	NNP
+헌데가 생겨서	NNP
+헌데나	NNP
+헌식적이다	NNP
+헌신적	NNP
+헌신적인	NNP
+헐거나	NNP
+헐거워서	NNP
+헐겁고	NNP
+헐겁고 허전한	NNP
+헐게	NNP
+헐게 된다	NNP
+헐고	NNP
+헐고 너절하다	NNP
+헐떡대다	NNP
+헐뜯거나	NNP
+헐뜯거나 험상궃은	NNP
+헐뜯고	NNP
+헐뜯고 비난하는	NNP
+헐뜯기	NNP
+헐뜯기 위하여	NNP
+헐뜯는	NNP
+헐뜯는 근거	NNP
+헐뜯는 말을	NNP
+헐뜯는 짓	NNP
+헐뜯다	NNP
+헐뜯어	NNP
+헐뜯어 말하는	NNP
+헐뜯어서	NNP
+헐뜯으려고	NNP
+헐뜯음	NNP
+헐려서 무너지다	NNP
+헐어서	NNP
+헐어서 짓물러	NNP
+헐어지거나	NNP
+헐어지거나 깨어지다	NNP
+헐었거나	NNP
+헐었거나 무지러져서	NNP
+험상궂게	NNP
+험상궂고	NNP
+험상궂은	NNP
+험상궂은 데가	NNP
+험상궂은 욕	NNP
+험상궂은 욕을	NNP
+험상궃은	NNP
+험상궃은 욕을	NNP
+험상스럽다	NNP
+험상하고	NNP
+험하고	NNP
+험하고 무섭다	NNP
+험하다	NNP
+험하여	NNP
+험한	NNP
+험한 벼랑에서	NNP
+험한 일	NNP
+험한 장난이나	NNP
+험한 짓을	NNP
+험한 행동을	NNP
+헛갈리다	NNP
+헛되이	NNP
+헛된	NNP
+헛된 명성	NNP
+헛된 이야기만을	NNP
+헛된 행동만	NNP
+헛디디거나	NNP
+헛디디는	NNP
+헛디디는 모양	NNP
+헛디디다	NNP
+헛배가 부르다	NNP
+헛소리	NNP
+헛소리나	NNP
+헛소리를	NNP
+헛소리를 하거나	NNP
+헛헛한	NNP
+헛헛한 느낌이	NNP
+헝클어져	NNP
+헝클어져 까칠하게	NNP
+헝클어져 꺼칠하게	NNP
+헝클어져 있는	NNP
+헝클어져 있다	NNP
+헝클어지거나	NNP
+헤매다	NNP
+헤아리지 아니하고	NNP
+헤아리지 않고	NNP
+헤어나지 못하다	NNP
+헤어나지 못한다는	NNP
+헤어지게	NNP
+헤어지게 되다	NNP
+헤프게	NNP
+헤프게 쓰다	NNP
+헤프지 않다	NNP
+헷갈리어	NNP
+혀를 차는	NNP
+혁신	NNP
+혁신적으로	NNP
+혁신적인	NNP
+혁신주의자	NNP
+현기증	NNP
+현기증을	NNP
+현기증이	NNP
+현기증이 나서	NNP
+현기증이 생겨서	NNP
+현명하게	NNP
+현명하다	NNP
+현명한	NNP
+현숙한	NNP
+현숙한 여자	NNP
+현시창	NNP
+현실을 극복하고	NNP
+현저하게 떨어지는	NNP
+현피	NNP
+혈압이 떨어지거나	NNP
+혐오	NNP
+혐오감	NNP
+혐오감을	NNP
+혐오감을 주는	NNP
+혐오스럽다	NNP
+혐오증	NNP
+혐오하다	NNP
+혐짤	NNP
+협박	NNP
+협박과	NNP
+협박장을	NNP
+협박장을 보내거나	NNP
+협박하다	NNP
+형벌	NNP
+형벌에 처함	NNP
+형벌을 가하다	NNP
+형벌을 감하여	NNP
+형벌의	NNP
+형벌하는	NNP
+형벌하는 권세	NNP
+형세가 뒤바뀌어	NNP
+형세가 위태롭게	NNP
+형세가 위태롭다	NNP
+형편없게	NNP
+형편없게 됨을	NNP
+형편없는	NNP
+형편없다	NNP
+형편을 돕다	NNP
+형편이 딱하게	NNP
+형편이 어려워	NNP
+형편이 어려워서	NNP
+혜택	NNP
+혜택을	NNP
+혜택을 받다	NNP
+혜택을 받음	NNP
+혜택을 베풂	NNP
+혜택이	NNP
+혜택이 있다	NNP
+혜택이나	NNP
+혜택이나 덕택을	NNP
+호감	NNP
+호감갖다	NNP
+호감있다	NNP
+호감정	NNP
+호감하다	NNP
+호강하다	NNP
+호갱	NNP
+호갱님	NNP
+호되게	NNP
+호되게 꾸지람을	NNP
+호되게 뒤집어쓰는	NNP
+호되게 비판하다	NNP
+호되게 재촉하여	NNP
+호된	NNP
+호된 타격을	NNP
+호들갑스럽게	NNP
+호의	NNP
+호의나	NNP
+호의나 도움	NNP
+호의적	NNP
+호의적이다	NNP
+호의적인	NNP
+호의호식하며	NNP
+호화롭고	NNP
+호화롭고 편안한	NNP
+호화스럽다	NNP
+호흡 곤란	NNP
+호흡 장애로	NNP
+호흡곤란	NNP
+호흡이 곤란하여지는	NNP
+호흡이 곤란한	NNP
+혹하여 달뜬	NNP
+혹하여 달뜸	NNP
+혼내는	NNP
+혼내는 소리	NNP
+혼란스러운	NNP
+혼란스럽게	NNP
+혼란스럽고	NNP
+혼란스럽다	NNP
+혼란스럽지 아니하다	NNP
+혼란에 빠진	NNP
+혼란하게	NNP
+혼란하게 하다	NNP
+혼모노	NNP
+혼미하여지는	NNP
+혼미하여지는 증상	NNP
+혼미한	NNP
+혼미한 상태가	NNP
+혼미해지고	NNP
+혼미해지는	NNP
+혼미해지는 모양	NNP
+혼이 나는	NNP
+혼이 나서	NNP
+혼인	NNP
+혼자서 욕으로	NNP
+혼잣말로 불만스럽게	NNP
+혼쭐을	NNP
+혼쭐을 내다	NNP
+홀가분해지다	NNP
+홀로	NNP
+홀로 되거나	NNP
+홀로 쓸쓸히	NNP
+홀린 듯	NNP
+화	NNP
+화 따위가	NNP
+화가	NNP
+화가 나	NNP
+화가 나거나	NNP
+화가 나다	NNP
+화가 나서	NNP
+화가 난	NNP
+화가 치밀고	NNP
+화기	NNP
+화기애애한	NNP
+화기애애한 때를	NNP
+화나	NNP
+화나게	NNP
+화나게 하다	NNP
+화나고	NNP
+화나고 원통하게	NNP
+화나고 원통하다	NNP
+화나다	NNP
+화내다	NNP
+화답하며	NNP
+화답하며 정답게	NNP
+화려하게	NNP
+화려하게 꾸밈	NNP
+화려하게 하다	NNP
+화려하고	NNP
+화려하고 아름답게	NNP
+화려하다	NNP
+화려한	NNP
+화려한 데가	NNP
+화려함	NNP
+화를	NNP
+화를 내거나	NNP
+화를 내는	NNP
+화를 내다	NNP
+화를 벌컥	NNP
+화를 스스로 부름을	NNP
+화목하게	NNP
+화목하고	NNP
+화목하고 화기애애한	NNP
+화목하다	NNP
+화목한	NNP
+화목한 분위기가	NNP
+화목함	NNP
+화미하다	NNP
+화사하다	NNP
+화음	NNP
+화재	NNP
+화창하여	NNP
+화창한	NNP
+화창한 봄날에	NNP
+화창한 봄날의	NNP
+화풀이	NNP
+화풀이를	NNP
+화풀이를 하다	NNP
+화합	NNP
+화합하는	NNP
+화합하다	NNP
+화해하거나	NNP
+확보하다	NNP
+확신을	NNP
+확신을 가지고	NNP
+확신이 상실된	NNP
+확실하게	NNP
+확실하고	NNP
+확실하고 굳은	NNP
+확실하다	NNP
+확짝 트이어	NNP
+환각 증상	NNP
+환상	NNP
+환상이다	NNP
+환상적인	NNP
+환성을	NNP
+환성을 올리며	NNP
+환성을 울리며	NNP
+환영하다	NNP
+환자	NNP
+환자의 병	NNP
+환처가	NNP
+환하게	NNP
+환하게 깨끗하다	NNP
+환하게 맑다	NNP
+환하게 빛나며	NNP
+환하게 알고	NNP
+환하게 웃는	NNP
+환하게 웃다	NNP
+환하게 자꾸	NNP
+환하고	NNP
+환하고 부드럽게	NNP
+환하고 좋아	NNP
+환하다	NNP
+환한	NNP
+환한 모양	NNP
+환함	NNP
+활기	NNP
+활기 있는	NNP
+활기 있다	NNP
+활기가	NNP
+활기가 없거나	NNP
+활기가 없고	NNP
+활기가 없다	NNP
+활기가 없어	NNP
+활기가 없음	NNP
+활기가 있는	NNP
+활기가 있다	NNP
+활기를	NNP
+활기를 띠게	NNP
+활기를 잃은	NNP
+활기에 찬	NNP
+활달하고	NNP
+활달하고 서글서글한	NNP
+활동하기에 편하게	NNP
+활동하기에 편하다	NNP
+활동하지 못하게	NNP
+활력	NNP
+활력 넘치는	NNP
+활력 넘치다	NNP
+활발하고	NNP
+활발하고 생기가	NNP
+활발하다	NNP
+활발하지 못하고	NNP
+활발하지 못하다	NNP
+활발한	NNP
+활발한 모양	NNP
+활짝 트이어	NNP
+황당한	NNP
+황당한 일에	NNP
+황소고집	NNP
+황송한	NNP
+황천길	NNP
+황폐화	NNP
+황홀	NNP
+황홀감	NNP
+황홀하다	NNP
+황홀한	NNP
+회개	NNP
+회개하다	NNP
+회복되다	NNP
+회복하기 어려운	NNP
+회복하다	NNP
+획기적으로	NNP
+획기적으로 발전시키는	NNP
+획기적이다	NNP
+획기적인	NNP
+효과적	NNP
+효과적으로	NNP
+효과적이다	NNP
+효과적인	NNP
+효도를 다하다	NNP
+효도하다	NNP
+효력을 잃게	NNP
+효율적인	NNP
+후련하게	NNP
+후련하게 하는	NNP
+후련하고	NNP
+후련하고 상쾌하다	NNP
+후련하고 상쾌한	NNP
+후련하다	NNP
+후련한	NNP
+후련한 모양	NNP
+후하게 대접함	NNP
+후회	NNP
+후회막심하다	NNP
+후회스럽다	NNP
+후회하다	NNP
+후회하여도	NNP
+훈훈하다	NNP
+훌륭하거나	NNP
+훌륭하거나 굉장하다	NNP
+훌륭하거나 남에게	NNP
+훌륭하거나 뛰어나	NNP
+훌륭하거나 좋거나	NNP
+훌륭하게	NNP
+훌륭하고	NNP
+훌륭하고 갸륵한	NNP
+훌륭하고 뛰어난	NNP
+훌륭하고 바른	NNP
+훌륭하고 아름다움	NNP
+훌륭하다	NNP
+훌륭하지 아니하다	NNP
+훌륭한	NNP
+훌륭한 것이나	NNP
+훌륭한 경치	NNP
+훌륭한 글	NNP
+훌륭한 기술	NNP
+훌륭한 도	NNP
+훌륭한 마음가짐	NNP
+훌륭한 부처의	NNP
+훌륭한 사람	NNP
+훌륭한 사람의	NNP
+훌륭한 업적이나	NNP
+훌륭한 예술	NNP
+훌륭한 음식	NNP
+훌륭한 이야기	NNP
+훌륭한 인격이나	NNP
+훌륭한 인물	NNP
+훌륭한 인물이	NNP
+훌륭한 인물이나	NNP
+훌륭한 인재	NNP
+훌륭한 일을	NNP
+훌륭한 재능	NNP
+훌륭한 저서	NNP
+훌륭한 집안	NNP
+훌륭한 특성	NNP
+훌륭한 품성	NNP
+훌륭한 품위	NNP
+훌륭한 행실을	NNP
+훔쳐	NNP
+훔쳐 가지는	NNP
+훔쳐 가지다	NNP
+훔치거나	NNP
+훔치거나 빼앗는	NNP
+훔치는	NNP
+훔치는 짓	NNP
+훔치다	NNP
+훔치려고	NNP
+훔친다는	NNP
+훔침으로써	NNP
+훤칠	NNP
+훤칠하다	NNP
+훤하게	NNP
+훤하고	NNP
+훤하고 깨끗하게	NNP
+훤하고 멀끔하게	NNP
+훤하고 멀끔한	NNP
+훤하고 칠칠한	NNP
+훤하다	NNP
+훤하여	NNP
+훤하여 훌륭하다	NNP
+훨씬 두드러지다	NNP
+훨씬 뛰어나다	NNP
+훼방	NNP
+훼방 놓기	NNP
+훼방을	NNP
+훼방을 놓는	NNP
+훼방을 놓다	NNP
+훼방하거나	NNP
+훼방하다	NNP
+훼손	NNP
+훼손하다	NNP
+휘몰아 나무라다	NNP
+휘우듬하게 흔들리는	NNP
+휘우듬하게 흔들리다	NNP
+휘청거리며	NNP
+휘청거리며 걷는	NNP
+휭하니	NNP
+휴식	NNP
+휴식하다	NNP
+휼륭한 소리나	NNP
+흉괴하다	NNP
+흉년이	NNP
+흉망스럽다	NNP
+흉망스레	NNP
+흉몽	NNP
+흉물	NNP
+흉물스럽다	NNP
+흉물스레	NNP
+흉보다	NNP
+흉악	NNP
+흉악망측	NNP
+흉악망측스럽다	NNP
+흉악망측스레	NNP
+흉악망측하다	NNP
+흉악무도	NNP
+흉악무도하다	NNP
+흉악범	NNP
+흉악성	NNP
+흉악하게	NNP
+흉악하고	NNP
+흉악하고 포악한	NNP
+흉악하다	NNP
+흉악한	NNP
+흉악한 데가	NNP
+흉악한 마음	NNP
+흉악한 범죄	NNP
+흉악한 성질	NNP
+흉악함	NNP
+흉악히	NNP
+흉을	NNP
+흉을 보거나	NNP
+흉을 보다	NNP
+흉측	NNP
+흉측스럽다	NNP
+흉측스레	NNP
+흉측하거나	NNP
+흉측하다	NNP
+흉측히	NNP
+흉터	NNP
+흉터가	NNP
+흉터가 남는다	NNP
+흉터가 생겨	NNP
+흉포성	NNP
+흉하거나	NNP
+흉하거나 끔찍하다	NNP
+흉하게	NNP
+흉하게 많이	NNP
+흉하게 보이다	NNP
+흉하게 생긴	NNP
+흉하게 하다	NNP
+흉하게 헝클어져	NNP
+흉하고	NNP
+흉하고 괴상한	NNP
+흉하다	NNP
+흉하다고	NNP
+흉하다고 하는	NNP
+흉한	NNP
+흉한 몰골로	NNP
+흉한 물건을	NNP
+흉할	NNP
+흉할 정도로	NNP
+흉흉히	NNP
+흐느껴	NNP
+흐느껴 우는	NNP
+흐느껴 울거나	NNP
+흐느낄	NNP
+흐느낄 때	NNP
+흐느낌	NNP
+흐느적흐느적	NNP
+흐들감스럽다	NNP
+흐들갑	NNP
+흐들갑스럽다	NNP
+흐들갑스레	NNP
+흐려지다	NNP
+흐름이 순탄하게	NNP
+흐름이 적절하게	NNP
+흐리고	NNP
+흐리고 어둑하다	NNP
+흐리고 얼떨떨하다	NNP
+흐리다	NNP
+흐리멍덩하게	NNP
+흐리멍덩하게 하거나	NNP
+흐리멍덩하게 하는	NNP
+흐리멍덩하게 하다	NNP
+흐리멍덩하다	NNP
+흐리멍덩하며	NNP
+흐리멍덩하여	NNP
+흐리멍덩한	NNP
+흐리멍덩한 모양	NNP
+흐리지 않고	NNP
+흐린	NNP
+흐림	NNP
+흐릿함이 없이	NNP
+흐뭇하거나	NNP
+흐뭇하게	NNP
+흐뭇하게 하다	NNP
+흐뭇하고	NNP
+흐뭇하고 가뿐하게	NNP
+흐뭇하고 가뿐하다	NNP
+흐뭇하고 가뿐한	NNP
+흐뭇하고 기쁘게	NNP
+흐뭇하고 기쁘다	NNP
+흐뭇하고 만족스러운	NNP
+흐뭇하고 만족스럽다	NNP
+흐뭇하고 즐겁게	NNP
+흐뭇하고 즐겁다	NNP
+흐뭇하고 흡족하다	NNP
+흐뭇하고 흡족한	NNP
+흐뭇하다	NNP
+흐뭇하여	NNP
+흐뭇한	NNP
+흐뭇한 듯이	NNP
+흐뭇한 맛	NNP
+흐뭇할	NNP
+흐뭇할 정도로	NNP
+흐뭇함	NNP
+흐지부지	NNP
+흐지부지하게	NNP
+흐지부지하다	NNP
+흐트러져	NNP
+흐트러져 있는	NNP
+흐트러짐이 없음	NNP
+흐트러짐이 없이	NNP
+흐트러집이 없이	NNP
+흑역사	NNP
+흑인 노예	NNP
+흑흑대다	NNP
+흔들림 없이	NNP
+흔모	NNP
+흔모하다	NNP
+흔히 기쁜	NNP
+흘겨보는 모양	NNP
+흘겨보다	NNP
+흘리다	NNP
+흘흘	NNP
+흙빛과	NNP
+흠모	NNP
+흠모하다	NNP
+흠애	NNP
+흠애하다	NNP
+흠을	NNP
+흠을 들추어	NNP
+흠을 들추어내어	NNP
+흠을 잡거나	NNP
+흠이 나서	NNP
+흠이 되는	NNP
+흠이 없고	NNP
+흠이 없는	NNP
+흠이 없다	NNP
+흠이나	NNP
+흠이나 결점	NNP
+흠좀무	NNP
+흠집이 없이	NNP
+흡만하다	NNP
+흡수되지 않고	NNP
+흡족	NNP
+흡족하게	NNP
+흡족하게 웃는	NNP
+흡족하다	NNP
+흡족하여	NNP
+흡족하지 아니하나	NNP
+흡족하지 아니하다	NNP
+흡족하지 않음	NNP
+흡족한	NNP
+흡족한 마음이나	NNP
+흥감	NNP
+흥감스럽다	NNP
+흥감스레	NNP
+흥감하다	NNP
+흥겨운	NNP
+흥겨운 멋이나	NNP
+흥겨운 멋이나 기분	NNP
+흥겨운 신이나	NNP
+흥겹게	NNP
+흥겹게 놀리며	NNP
+흥겹게 느끼다	NNP
+흥겹게 느낌	NNP
+흥겹게 타는	NNP
+흥겹고	NNP
+흥겹고 귀엽게	NNP
+흥겹다	NNP
+흥그럽다	NNP
+흥글거리다	NNP
+흥글방망이놀다	NNP
+흥글벙글	NNP
+흥글벙글하다	NNP
+흥글흥글	NNP
+흥글흥글하다	NNP
+흥뚱항뚱	NNP
+흥미	NNP
+흥미 있고	NNP
+흥미가	NNP
+흥미가 나게	NNP
+흥미나	NNP
+흥미나 열성이	NNP
+흥미롭다	NNP
+흥미를 끌다	NNP
+흥미를 끌지 못하고	NNP
+흥미와	NNP
+흥분되고	NNP
+흥분되고 떨리는	NNP
+흥분이나 아픔 괴로움 따위가 수그러들거나 사라지다	NNP
+흥분하거나 불안할	NNP
+흥분하는	NNP
+흥분하다	NNP
+흥에	NNP
+흥에 겨워	NNP
+흥을 돋우려고	NNP
+흥이	NNP
+흥이 꺾여	NNP
+흥이 나서	NNP
+흥청	NNP
+흥청거리다	NNP
+흥청대다	NNP
+흥청망청	NNP
+흥청망청하다	NNP
+흥청벙청	NNP
+흥청흥청	NNP
+흥청흥청하다	NNP
+흥취	NNP
+흥취 있게	NNP
+흥하다	NNP
+흥행	NNP
+흥행되다	NNP
+흥행작	NNP
+흥행하다	NNP
+흥행화하다	NNP
+흩어지지 않게	NNP
+희고	NNP
+희고 말쑥하다	NNP
+희고 멀끔하게	NNP
+희고 멀끔하다	NNP
+희고 멀끔한	NNP
+희고 멀쑥하게	NNP
+희고 멀쑥한	NNP
+희다	NNP
+희떠운	NNP
+희떠운 짓이나	NNP
+희떱게	NNP
+희떱게 으스대며	NNP
+희락	NNP
+희롱질하다	NNP
+희롱하다	NNP
+희롱해롱	NNP
+희롱해롱하다	NNP
+희롱희롱	NNP
+희롱희롱하다	NNP
+희룽거리다	NNP
+희룽대다	NNP
+희룽해롱	NNP
+희룽해롱하다	NNP
+희룽희룽	NNP
+희룽희룽하다	NNP
+희룽히룽	NNP
+희말쑥하다	NNP
+희망	NNP
+희망 매매	NNP
+희망없는	NNP
+희망을	NNP
+희망을 가지다	NNP
+희망을 잃고	NNP
+희망을 잃다	NNP
+희망을 잃음	NNP
+희망이 없는	NNP
+희망적	NNP
+희망차고	NNP
+희망차다	NNP
+희멀끔	NNP
+희멀끔하다	NNP
+희멀끔히	NNP
+희멀쑥	NNP
+희멀쑥이	NNP
+희멀쑥하다	NNP
+희미하고	NNP
+희미하다	NNP
+희미해져서	NNP
+희박하다	NNP
+희희	NNP
+희희거리다	NNP
+희희낙락	NNP
+희희낙락거리다	NNP
+희희낙락대다	NNP
+희희낙락하다	NNP
+희희대다	NNP
+희희덕	NNP
+희희덕거리다	NNP
+희희덕대다	NNP
+희희덕희희덕	NNP
+희희덕희희덕하다	NNP
+희희호호	NNP
+힁하다	NNP
+힁허케	NNP
+히든카드	NNP
+히들거리다	NNP
+히들머들	NNP
+히들머들하다	NNP
+히들히들	NNP
+히들히들하다	NNP
+히뜰머뜰	NNP
+히뜰머뜰하다	NNP
+히벌쭉거리다	NNP
+히벌쭉대다	NNP
+히살스럽다	NNP
+히살스레	NNP
+히스테리	NNP
+히죽	NNP
+히죽거리다	NNP
+히죽대다	NNP
+히죽벌쭉	NNP
+히죽벌쭉하다	NNP
+히죽비죽	NNP
+히죽비죽하다	NNP
+히죽이	NNP
+히죽이다	NNP
+히죽하다	NNP
+히죽해죽	NNP
+히죽해죽하다	NNP
+히죽히죽	NNP
+히죽히죽하다	NNP
+히쭉	NNP
+히쭉이	NNP
+히쭉이다	NNP
+히쭉하다	NNP
+히쭉해쭉	NNP
+히쭉해쭉하다	NNP
+히쭉히쭉	NNP
+히쭉히쭉하다	NNP
+히히거리다	NNP
+히히대다	NNP
+힐난	NNP
+힐난조	NNP
+힐난하다	NNP
+힘 약한	NNP
+힘 있게	NNP
+힘겨웁다	NNP
+힘겹게	NNP
+힘겹게 걸어가는	NNP
+힘겹다	NNP
+힘과 용기를	NNP
+힘든	NNP
+힘든 과정임을	NNP
+힘든 세상	NNP
+힘들	NNP
+힘들 때에	NNP
+힘들 만큼	NNP
+힘들 정도로	NNP
+힘들거나	NNP
+힘들게	NNP
+힘들다	NNP
+힘들어지고	NNP
+힘들어지다	NNP
+힘들여	NNP
+힘들여 누는	NNP
+힘들여 눌	NNP
+힘들이지 않고	NNP
+힘삐치다	NNP
+힘쓰다	NNP
+힘없는	NNP
+힘없는 걸음으로	NNP
+힘없는 다리로	NNP
+힘없다	NNP
+힘없은 걸음으로	NNP
+힘없이	NNP
+힘없이 거꾸러지는	NNP
+힘없이 끌려가는	NNP
+힘없이 넘어지거나	NNP
+힘없이 몰아쉬는	NNP
+힘없이 쑥쑥	NNP
+힘없이 앉다	NNP
+힘없이 주저앉는	NNP
+힘없이 처질	NNP
+힘없이 행동하는	NNP
+힘없이 행동하다	NNP
+힘없이 흐느적흐느적	NNP
+힘에 겨워	NNP
+힘에 겹거나	NNP
+힘에 겹게	NNP
+힘에 눌려	NNP
+힘에 벅차	NNP
+힘에 부쳐	NNP
+힘에 부치는 데가 있다	NNP
+힘을 가지고	NNP
+힘을 다하다	NNP
+힘을 다하여	NNP
+힘을 다함	NNP
+힘을 들였으나	NNP
+힘을 들이고	NNP
+힘을 못 쓰게	NNP
+힘을 잃거나	NNP
+힘을 잃게	NNP
+힘을 잃고	NNP
+힘을 합하여	NNP
+힘이 가득하고	NNP
+힘이 강하다	NNP
+힘이 기운차게	NNP
+힘이 다 빠져	NNP
+힘이 되어	NNP
+힘이 들거나	NNP
+힘이 뛰어나다	NNP
+힘이 빠져	NNP
+힘이 약해진	NNP
+힘이 없거나	NNP
+힘이 없는	NNP
+힘이 없는 사람을	NNP
+힘이 없다	NNP
+힘이 없어	NNP
+힘이 없어서	NNP
+힘이 없음을	NNP
+힘이 있게	NNP
+힘이 있고	NNP
+힘이 있다	NNP
+힘이나 권세 위력 따위가 없이	NNP
+힘차게	NNP
+힘차게 일어남	NNP
+힘차게 진행되는	NNP
+힘차고	NNP
+힘차고 대단한	NNP
+힘차고 튼튼하다	NNP
+힘차다	NNP
+힘찬	NNP
+힘찬 기운이	NNP
+ㅗ	NNP
+ㅜ	NNP
+ㅜ.ㅜ 	NNP
+ㅜ_ㅜ	NNP
+ㅜㅜ 	NNP
+ㅜㅡ	NNP
+ㅠ	NNP
+ㅠ_ㅠ	NNP
+ㅠㅠ 	NNP
+ㅡㅡ	NNP
+섹시하다	NNP
+공포감	NNP
+긴박하다	NNP
+무시무시하다	NNP
+살벌하다	NNP
+스산하다	NNP
+소름끼치다	NNP
+아슬아슬하다	NNP
+달갑다	NNP
+대견하다	NNP
+보기좋다	NNP
+속시원하다	NNP
+신명나다	NNP
+신바람나다	NNP
+원더풀	NNP
+천만다행이다	NNP
+쾌적	NNP
+쾌적한	NNP
+쾌적하다	NNP
+함박웃음	NNP
+경악하다	NNP
+기겁하다	NNP
+기절하다	NNP
+까무러치다	NNP
+당혹하다	NNP
+뜨끔하다	NNP
+뜨악하다	NNP
+만만찮다	NNP
+만만치 않다	NNP
+만만치않다	NNP
+아뿔싸	NNP
+움찔하다	NNP
+개썅년	NNP
+개자식	NNP
+개새끼	NNP
+괘씸하다	NNP
+그년	NNP
+그놈	NNP
+그자식	NNP
+기집년	NNP
+니미	NNP
+노여워하다	NNP
+멸시당하다	NNP
+모멸감	NNP
+모욕적	NNP
+모욕적이다	NNP
+미친개	NNP
+발칙하다	NNP
+버럭	NNP
+버럭대다	NNP
+분통터지다	NNP
+불유쾌하다	NNP
+비딱하다	NNP
+빌어먹을	NNP
+뾰루퉁하다	NNP
+삐치다	NNP
+삐지다	NNP
+삐졌다	NNP
+삐쳤다	NNP
+속썩이다	NNP
+심통	NNP
+심통부리다	NNP
+싸가지없다	NNP
+싸가지없는	NNP
+쌍년	NNP
+쌍놈	NNP
+씨부랄	NNP
+씹새끼	NNP
+우라질	NNP
+옘병할	NNP
+웬수	NNP
+잡놈	NNP
+치욕적	NNP
+가련하다	NNP
+고독하다	NNP
+고독한	NNP
+곤욕스럽다	NNP
+곤욕	NNP
+난처하다	NNP
+난해하다	NNP
+낭패스럽다	NNP
+망연	NNP
+망연자실	NNP
+망연자실하다	NNP
+먹먹하다	NNP
+뼈저리다	NNP
+쓴웃음	NNP
+씁쓸하다	NNP
+아휴	NNP
+외톨이	NNP
+왕따	NNP
+찌질이	NNP
+울부짖다	NNP
+울컥하다	NNP
+으앙	NNP
+음울하다	NNP
+적적하다	NNP
+절규하다	NNP
+죄송하다	NNP
+죄송합니다	NNP
+죄책감	NNP
+주눅들다	NNP
+짠하다	NNP
+찡하다	NNP
+착잡하다	NNP
+처량하다	NNP
+처절하다	NNP
+청승맞다	NNP
+청승궂다	NNP
+청승맞게	NNP
+흑흑	NNP
+고리타분하다	NNP
+신통찮다	NNP
+심드렁하다	NNP
+지긋지긋하다	NNP
+골치아프다	NNP
+기진맥진하다	NNP
+꺼림찍하다	NNP
+찜찜하다	NNP
+꼴불견	NNP
+넌더리나다	NNP
+달갑잖다	NNP
+못미덥다	NNP
+콧웃음치다	NNP
+해괴하다	NNP
+감질나다	NNP
+반신반의하다	NNP
+신비롭다	NNP
+아리송하다	NNP
+알쏭하다	NNP
+알쏭달쏭하다	NNP
